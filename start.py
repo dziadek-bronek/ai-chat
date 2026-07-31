@@ -134,12 +134,7 @@ def read_input_source(folder_path = './'):
     return ''
 
 
-
-
-
-
-
-if not prepare_chat_directory('/home/dtstgseete/ai-chats/gemini/' + 'test-dir2'):
+if not prepare_chat_directory('/home/dtstgseete/ai-chats/gemini/' + 'test-dir3'):
     exit()
 
 # Inicjalizacja klienta Google GenAI (pobiera klucz z .bashrc)
@@ -152,7 +147,7 @@ go = True
 while go == True:
     i = i + 1
 
-    latest_chat_file_name = get_latest_chat_file_by_name('/home/dtstgseete/ai-chats/gemini/' + 'test-dir2')
+    latest_chat_file_name = get_latest_chat_file_by_name('/home/dtstgseete/ai-chats/gemini/' + 'test-dir3')
 
     print(f'latest chat file name: {latest_chat_file_name}\n')
 
@@ -162,7 +157,7 @@ while go == True:
     else:
         conv_state = load_conversation_history(latest_chat_file_name)
 
-    print(f'conv_state loaded {conv_state}\n')
+    # print(f'conv_state loaded {conv_state}\n')
 
     # Próba odczytu z pliku input.txt
     user_input = input("\nTy: ")
@@ -182,6 +177,7 @@ while go == True:
         print("[+] Zakończono sesję.")
         break
                 
+    print(f"\nuser_input:\n{user_input_strip_lower}")
     new_json_entry = types.Content(
         role="user",
         parts=[types.Part.from_text(text=user_input)]
@@ -197,9 +193,9 @@ while go == True:
     )
     
     # 5. Wyświetlamy odpowiedź w terminalu
-    print(f"\nGemini: {response.text}")
-
-
+    print("===========================================")
+    print(f"\nGemini:\n{response.text}")
+    print("===========================================")
 
     """
             model_string = ""
@@ -243,10 +239,10 @@ while go == True:
 
     conv_state.append(new_json_entry)
 
-    print(f'conv_state to write {conv_state}\n')
+    # print(f'conv_state to write {conv_state}\n')
 
     timestamp = int(time.time())
-    init_filepath = os.path.join('/home/dtstgseete/ai-chats/gemini/' + 'test-dir2/', f"chat_{timestamp}.json")
+    init_filepath = os.path.join('/home/dtstgseete/ai-chats/gemini/' + 'test-dir3/', f"chat_{timestamp}.json")
 
     save_conversation_history(init_filepath, conv_state)
 
