@@ -5,6 +5,11 @@ import time
 from pathlib import Path
 
 
+import os
+from google import genai
+from google.genai import types
+
+
 def get_latest_chat_file(folder_path):
     # Szukamy wszystkich plików .json w wskazanym katalogu
     files = glob.glob(os.path.join(folder_path, "*.json"))
@@ -80,10 +85,11 @@ def save_conversation_history(filepath, conv_state):
 
 
 def load_conversation_history(filepath):
-    conv_state = []
     """
     Wczytuje historię z pliku JSON i konwertuje ją na format obiektów Google.
     Format pliku JSON to lista słowników: [{"role": "user"|"model", "text": "treść"}, ...]
+    """
+    conv_state = []
 
     with open(filepath, 'r', encoding='utf-8') as f:
         try:
@@ -99,15 +105,11 @@ def load_conversation_history(filepath):
             parts=[types.Part.from_text(text=item["text"])]
         )
         conv_state.append(google_message)
-    """
 
     return conv_state
 
-
 if not prepare_chat_directory('/home/dtstgseete/ai-chats/gemini/' + 'test-dir'):
     exit
-
-
 
 i = 0
 go = True
@@ -115,11 +117,9 @@ go = True
 while go == True:
     i = i + 1
 
-
     latest_chat_file_name = get_latest_chat_file_by_name('/home/dtstgseete/ai-chats/gemini/' + 'test-dir')
 
     print(f'latest chat file name: {latest_chat_file_name}\n')
-
 
 
     if None == latest_chat_file_name:
@@ -127,7 +127,7 @@ while go == True:
     else:
         conv_state = load_conversation_history(latest_chat_file_name)
 
-    print(f'conv_state on start {conv_state}\n')
+    print(f'conv_state loaded {conv_state}\n')
 
     # user_input = input("\nTy: ")
 
@@ -142,25 +142,20 @@ while go == True:
     answer = f'a{i}'
 
     new_user_message = types.Content(
-        role="user",
-        parts=[types.Part.from_text(text=user_input)]
+        role="model",
+        parts=[types.Part.from_text(text=answer)]
     )
     conv_state.append(new_user_message)
 
-    # if user_input.strip().lower() == 'exit':
-
-
-    print(f'conv_state on start {conv_state}\n')
-
-
+    print(f'conv_state to write {conv_state}\n')
 
     timestamp = int(time.time())
     init_filepath = os.path.join('/home/dtstgseete/ai-chats/gemini/' + 'test-dir/', f"chat_{timestamp}.json")
 
+    save_conversation_history(init_filepath, conv_state)
+
     print(f'{init_filepath}\n')
 
-
-
-
-    go = False
+    if i == 5:
+        go = False
 
