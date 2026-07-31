@@ -30,9 +30,7 @@ def get_latest_chat_file_by_name(folder_path):
         return None
 
     # Sortujemy leksykalnie na podstawie samej nazwy pliku
-    return max(files, key=lambda f: f.name)
-
-
+    return str(max(files, key=lambda f: f.name))
 
 def prepare_chat_directory(folder_path):
     # Sprawdzamy, czy katalog już istnieje
@@ -142,9 +140,7 @@ def read_input_source(folder_path = './'):
 
 
 if not prepare_chat_directory('/home/dtstgseete/ai-chats/gemini/' + 'test-dir2'):
-    exit
-# Inicjalizacja klienta Google GenAI (pobiera klucz z .bashrc)
-client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+    exit()
 
 # Inicjalizacja klienta Google GenAI (pobiera klucz z .bashrc)
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
@@ -176,7 +172,7 @@ while go == True:
     if user_input.strip().lower() == 'f':
         print('czytanie z pliku\n')
         user_input = read_input_source()
-        user_input_strip_lower == user_input.strip().lower()
+        user_input_strip_lower = user_input.strip().lower()
 
     if user_input_strip_lower == '':
         user_input = input("\nBrak pliku input.txt albo pusty")
