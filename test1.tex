@@ -1,0 +1,92 @@
+\documentclass[10pt,a4paper]{article}
+
+% 1. Kodowanie i języki
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[polish]{babel}
+
+% 2. Font o stałej szerokości (Monospaced) dla CAŁEGO dokumentu
+\usepackage{inconsolata}
+\renewcommand{\familydefault}{\ttdefault}
+
+% 3. Marginesy - maksymalne upakowanie tekstu (0.5 cala)
+\usepackage[margin=0.5in]{geometry}
+
+% 4. Interlinia i formatowanie akapitów
+\linespread{0.9}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt}
+
+% 5. Kolory do wizualnego rozróżnienia ról
+\usepackage{xcolor}
+\definecolor{rulecolor}{gray}{0.7}
+
+% 6. Proste makra do oznaczania nadawcy (poprawione definicje)
+\newcommand{\UserTurn}{\textbf{[USER]}\par\medskip}
+\newcommand{\ModelTurn}{\textbf{[GEMINI]}\par\medskip}
+\newcommand{\Separator}{\par\vspace{4pt}\noindent{\color{rulecolor}\rule{\linewidth}{0.4pt}}\par\vspace{6pt}}
+
+\begin{document}
+\UserTurn
+Czesc Gemini. Chce przetestowac jak zapisujesz kontekst rozmowy w jsonie - no wiesz - rola 'model' i 'user'. Daj tutaj jakis tekst jako odpowiedz, niech bedzie reprezentatywny w miare, o jakims poziomie skomplikowania pod wzgledem zapisu (np  znaki specjalne, zagniezdzenia) ale niech to nie bedzie  jakis straszny corner case, worst case. Pozostawiam Tobie pole do wykazania sie.
+\Separator
+\ModelTurn
+Cześć! Bardzo chętnie pomogę Ci w tym teście. 
+
+Przygotowałem dla Ciebie tekst o umiarkowanym stopniu skomplikowania. Znajdziesz w nim polskie znaki diakrytyczne, podstawowe znaczniki formatowania (np. cudzysłowy, apostrofy), proste zagniezdzenia w postaci listy oraz fragment kodu z nawiasami klamrowymi i ukośnikami, które często bywają wyzwaniem przy parsowaniu JSON-a.
+
+Oto treść wiadomości:
+
+***
+
+Analiza zapytania wykazała następujące parametry wejściowe dla modułu "Główny\_Procesor\_V2":
+
+* Status: OK (kod: `200\_SUCCESS`)
+* Ścieżka dostępu: `/api/v1/user/settings\#auth`
+* Komunikat zwrotny: „Operacja zakończona pomyślnie. Zaktualizowano preferencje użytkownika (w tym: język, strefa czasowa oraz tokeny sesji).”
+
+Warto zwrócić uwagę na sekcję konfiguracyjną, która zawiera zagnieżdżone obiekty:
+\begin{verbatim}
+{
+  "system": {
+    "tryb_debugowania": false,
+    "timeout_ms": 5000,
+    "dozwolone_domeny": ["*.example.com", "api.test-env.pl"]
+  }
+}
+\end{verbatim}
+
+Proszę o potwierdzenie odbioru danych oraz informację, czy powyższa struktura spełnia Twoje oczekiwania odnośnie testu kontekstu.
+
+***
+
+Jestem ciekaw, jak Twój skrypt poradzi sobie z zapisem tego do pliku JSON. Daj znać, jak poszło!
+\Separator
+\UserTurn
+Zawartosc Twojej odpowiedzi od slowa 'Czesc' do 'jak poszlo' widze w trybie tekstowym. Zapewne wiesz ze w pliku json bedacym kontekstem tej naszej konwersacji jest to zapisane w taki sposob mniej wiecej:'role' model i 'text': Czesc... jak poszlo. Ten plik json potraktuje jako modelowe wymaganie dla parsera ktorego chce stworzyc. Dobrze sie zrozumielismy, o to Ci chodzilo?
+\Separator
+\ModelTurn
+Tak, doskonale się zrozumieliśmy! 
+
+Dokładnie o to chodzi – moja poprzednia odpowiedź (wraz z całym jej "bogatym" w znaki specjalne, cudzysłowy, znaczniki Markdown i wcięciami wnętrzem) trafiła do pola `text` w obiekcie o `role: "model"` w strukturze JSON zarządzającej naszą konwersacją.
+
+Dla Twojego parsera oznacza to, że musi on sobie radzić z wyzwaniami takimi jak:
+1. **Wielolinijkowość** – znaki nowej linii (`\textbackslash\{\}n`) wewnątrz wartości stringa.
+2. **Cudzysłowy i apostrofy** – które wewnątrz tekstu JSON muszą być odpowiednio esejowane (np. `\textbackslash\{\}"`), aby nie "zamknąć" przedwcześnie wartości klucza `text`.
+3. **Znaki specjalne i formatowanie** – polskie litery (UTF-8), bloki kodu z nawiasami klamrowymi `\{\}` oraz ukośniki `/`.
+
+Jeśli Twój parser poprawnie wyciągnie tę treść i z powrotem złożone drzewo JSON nie wywoła błędów składniowych (np. `JSON.parse()` w JavaScript czy `json.loads()` w Pythonie), to znaczy, że konstrukcja jest jak najbardziej poprawna.
+
+Powodzenia w budowaniu parsera! Daj znać, czy napotkasz jakieś pułapki po drodze.
+\Separator
+\UserTurn
+Dziekuje. Dobra robota.
+\Separator
+\ModelTurn
+Cieszę się, że mogłem pomóc! 
+
+Gdybyś potrzebował jeszcze jakichś danych testowych do parsera (np. z jeszcze bardziej złośliwymi znakami, jak emoji, znaki kontrolne czy zagnieżdżone JSON-y wewnątrz JSON-a) – śmiało wołaj. 
+
+Powodzenia w kodowaniu i miłego dnia!
+\Separator
+\end{document}
