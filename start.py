@@ -19,9 +19,6 @@ def get_latest_chat_file(folder_path):
     return max(files, key=os.path.getmtime)
 
 
-
-
-
 def get_latest_chat_file_by_name(folder_path):
     directory = Path(folder_path)
     files = list(directory.glob("*.json"))
@@ -134,7 +131,7 @@ def read_input_source(folder_path = './'):
     return ''
 
 
-if not prepare_chat_directory('/home/dtstgseete/ai-chats/gemini/' + 'test-dir3'):
+if not prepare_chat_directory('/home/dtstgseete/ai-chats/gemini/' + 'dieta-2026-08-01/'):
     exit()
 
 # Inicjalizacja klienta Google GenAI (pobiera klucz z .bashrc)
@@ -147,7 +144,7 @@ go = True
 while go == True:
     i = i + 1
 
-    latest_chat_file_name = get_latest_chat_file_by_name('/home/dtstgseete/ai-chats/gemini/' + 'test-dir3')
+    latest_chat_file_name = get_latest_chat_file_by_name('/home/dtstgseete/ai-chats/gemini/' + 'dieta-2026-08-01/')
 
     print(f'latest chat file name: {latest_chat_file_name}\n')
 
@@ -164,7 +161,7 @@ while go == True:
 
 
     user_input_strip_lower = user_input.strip().lower()
-    if user_input.strip().lower() == 'f':
+    if user_input_strip_lower== 'f':
         print('czytanie z pliku\n')
         user_input = read_input_source()
         user_input_strip_lower = user_input.strip().lower()
@@ -177,7 +174,7 @@ while go == True:
         print("[+] Zakończono sesję.")
         break
                 
-    print(f"\nuser_input:\n{user_input_strip_lower}")
+    print(f"\nuser_input:\n{user_input}")
     new_json_entry = types.Content(
         role="user",
         parts=[types.Part.from_text(text=user_input)]
@@ -242,7 +239,7 @@ while go == True:
     # print(f'conv_state to write {conv_state}\n')
 
     timestamp = int(time.time())
-    init_filepath = os.path.join('/home/dtstgseete/ai-chats/gemini/' + 'test-dir3/', f"chat_{timestamp}.json")
+    init_filepath = os.path.join('/home/dtstgseete/ai-chats/gemini/' + 'dieta-2026-08-01/', f"chat_{timestamp}.json")
 
     save_conversation_history(init_filepath, conv_state)
 
