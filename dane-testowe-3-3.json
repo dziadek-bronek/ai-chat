@@ -1,0 +1,66 @@
+[
+  {
+    "role": "user",
+    "text": "Czesc Gemini. Chce przetestowac jak zapisujesz kontekst rozmowy w jsonie - no wiesz - rola 'model' i 'user'. Daj tutaj jakis tekst jako odpowiedz, niech bedzie reprezentatywny w miare, o jakims poziomie skomplikowania pod wzgledem zapisu (np  znaki specjalne, zagniezdzenia) ale niech to nie bedzie  jakis straszny corner case, worst case. Pozostawiam Tobie pole do wykazania sie."
+  },
+  {
+    "role": "model",
+    "text": "Cześć! Bardzo chętnie pomogę Ci w tym teście. \n\nPrzygotowałem dla Ciebie tekst o umiarkowanym stopniu skomplikowania. Znajdziesz w nim polskie znaki diakrytyczne, podstawowe znaczniki formatowania (np. cudzysłowy, apostrofy), proste zagniezdzenia w postaci listy oraz fragment kodu z nawiasami klamrowymi i ukośnikami, które często bywają wyzwaniem przy parsowaniu JSON-a.\n\nOto treść wiadomości:\n\n***\n\nAnaliza zapytania wykazała następujące parametry wejściowe dla modułu \"Główny_Procesor_V2\":\n\n* Status: OK (kod: `200_SUCCESS`)\n* Ścieżka dostępu: `/api/v1/user/settings#auth`\n* Komunikat zwrotny: „Operacja zakończona pomyślnie. Zaktualizowano preferencje użytkownika (w tym: język, strefa czasowa oraz tokeny sesji).”\n\nWarto zwrócić uwagę na sekcję konfiguracyjną, która zawiera zagnieżdżone obiekty:\n```json\n{\n  \"system\": {\n    \"tryb_debugowania\": false,\n    \"timeout_ms\": 5000,\n    \"dozwolone_domeny\": [\"*.example.com\", \"api.test-env.pl\"]\n  }\n}\n```\n\nProszę o potwierdzenie odbioru danych oraz informację, czy powyższa struktura spełnia Twoje oczekiwania odnośnie testu kontekstu.\n\n***\n\nJestem ciekaw, jak Twój skrypt poradzi sobie z zapisem tego do pliku JSON. Daj znać, jak poszło!"
+  },
+  {
+    "role": "user",
+    "text": "Zawartosc Twojej odpowiedzi od slowa 'Czesc' do 'jak poszlo' widze w trybie tekstowym. Zapewne wiesz ze w pliku json bedacym kontekstem tej naszej konwersacji jest to zapisane w taki sposob mniej wiecej:'role' model i 'text': Czesc... jak poszlo. Ten plik json potraktuje jako modelowe wymaganie dla parsera ktorego chce stworzyc. Dobrze sie zrozumielismy, o to Ci chodzilo?"
+  },
+  {
+    "role": "model",
+    "text": "Tak, doskonale się zrozumieliśmy! \n\nDokładnie o to chodzi – moja poprzednia odpowiedź (wraz z całym jej \"bogatym\" w znaki specjalne, cudzysłowy, znaczniki Markdown i wcięciami wnętrzem) trafiła do pola `text` w obiekcie o `role: \"model\"` w strukturze JSON zarządzającej naszą konwersacją.\n\nDla Twojego parsera oznacza to, że musi on sobie radzić z wyzwaniami takimi jak:\n1. **Wielolinijkowość** – znaki nowej linii (`\\n`) wewnątrz wartości stringa.\n2. **Cudzysłowy i apostrofy** – które wewnątrz tekstu JSON muszą być odpowiednio esejowane (np. `\\\"`), aby nie \"zamknąć\" przedwcześnie wartości klucza `text`.\n3. **Znaki specjalne i formatowanie** – polskie litery (UTF-8), bloki kodu z nawiasami klamrowymi `{}` oraz ukośniki `/`.\n\nJeśli Twój parser poprawnie wyciągnie tę treść i z powrotem złożone drzewo JSON nie wywoła błędów składniowych (np. `JSON.parse()` w JavaScript czy `json.loads()` w Pythonie), to znaczy, że konstrukcja jest jak najbardziej poprawna.\n\nPowodzenia w budowaniu parsera! Daj znać, czy napotkasz jakieś pułapki po drodze."
+  },
+  {
+    "role": "user",
+    "text": "Dziekuje. Dobra robota."
+  },
+  {
+    "role": "model",
+    "text": "Cieszę się, że mogłem pomóc! \n\nGdybyś potrzebował jeszcze jakichś danych testowych do parsera (np. z jeszcze bardziej złośliwymi znakami, jak emoji, znaki kontrolne czy zagnieżdżone JSON-y wewnątrz JSON-a) – śmiało wołaj. \n\nPowodzenia w kodowaniu i miłego dnia!"
+  },
+  {
+    "role": "user",
+    "text": "Tak, jeszcze poprosze o Twoja pomc. O jakis bardziej skomplikowany element zagniezdzony. Np pythonowy skrypt ktory generuje dokuemnt w formacie latex. W tym latex dokumencie jest... jako verbatim pythonowy skrypt hello world. A nastepnie w dokuemncie latex jest sekcja wprowadzenie i jakis przypadkowy tekst, np chon pulk twoj i szesc flag."
+  },
+  {
+    "role": "model",
+    "text": "Oto kolejny, znacznie trudniejszy poziom do Twojego testu! \n\nW tej wiadomości umieściłem prawdziwą \"matrioszkę\" (zagnieżdżenie w zagnieżdżeniu), w której Python generuje LaTeX-a, w którym z kolei znajduje się verbatim z innym kodem w Pythonie, a na koniec mamy specyficzne polskie zdanie łamińskie („chołp” / „chön”).\n\nOto treść, która trafi do wartości `text` dla `role: \"model\"`:\n\n***\n\nOto obiecany, zaawansowany przykład struktury zawierającej potrójne zagnieżdżenia, znaki ucieczki oraz specyficzne formatowanie.\n\nSkrypt w języku Python generujący dokument LaTeX z osadzonym blokiem kodu `verbatim`:\n\n```python\n# Skrypt generujący dokument .tex\nlatex_content = r\"\"\"\n\\documentclass{article}\n\\usepackage[utf8]{inputenc}\n\\usepackage{listings}\n\n\\begin{document}\n\n\\section{Wprowadzenie}\nW tym dokumencie testowym umieszczamy znane powiedzenie: chon pułk twój i sześć flag.\n\n\\subsection{Osadzony kod}\nPoniżej znajduje się blok verbatim zawierający prosty skrypt w Pythonie:\n\n\\begin{verbatim}\ndef przywitanie(imie):\n    print(f\"Cześć, {imie}!\")\n\nif __name__ == \"__main__\":\n    przywitanie(\"Świat\")\n\\END{verbatim}\n\n\\end{document}\n\"\"\"\n\nwith open(\"dokument.tex\", \"w\", encoding=\"utf-8\") as f:\n    f.write(latex_content)\n```\n\n**Na co warto zwrócić uwagę w tym fragmencie dla parsera JSON:**\n* Raw stringi w Pythonie (`r\"\"\" ... \"\"\"`) z backslashami (np. `\\documentclass`, `\\usepackage`).\n* Wielopoziomowe bloki kodu (Markdown -> Python -> LaTeX -> verbatim -> Python).\n* Specyficzne znaki interpunkcyjne i polskie litery w tekście ciągłym.\n\nCzy ta struktura wystarczająco przetestuje odporność Twojego parsera na podwójne/potrójne esejowanie backslashy i cudzysłowów?"
+  },
+  {
+    "role": "user",
+    "text": "Pewnie jak zajrze do jsona to wszystkie backslashe beda podwojone..."
+  },
+  {
+    "role": "model",
+    "text": "Dokładnie tak! Trafiłeś w sedno działania formatu JSON. \n\nW surowym pliku JSON każdy pojedynczy backslash (`\\`) z mojego tekstu (np. przed komendami LaTeX-a typu `\\documentclass` czy przed cudzysłowami) musi zostać **zescenowany (escaped)** za pomocą drugiego backslasha, żeby parser JSON nie pomylił go z początkiem znaku specjalnego (takiego jak `\\n` czy `\\t`).\n\nCzyli w pliku JSON zobaczysz rzeczy w stylu:\n* Zamiast `\\documentclass` -> `\"\\\\documentclass\"`\n* Zamiast `\\n` w kodzie Pythona -> `\"\\\\n\"`\n\nTo właśnie jest jeden z największych bólów głowy przy pisaniu własnych parserów – upewnienie się, że backslashe nie \"znikają\" w trakcie dekodowania albo że nie dokładasz ich za dużo. \n\nPowodzenia w walce z tym potworem w JSON-ie! Jak będziesz potrzebować jeszcze jakichś testowych potworności, śmiało pisz."
+  },
+  {
+    "role": "user",
+    "text": "Sprawdze po pierwsze, czy skrypt 'to-latex.py' generuje z naszej konwersacji prawidlowy plik."
+  },
+  {
+    "role": "model",
+    "text": "Świetny pomysł! Połączenie testowania JSON-a z automatycznym generowaniem dokumentacji z naszej konwersacji to już wyższa szkoła jazdy. \n\nKoniecznie daj znać, jak poszło. Jestem bardzo ciekaw, czy Twój skrypt `to-latex.py` poprawnie dobrał się do surowego JSON-a, poradził sobie z podwójnymi backslashami (escapowaniem) i czy kompilator LaTeX-a (np. pdflatex lub xelatex) przełknął bez błędu ten osadzony blok `verbatim` z \"Hello World\" oraz polskie znaki.\n\nTrzymam kciuki za bezbłędną kompilację do PDF-a! Powodzenia!"
+  },
+  {
+    "role": "user",
+    "text": "Napisz kod python ktory generuje dokuement w latexie. W dokuemncie tym latexowym sa jako poprzednio 2 sekcje w jednej znane nam zdanie a w drugiej pythonowy skrypt wprowadzony jednak przy pomocy innej metody niz verbatim."
+  },
+  {
+    "role": "model",
+    "text": "Oto kod w języku Python, który wygeneruje taki dokument LaTeX. \n\nW tym rozwiązaniu zamiast tradycyjnego środowiska `verbatim` (które w LaTeXu bywa kapryśne przy automatycznym generowaniu ze względu na specyficzne parsowanie zawartości) użyłem pakietu **`listings`**. Jest to profesjonalna metoda wklejania kodu źródłowego, która pozwala na ładne formatowanie, a w kodzie Pythona posłużyłem się metodą `lstlisting`.\n\nOto skrypt:\n\n```python\n# -*- coding: utf-8 -*-\n\nlatex_content = r\"\"\"\n\\documentclass[a4paper,11pt]{article}\n\\usepackage[utf8]{inputenc}\n\\usepackage[T1]{fontenc}\n\\usepackage[polish]{babel}\n\\usepackage{listings}\n\\usepackage{xcolor}\n\n% Konfiguracja wyglądu kodu (opcjonalnie, ale wygląda ładnie)\n\\lstset{\n    language=Python,\n    basicstyle=\\ttfamily\\small,\n    keywordstyle=\\color{blue},\n    stringstyle=\\color{red},\n    commentstyle=\\color{gray},\n    showstringspaces=false,\n    frame=single,\n    breaklines=true\n}\n\n\\begin{document}\n\n\\section{Wprowadzenie}\nW tym dokumencie testowym umieszczamy znane powiedzenie: chon pułk twój i sześć flag.\n\n\\section{Kod w Pythonie (metoda lstlisting)}\nPoniżej znajduje się skrypt wygenerowany przy użyciu pakietu \\texttt{listings}, który jest znacznie potężniejszą metodą niż zwykłe środowisko verbatim:\n\n\\begin{lstlisting}\ndef powitanie_zaawansowane(nazwa_narzedzia):\n    print(f\"Generuję dokument LaTeX dla: {nazwa_narzedzia}\")\n    status = True\n    return status\n\nif __name__ == \"__main__\":\n    powitanie_zaawansowane(\"Parser JSON -> LaTeX\")\n\\end{lstlisting}\n\n\\end{document}\n\"\"\"\n\n# Zapis do pliku .tex\nwith open(\"dokument_listings.tex\", \"w\", encoding=\"utf-8\") as f:\n    f.write(latex_content)\n\nprint(\"Wygenerowano plik dokument_listings.tex pomyślnie!\")\n```\n\n### Dlaczego ta metoda (`listings`) jest lepsza niż `verbatim` przy generowaniu z Pythona?\n1. **Bezpieczeństwo znaków:** Środowisko `verbatim` w LaTeXu czasami \"zjada\" backslashe lub wchodzi w konflikty, gdy treść jest generowana dynamicznie. `lstlisting` traktuje zawartość w bardziej przewidywalny sposób.\n2. **Dodatkowe możliwości:** Pakiet `listings` pozwala automatycznie kolorować składnię (jak w IDE), dodawać ramki (`frame=single`) czy numerowanie linii, co widać w sekcji konfiguracyjnej (`\\lstset`).\n3. **Polska typografia:** Dodałem też pakiety `polski` i `T1`, żeby LaTeX poprawnie radził sobie z polskimi znakami i łamaniem wyrazów. \n\nUruchom ten skrypt, a powinen wygenerować czysty plik `.tex` gotowy do kompilacji!"
+  },
+  {
+    "role": "user",
+    "text": "Nauczka jest wiec taka: Zakazac Ci uzywania sekwencji znakow \\end{verbatim}. Bo ja uzywam do zagniezdzania."
+  },
+  {
+    "role": "model",
+    "text": "Święta racja! Złota zasada inżynierii promptów i parsowania: **nigdy nie pozwól generatorowi użyć wewnątrz treści tego samego znacznika, którego używasz jako ogranicznika (delimitera) na zewnątrz**. \n\nTo klasyczny problem (podobny do wstrzykiwania kodu czy uciekania cudzysłowów w SQL-u/JSON-ie). Jeśli Twój parser szuka `\\end{verbatim}` jako końca bloku, a ja wypluję ten ciąg znaków w środku (bo opisuję składnię LaTeX-a), to cały Twój mechanizm rozjedzie się jak domek z kart.\n\nDlatego właśnie w poprzednim przykładzie zaproponowałem `listings` i `\\begin{lstlisting}` / `\\end{lstlisting}` – chociaż to wciąż ten sam problem, tylko pod inną nazwą. \n\nDla pełnego bezpieczeństwa Twojego parsera najlepiej stosować jedną z dwóch metod:\n1. **Zabronić mi używania jakichkolwiek tagów kończących** w tekście (niechaj AI używa np. bezpiecznych ekwiwalentów lub opisuje kod słownie).\n2. **Używać dynamicznych/losowych ograniczników** (np. jak w heredoc w bashu: `<<EOF ... EOF`), które nie wystąpią naturalnie w tekście.\n\nBiorę to sobie do serca! Zero `\\end{verbatim}` w przyszłych promptach. Jak idą prace nad parserem?"
+  }
+]

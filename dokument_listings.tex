@@ -1,0 +1,32 @@
+
+\documentclass[a4paper,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[polish]{babel}
+\usepackage{listings}
+\usepackage{xcolor}
+% Konfiguracja wyglądu kodu (opcjonalnie, ale wygląda ładnie)
+\lstset{
+language=Python,
+basicstyle=\ttfamily\small,
+keywordstyle=\color{blue},
+stringstyle=\color{red},
+commentstyle=\color{gray},
+showstringspaces=false,
+frame=single,
+breaklines=true
+}
+\begin{document}
+\section{Wprowadzenie}
+W tym dokumencie testowym umieszczamy znane powiedzenie: chon pułk twój i sześć flag.
+\section{Kod w Pythonie (metoda lstlisting)}
+Poniżej znajduje się skrypt wygenerowany przy użyciu pakietu \texttt{listings}, który jest znacznie potężniejszą meto
+\begin{lstlisting}
+def powitanie_zaawansowane(nazwa_narzedzia):
+print(f"Generuję dokument LaTeX dla: {nazwa_narzedzia}")
+status = True
+return status
+if __name__ == "__main__":
+powitanie_zaawansowane("Parser JSON -> LaTeX")
+\end{lstlisting}
+\end{document}
