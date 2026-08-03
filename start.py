@@ -77,9 +77,6 @@ def save_conversation_history(filepath, conv_state):
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(raw_data_to_save, f, ensure_ascii=False, indent=2)
 
-
-
-
 def load_conversation_history(filepath):
     """
     Wczytuje historię z pliku JSON i konwertuje ją na format obiektów Google.
@@ -103,11 +100,6 @@ def load_conversation_history(filepath):
         conv_state.append(google_message)
 
     return conv_state
-
-
-
-
-
 
 def read_input_source(folder_path = './'):
     """
@@ -146,16 +138,10 @@ if not prepare_chat_directory('/home/dtstgseete/ai-chats/gemini/' + chat_dir + '
 # Inicjalizacja klienta Google GenAI (pobiera klucz z .bashrc)
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
-
-i = 0
-go = True
-
-while go == True:
-    i = i + 1
-
+while True:
     latest_chat_file_name = get_latest_chat_file_by_name('/home/dtstgseete/ai-chats/gemini/' + chat_dir + '/')
 
-    print(f'latest chat file name: {latest_chat_file_name}\n')
+    print(f'chat file to load conversation: {latest_chat_file_name}\n')
 
 
     if None == latest_chat_file_name:
@@ -250,8 +236,7 @@ while go == True:
 
     save_conversation_history(init_filepath, conv_state)
 
-    print(f'{init_filepath}\n')
-
-    if i == 5:
-        go = False
+    print(f'saved to {init_filepath}\n')
+    print("===========================================")
+    print("===========================================")
 
