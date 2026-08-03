@@ -1,3 +1,4 @@
+import sys
 import glob
 import os
 import json
@@ -130,8 +131,16 @@ def read_input_source(folder_path = './'):
             
     return ''
 
+if len(sys.argv) != 2:
+    print("Błąd: Konieczne jest podanie dokładnie jednego argumentu.")
+    print("Użycie: python skrypt.py <argument>")
+    sys.exit(1)
 
-if not prepare_chat_directory('/home/dtstgseete/ai-chats/gemini/' + 'dieta-2026-08-01/'):
+chat_dir = sys.argv[1]
+print(f"Pobrany argument: {chat_dir}")
+
+
+if not prepare_chat_directory('/home/dtstgseete/ai-chats/gemini/' + chat_dir + '/'):
     exit()
 
 # Inicjalizacja klienta Google GenAI (pobiera klucz z .bashrc)
@@ -144,7 +153,7 @@ go = True
 while go == True:
     i = i + 1
 
-    latest_chat_file_name = get_latest_chat_file_by_name('/home/dtstgseete/ai-chats/gemini/' + 'dieta-2026-08-01/')
+    latest_chat_file_name = get_latest_chat_file_by_name('/home/dtstgseete/ai-chats/gemini/' + chat_dir + '/')
 
     print(f'latest chat file name: {latest_chat_file_name}\n')
 
@@ -226,8 +235,6 @@ while go == True:
     """
 
 
-
-
     new_json_entry = types.Content(
         role="model",
         parts=[types.Part.from_text(text=response.text)]
@@ -239,7 +246,7 @@ while go == True:
     # print(f'conv_state to write {conv_state}\n')
 
     timestamp = int(time.time())
-    init_filepath = os.path.join('/home/dtstgseete/ai-chats/gemini/' + 'dieta-2026-08-01/', f"chat_{timestamp}.json")
+    init_filepath = os.path.join('/home/dtstgseete/ai-chats/gemini/' + chat_dir + '/', f"chat_{timestamp}.json")
 
     save_conversation_history(init_filepath, conv_state)
 
