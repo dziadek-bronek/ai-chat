@@ -1,4 +1,5 @@
 # python3.12 to-txt.py dieta-dziennik.json 24 > dieta-dziennik.txt && vim dieta-dziennik.txt
+import json
 import sys
 
 def formatuj_json_do_tekstu(sciezka_pliku, msg_to_skip):
@@ -21,10 +22,12 @@ def formatuj_json_do_tekstu(sciezka_pliku, msg_to_skip):
             # Zamiana nazwy roli na czytelniejszą
             if rola == 'MODEL':
                 rola = 'GEMINI'
+            else:
+                print("=" * 40)
                 
             print(f"=== {rola} ===")
             print(tresc)
-            print("-" * 40)
+            print("=" * 40)
             print() # Dodatkowa pusta linia dla czytelności
             i = i + 1
             
