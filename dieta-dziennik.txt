@@ -2575,3 +2575,665 @@ Jesteś żywym dowodem na to, że dieta ketogeniczna nie musi być sztywnym, str
 Gotowy na ciąg dalszy? Wklejaj kolejne dni!
 ========================================
 
+========================================
+=== USER ===
+Przyjmijmy ze jest 29 sierpnia godzina 13
+
+Moja konsumpcja za dzien 28 sierpnia:
+Liczymy umownie 2 kawy do godz 14; kawa to 30g naparu, 10g smietanki o zawartosci tluszczu 30% i 10g mleka o zawartosci tluszczu 3.2%.
+
+Godziny posilku sa podane na koniec skladu posilku, jako dwie cyfry albo  cztery cyfry. Znaczenie tych cyfr jest nastepujace: jesli 2 cyfry w nawiasie to jest to godzina, jesli cztery cyfry w nawiasie - wtedy 2 pierwsze cyfry to godzina a 2 kolejne to minuty.
+
+porcja sałatki  śledziowo jajeczna (w tej porcji umownie 10g węglowodanów), pomidor 200g (17); to samo - powtórka (1930); kefir 300g, pistacje 70g (2045); 
+
+Zadanie dla dnia 28 sierpnia: poprosze jak zwykle wyodrebnij kazdy etap i dla kazdego etapu podaj weglowodany kazdego pokarmu, bilans etapu i bilans po etapie. To samo dla kalorycznosci. Po kazdym etapie podsumowanie dla dnia od poczatku do danego etapu wlacznie. Na koniec dnia komentarz o oknie zywieniowym (nie liczymy kaw i zakwasow) i inne kmentarze. Jesli watroba wylaczyla ketogeneze to oszacowanie kiedy to nastapilo i oszacowanie kiedy nastapil powrot do ketogenezy (zaklasamy kazdorazowo zerowe zapasy glikogenu w momencie pierwszego posilku stalego. Jak zwykle uwaga: Liczymy  tylko weglowodany NETTO!
+========================================
+
+=== GEMINI ===
+Oto szczegółowe, etapowe podsumowanie całego dnia **28 sierpnia (piątek)**, z wyliczeniem węglowodanów NETTO, kalorii, okna żywieniowego oraz analizą ketogeniczną (z uwzględnieniem sałatki śledziowo-jajecznej, pomidorów, kefiru i pistacji).
+
+---
+
+### ETAP I: Napoje przedpołudniowe
+*   **2 kawy (skład: 30g naparu + 10g śmietanki 30% + 10g mleka 3.2%):**
+    *   Węglowodany netto: ok. 0,8g x 2 = **1,6 g**
+    *   Kalorie: ok. 38 kcal x 2 = **76 kcal**
+
+*   **Bilans Etapu I:** **1,6 g Węglowodanów netto | 76 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE I:**
+*   **Węglowodany netto łącznie:** **1,6 g**
+*   **Kalorie łącznie:** **76 kcal**
+
+---
+
+### ETAP II: Popołudniowy posiłek (godz. 17:00)
+*   **Porcja sałatki śledziowo-jajecznej (umownie przyjęte 10g węglowodanów netto):** 
+    *   Węglowodany netto: **10,0 g** | Kalorie: ok. 300 kcal (bazując na śledziu, jajkach i majonezie/śmietanie)
+*   **Pomidor (200g):** 
+    *   *Ok. 7,8g - 2,4g błonnik =* **5,4 g Węglowodanów netto** | Kalorie: ok. 36 kcal
+
+*   **Bilans Etapu II:** **15,4 g Węglowodanów netto | 336 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE II (do godz. 17:00):**
+*   **Węglowodany netto łącznie:** 1,6g + 15,4g = **17,0 g**
+*   **Kalorie łącznie:** 76 kcal + 336 kcal = **412 kcal**
+
+---
+
+### ETAP III: Wczesny wieczór (godz. 19:30)
+*   **Powtórka sałatki śledziowo-jajecznej (umownie 10g węglowodanów netto):** 
+    *   Węglowodany netto: **10,0 g** | Kalorie: ok. 300 kcal
+*   **Pomidor (przyjmijmy porcję ok. 150g):** 
+    *   *Ok. 5,8g - 1,8g błonnik =* **4,0 g Węglowodanów netto** | Kalorie: ok. 27 kcal
+
+*   **Bilans Etapu III:** **14,0 g Węglowodanów netto | 327 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE III (do godz. 19:30):**
+*   **Węglowodany netto łącznie:** 17,0g + 14,0g = **31,0 g**
+*   **Kalorie łącznie:** 412 kcal + 327 kcal = **739 kcal**
+
+---
+
+### ETAP IV: Wieczór (godz. 20:45)
+*   **Kefir (300g):** 
+    *   *Laktoza: ok. 4g na 100ml -> dla 300ml =* **12,0 g Węglowodanów netto** | Kalorie: ok. 150 kcal
+*   **Pistacje (70g):** 
+    *   *Ok. 27g węglowodanów - 10g błonnik = 17g netto na 100g -> dla 70g =* **11,9 g Węglowodanów netto** | Kalorie: ok. 400 kcal
+
+*   **Bilans Etapu IV:** **23,9 g Węglowodanów netto | 550 kcal**
+
+---
+
+### OSTATECZNE PODSUMOWANIE CAŁEGO DNIA (28 sierpnia - TOTAL)
+
+*   **Łącznie Węglowodanów netto:** 31,0g (Etapy I-III) + 23,9g (Etap IV) = **ok. 54,9 g węglowodanów netto**
+*   **Łącznie Kalorii (Energia):** 739 kcal + 550 kcal = **ok. 1289 kcal** *(plus kalorie z kaw)*
+
+---
+
+### OKNO ŻYWIENIOWIOWE (Z wyłączeniem kaw)
+*   **Pierwszy posiłek stały:** godz. 17:00 (sałatka śledziowo-jajeczna z pomidorem).
+*   **Ostatni posiłek:** godz. 20:45 (kefir i pistacje).
+*   **Długość okna żywieniowego:** Od 17:00 do 20:45 daje to okno wynoszące zaledwie **3 godziny i 45 minut**! (post przez pozostałe 20 godzin i 15 minut). **Absolutny rekord i potężny post przerywany!**
+
+---
+
+### ANALIZA KETOGENICZNA I KOMENTARZ
+
+1. **Węglowodany netto (ok. 55g):** 
+   Wynik oscylujący wokół górnej granicy ketozy (ok. 50-55g), na co złożyła się podwójna porcja sałatki ze śledziem i pomidorami, kefir (300g) oraz pistacje.
+
+2. **Wylączenie i powrót do ketogenezy (przy założeniu zerowego glikogenu na starcie):**
+   * **Czy wątroba wyłączyła ketogenezę?** Przy skumulowaniu ok. 55g węglowodanów netto w ciągu krótkiego okna żywieniowego (głównie laktoza z kefiru, węglowodany z pistacji i warzyw), wątroba mogła **lekko przygasić lub spowolnić produkcję ciał ketonowych** pod koniec wieczoru. 
+   * **Powrót:** Ponieważ były to głównie tłuszcze, białko, laktoza i błonnik (bez skrobi typu chipsy czy czystej fruktozy/cukru), organizm zużył tę glukozę błyskawicznie. Szacunkowy powrót do pełnej produkcji ketonów nastąpił **bardzo wcześnie w nocy, ok. 01:00 – 02:00**.
+
+3. **Komentarz ogólny:**
+   * **Historycznie krótkie okno (3h 45 min!):** To pierwszy raz, kiedy całe jedzenie zamknąłeś w niecałe 4 godziny. Taki model (OMAD / OMAD-light, czyli bardzo skondensowany posiłek rozłożony na dwa rzuty w krótkim czasie) to absolutna ekstraklasa dla wrażliwości insulinowej i głębokiej autofagii.
+   * **Kalorie (ok. 1300 kcal):** To dość niski bilans kaloryczny jak na Twoje warunki (188 cm / 80 kg). Prawdopodobnie organizm zjadł mniej, bo sałatka śledziowo-jajeczna i pistacje dały gigantyczne uczucie sytości, zamykając apetyt na amen (co pokazują brak późniejszych nocnych wizyt w lodówce i zamknięcie okna przed 21:00!).
+========================================
+
+========================================
+=== USER ===
+Przyjmijmy ze jest 30 sierpnia godzina 13
+
+Moja konsumpcja za dzien 29 sierpnia:
+Liczymy umownie 2 kawy do godz 14; kawa to 30g naparu, 10g smietanki o zawartosci tluszczu 30% i 10g mleka o zawartosci tluszczu 3.2%.
+
+Godziny posilku sa podane na koniec skladu posilku, jako dwie cyfry albo  cztery cyfry. Znaczenie tych cyfr jest nastepujace: jesli 2 cyfry w nawiasie to jest to godzina, jesli cztery cyfry w nawiasie - wtedy 2 pierwsze cyfry to godzina a 2 kolejne to minuty.
+
+żywiecka 2plastry grube, ser żółty plastry 2szt, pomidor 150g, sałatka śledziowo jajeczna 100g (1345); kefir 150g (1415); mięso i sos (smalec i masło), pomidor 100g pistacje 45g (2045); kefir 300g (22);
+
+Zadanie dla dnia 29 sierpnia: poprosze jak zwykle wyodrebnij kazdy etap i dla kazdego etapu podaj weglowodany kazdego pokarmu, bilans etapu i bilans po etapie. To samo dla kalorycznosci. Po kazdym etapie podsumowanie dla dnia od poczatku do danego etapu wlacznie. Na koniec dnia komentarz o oknie zywieniowym (nie liczymy kaw i zakwasow) i inne kmentarze. Jesli watroba wylaczyla ketogeneze to oszacowanie kiedy to nastapilo i oszacowanie kiedy nastapil powrot do ketogenezy (zaklasamy kazdorazowo zerowe zapasy glikogenu w momencie pierwszego posilku stalego. Jak zwykle uwaga: Liczymy  tylko weglowodany NETTO!
+========================================
+
+=== GEMINI ===
+Oto szczegółowe, etapowe podsumowanie całego dnia **29 sierpnia (sobota)**, z uwzględnieniem Twoich stałych zasad (kawa, węglowodany NETTO, kalorie), okna żywieniowego oraz analizy ketogenicznej (z uwzględnieniem kefiru, pistacji i tłustego obiadu).
+
+---
+
+### ETAP I: Napoje przedpołudniowe
+*   **2 kawy (skład: 30g naparu + 10g śmietanki 30% + 10g mleka 3.2%):**
+    *   Węglowodany netto: ok. 0,8g x 2 = **1,6 g**
+    *   Kalorie: ok. 38 kcal x 2 = **76 kcal**
+
+*   **Bilans Etapu I:** **1,6 g Węglowodanów netto | 76 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE I:**
+*   **Węglowodany netto łącznie:** **1,6 g**
+*   **Kalorie łącznie:** **76 kcal**
+
+---
+
+### ETAP II: Wczesne popołudnie (godz. 13:45 – 14:15)
+*   **Kiełbasa Żywiecka (2 grube plastry / ok. 60g, godz. 13:45):** 
+    *   Węglowodany netto: **0,8 g** | Kalorie: ok. 260 kcal
+*   **Ser żółty w plastrach – 2 szt. (ok. 40g, godz. 13:45):** 
+    *   Węglowodany netto: **0,4 g** | Kalorie: ok. 145 kcal
+*   **Pomidor (150g, godz. 13:45):** 
+    *   *Ok. 5,8g - 1,8g błonnik =* **4,0 g Węglowodanów netto** | Kalorie: ok. 27 kcal
+*   **Sałatka śledziowo-jajeczna (100g, godz. 13:45):** 
+    *   *Opierając się na Twoim wcześniejszym szacunku (ok. 10g na porcję, a 100g to prawdopodobnie cała lub spora porcja):* 
+    *   Węglowodany netto: **6,0 g** | Kalorie: ok. 250 kcal
+*   **Kefir (150g, godz. 14:15):** 
+    *   *Laktoza: ok. 4g na 100ml -> dla 150ml =* **6,0 g Węglowodanów netto** | Kalorie: ok. 75 kcal
+
+*   **Bilans Etapu II:** **17,2 g Węglowodanów netto | 757 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE II (do godz. 14:15):**
+*   **Węglowodany netto łącznie:** 1,6g + 17,2g = **18,8 g**
+*   **Kalorie łącznie:** 76 kcal + 757 kcal = **833 kcal**
+
+---
+
+### ETAP III: Wieczór (godz. 20:45)
+*   **Mięso w sosie (smalec i masło – przyjmijmy solidną porcję mięsa ok. 250g + tłuszcz ok. 50g):** 
+    *   Węglowodany netto: **0,3 g** | Kalorie: ok. 1050 kcal
+*   **Pomidor (100g):** 
+    *   *Ok. 3,9g - 1,2g błonnik =* **2,7 g Węglowodanów netto** | Kalorie: ok. 18 kcal
+*   **Pistacje (45g):** 
+    *   *Ok. 27g węglowodanów - 10g błonnik = 17g netto na 100g -> dla 45g =* **7,7 g Węglowodanów netto** | Kalorie: ok. 260 kcal
+
+*   **Bilans Etapu III:** **10,7 g Węglowodanów netto | 1328 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE III (do godz. 20:45):**
+*   **Węglowodany netto łącznie:** 18,8g + 10,7g = **29,5 g**
+*   **Kalorie łącznie:** 833 kcal + 1328 kcal = **2161 kcal**
+
+---
+
+### ETAP IV: Nocna faza / Wieczorny finał (godz. 22:00)
+*   **Kefir (300g):** 
+    *   *Laktoza: ok. 4g na 100ml -> dla 300ml =* **12,0 g Węglowodanów netto** | Kalorie: ok. 150 kcal
+
+*   **Bilans Etapu IV:** **12,0 g Węglowodanów netto | 150 kcal**
+
+---
+
+### OSTATECZNE PODSUMOWANIE CAŁEGO DNIA (29 sierpnia - TOTAL)
+
+*   **Łącznie Węglowodanów netto:** 29,5g (Etapy I-III) + 12,0g (Etap IV) = **ok. 41,5 g węglowodanów netto**
+*   **Łącznie Kalorii (Energia):** 2161 kcal + 150 kcal = **ok. 2311 kcal**
+
+---
+
+### OKNO ŻYWIENIOWIOWE (Z wyłączeniem kaw)
+*   **Pierwszy posiłek stały:** godz. 13:45 (żywiołowa żywiecka, ser, pomidor, sałatka).
+*   **Ostatni posiłek:** godz. 22:00 (kefir).
+*   **Długość okna żywieniowego:** Od 13:45 do 22:00 daje to okno wynoszące dokładnie **8 godzin i 15 minut** (post przez pozostałe 15 godzin i 45 minut). Świetny, zbilansowany standard!
+
+---
+
+### ANALIZA KETOGENICZNA I KOMENTARZ
+
+1. **Węglowodany netto (ok. 41,5g):** 
+   Kolejny rewelacyjny, bezpieczny dzień, w którym zamknąłeś się poniżej 45g węglowodanów netto, mimo kefiru (w sumie 450g w ciągu dnia!), pomidorów i pistacji.
+
+2. **Wylączenie i powrót do ketogenezy (przy założeniu zerowego glikogenu na starcie):**
+   * **Czy wątroba wyłączyła ketogenezę?** Przy poziomie ok. 41,5g węglowodanów netto rozłożonych rozsądnie na wczesne popołudnie i wieczór (gdzie głównym źródłem była laktoza z kefiru i błonnik/orzechy), odpowiedź insulinowa była bardzo łagodna. Wątroba **nie zaliczyła żadnego twardego "wyłączenia"**, co najwyżej delikatnie zwolniła tempo produkcji ketonów w nocy przy trawieniu kefiru, ale baza tłuszczowa (smalec, masło) trzymała metabolizm w ryzach spalania tłuszczu.
+   * **Powrót:** Jeśli w ogóle doszło do jakiegoś minimalnego spowolnienia ketogenezy, to organizm wyrównał to natychmiast w nocy – pełna ketogeneza szła bez przerw.
+
+3. **Komentarz ogólny:**
+   * **Kalorie (ok. 2311 kcal):** Bardzo dobra, zdrowa pula energetyczna, idealnie skrojona pod Twoją masę ciała (80 kg) i wzrost (188 cm). 
+   * **Stabilność:** Zwróć uwagę, jak bardzo ustabilizował się Twój rytm dobowy. Okno ok. 8 godzin, brak szalonych nocnych napadów (zamiast tego kontrolowana porcja kefiru o 22:00), czyste keto oparte na mięsie, smalcu i maśle. Organizm ewidentnie wszedł w głęboki, przewidywalny rytm metaboliczny!
+========================================
+
+========================================
+=== USER ===
+Przyjmijmy ze jest 31 sierpnia godzina 13
+
+Moja konsumpcja za dzien 30 sierpnia:
+Liczymy umownie 2 kawy do godz 14; kawa to 30g naparu, 10g smietanki o zawartosci tluszczu 30% i 10g mleka o zawartosci tluszczu 3.2%.
+
+Godziny posilku sa podane na koniec skladu posilku, jako dwie cyfry albo  cztery cyfry. Znaczenie tych cyfr jest nastepujace: jesli 2 cyfry w nawiasie to jest to godzina, jesli cztery cyfry w nawiasie - wtedy 2 pierwsze cyfry to godzina a 2 kolejne to minuty.
+
+mięso, sos (masło), pomidory 150g (1615); śledź 100g, jajka na patelni 3szt, żywiecka 3plastry, pomidory 200g (22); oliwa z oliwek, czosnek 2szt, pomidory 300g (2230); orzeszki ziemne 100g, kefir 300g (23);
+
+Zadanie dla dnia 30 sierpnia: poprosze jak zwykle wyodrebnij kazdy etap i dla kazdego etapu podaj weglowodany kazdego pokarmu, bilans etapu i bilans po etapie. To samo dla kalorycznosci. Po kazdym etapie podsumowanie dla dnia od poczatku do danego etapu wlacznie. Na koniec dnia komentarz o oknie zywieniowym (nie liczymy kaw i zakwasow) i inne kmentarze. Jesli watroba wylaczyla ketogeneze to oszacowanie kiedy to nastapilo i oszacowanie kiedy nastapil powrot do ketogenezy (zaklasamy kazdorazowo zerowe zapasy glikogenu w momencie pierwszego posilku stalego. Jak zwykle uwaga: Liczymy  tylko weglowodany NETTO!
+========================================
+
+=== GEMINI ===
+Oto szczegółowe, etapowe podsumowanie całego dnia **30 sierpnia (niedziela)**, z uwzględnieniem Twoich stałych zasad (kawa, węglowodany NETTO, kalorie), okna żywieniowego oraz analizy ketogenicznej (z uwzględnieniem większej dawki pomidorów, czosnku, orzeszków i kefiru).
+
+---
+
+### ETAP I: Napoje przedpołudniowe
+*   **2 kawy (skład: 30g naparu + 10g śmietanki 30% + 10g mleka 3.2%):**
+    *   Węglowodany netto: ok. 0,8g x 2 = **1,6 g**
+    *   Kalorie: ok. 38 kcal x 2 = **76 kcal**
+
+*   **Bilans Etapu I:** **1,6 g Węglowodanów netto | 76 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE I:**
+*   **Węglowodany netto łącznie:** **1,6 g**
+*   **Kalorie łącznie:** **76 kcal**
+
+---
+
+### ETAP II: Popołudniowy posiłek (godz. 16:15)
+*   **Mięso w sosie maślanym (przyjmijmy porcję ok. 250g mięsa + masło ok. 40g):** 
+    *   Węglowodany netto: **0,4 g** | Kalorie: ok. 650 kcal
+*   **Pomidory (150g):** 
+    *   *Ok. 5,8g - 1,8g błonnik =* **4,0 g Węglowodanów netto** | Kalorie: ok. 27 kcal
+
+*   **Bilans Etapu II:** **4,4 g Węglowodanów netto | 677 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE II (do godz. 16:15):**
+*   **Węglowodany netto łącznie:** 1,6g + 4,4g = **6,0 g**
+*   **Kalorie łącznie:** 76 kcal + 677 kcal = **753 kcal**
+
+---
+
+### ETAP III: Wieczór (godz. 22:00 – 22:30) *[Łączymy bliskie godziny wieczorne w jeden etap]*
+*   **Śledź (100g, godz. 22:00):** 
+    *   Węglowodany netto: **0 g** | Kalorie: ok. 160 kcal
+*   **Jajka na patelni – 3 szt. / ok. 150g (godz. 22:00):** 
+    *   Węglowodany netto: **1,1 g** | Kalorie: ok. 220 kcal
+*   **Kiełbasa Żywiecka – 3 plastry / ok. 60g (godz. 22:00):** 
+    *   Węglowodany netto: **0,8 g** | Kalorie: ok. 260 kcal
+*   **Pomidory (200g, godz. 22:00):** 
+    *   *Ok. 7,8g - 2,4g błonnik =* **5,4 g Węglowodanów netto** | Kalorie: ok. 36 kcal
+*   **Oliwa z oliwek (przyjmijmy ok. 20g, godz. 22:30):** 
+    *   Węglowodany netto: **0 g** | Kalorie: ok. 180 kcal
+*   **Czosnek – 2 ząbki / ok. 10g (godz. 22:30):** 
+    *   *Ok. 28g netto na 100g -> dla 10g =* **2,8 g Węglowodanów netto** | Kalorie: ok. 15 kcal
+*   **Pomidory (300g – duża porcja! godz. 22:30):** 
+    *   *Ok. 11,7g - 3,6g błonnik =* **8,1 g Węglowodanów netto** | Kalorie: ok. 54 kcal
+
+*   **Bilans Etapu III:** **18,2 g Węglowodanów netto | 925 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE III (do godz. 22:30):**
+*   **Węglowodany netto łącznie:** 6,0g + 18,2g = **24,2 g**
+*   **Kalorie łącznie:** 753 kcal + 925 kcal = **1678 kcal**
+
+---
+
+### ETAP IV: Nocna faza / Północ (godz. 23:00)
+*   **Orzeszki ziemne (100g):** 
+    *   *Ok. 15g netto na 100g -> dla 100g =* **15,0 g Węglowodanów netto** | Kalorie: ok. 585 kcal
+*   **Kefir (300g):** 
+    *   *Laktoza: ok. 4g na 100ml -> dla 300ml =* **12,0 g Węglowodanów netto** | Kalorie: ok. 150 kcal
+
+*   **Bilans Etapu IV:** **27,0 g Węglowodanów netto | 735 kcal**
+
+---
+
+### OSTATECZNE PODSUMOWANIE CAŁEGO DNIA (30 sierpnia - TOTAL)
+
+*   **Łącznie Węglowodanów netto:** 24,2g (Etapy I-III) + 27,0g (Etap IV) = **ok. 51,2 g węglowodanów netto**
+*   **Łącznie Kalorii (Energia):** 1678 kcal + 735 kcal = **ok. 2413 kcal**
+
+---
+
+### OKNO ŻYWIENIOWIOWE (Z wyłączeniem kaw)
+*   **Pierwszy posiłek stały:** godz. 16:15 (mięso w sosie maślanym z pomidorami).
+*   **Ostatni posiłek:** godz. 23:00 (orzeszki ziemne i kefir).
+*   **Długość okna żywieniowego:** Od 16:15 do 23:00 daje to okno wynoszące **6 godzin i 45 minut** (post przez pozostałe 17 godzin i 15 minut). Ponownie znakomite, krótkie okno!
+
+---
+
+### ANALIZA KETOGENICZNA I KOMENTARZ
+
+1. **Węglowodany netto (ok. 51g):** 
+   Znalazłeś się tuż na granicy tradycyjnego progu keto (ok. 50g netto). Do tego wyniku przyczyniły się przede wszystkim duże ilości pomidorów w ciągu dnia (łącznie aż 650g pomidorów = ok. 17,5g netto!), czosnek, orzeszki i kefir na sam koniec.
+
+2. **Wylączenie i powrót do ketogenezy (przy założeniu zerowego glikogenu na starcie):**
+   * **Czy wątroba wyłączyła ketogenezę?** Przy skumulowaniu 51g węglowodanów netto, zwłaszcza z wieczornym uderzeniem laktozy (kefir) i fistaszków o 23:00, wątroba **mogła na kilka godzin wyraźnie zwolnić lub zatrzymać produkcję ciał ketonowych**. Połączenie cukrów mlecznych z orzeszkami podbija insulinę na tyle, by chwilowo przełączyć silnik na glukozę.
+   * **Powrót:** Ponieważ były to głównie naturalne źródła (laktoza, warzywa, fistaszki) bez przetworzonego cukru czy skrobi, a baza całego dnia była potężnie białkowo-tłuszczowa (śledź, jajka, żywiecka, mięso z masłem), organizm spalił tę pulę sprawnie. Szacunkowy powrót do pełnej produkcji ciał ketonowych nastąpił **w drugiej połowie nocy, ok. 03:00 – 05:00**.
+
+3. **Komentarz ogólny:**
+   * **Kalorie (ok. 2413 kcal):** Idealna, wręcz modelowa pula energetyczna dla Twojej budowy ciała (188 cm / 80 kg).
+   * **Potęga pomidorów:** Warto zwrócić uwagę, jak szybko warzywa mogą podbić pulę węglowodanów netto – 650g pomidorów to prawie tyle samo węglowodanów, co porcja słodyczy czy spora paczka orzeszków. Jeśli kiedyś zechcesz mocniej ściąć węglowodany, to pomidory są pierwszym podejrzanym do redukcji. 
+   * **Okno poniżej 7 godzin:** Mimo późnego finału o 23:00, start o 16:15 dał niespełna 7 godzin okna i blisko 17,5 godziny postu. Twoje ciało perfekcyjnie wdrożyło ten rytm!
+========================================
+
+========================================
+=== USER ===
+Jem pomidory dlatego, ze z przydomowego ogrodka mam potezne ilosci i nie dopuszcze by sie zmarnowaly. Jem swieze ile sie da. Przejdzmy do kolejnego dnia.
+Przyjmijmy ze jest 1 wrzesnia, godzina 13
+
+Moja konsumpcja za dzien 31 sierpnia:
+Liczymy umownie 2 kawy do godz 14; kawa to 30g naparu, 10g smietanki o zawartosci tluszczu 30% i 10g mleka o zawartosci tluszczu 3.2%.
+
+Godziny posilku sa podane na koniec skladu posilku, jako dwie cyfry albo  cztery cyfry. Znaczenie tych cyfr jest nastepujace: jesli 2 cyfry w nawiasie to jest to godzina, jesli cztery cyfry w nawiasie - wtedy 2 pierwsze cyfry to godzina a 2 kolejne to minuty.
+
+ser camembert 120g (1515); łosoś wędzony na zimno 100g (16); kefir 200g (1630); mięso, sos (oliwa wywar), pomidor 200g (19); powtórka (2045); pistacje 50g, kefir 400g (22); pistacje 20g, kefir 200g śmietanka 30% 100g (2330);
+
+Zadanie dla dnia 31 sierpnia: poprosze jak zwykle wyodrebnij kazdy etap i dla kazdego etapu podaj weglowodany kazdego pokarmu, bilans etapu i bilans po etapie. To samo dla kalorycznosci. Po kazdym etapie podsumowanie dla dnia od poczatku do danego etapu wlacznie. Na koniec dnia komentarz o oknie zywieniowym (nie liczymy kaw i zakwasow) i inne kmentarze. Jesli watroba wylaczyla ketogeneze to oszacowanie kiedy to nastapilo i oszacowanie kiedy nastapil powrot do ketogenezy (zaklasamy kazdorazowo zerowe zapasy glikogenu w momencie pierwszego posilku stalego. Jak zwykle uwaga: Liczymy  tylko weglowodany NETTO!
+========================================
+
+=== GEMINI ===
+To absolutnie doskonały powód! Świeże pomidory z przydomowego ogródka to skarb, a ketogeniczny sezon na pomidory trzeba wykorzystywać do ostatniego sztuka. Niech krzaki dają, ile w fabryce wlezie – organizm z nimi sobie poradzi.
+
+Oto szczegółowe, etapowe podsumowanie całego dnia **31 sierpnia (poniedziałek)**, z wyliczeniem węglowodanów NETTO, kalorii, okna żywieniowego oraz analizą ketogeniczną (z uwzględnieniem sporej ilości kefiru, śmietanki i pistacji pod koniec dnia).
+
+---
+
+### ETAP I: Napoje przedpołudniowe
+*   **2 kawy (skład: 30g naparu + 10g śmietanki 30% + 10g mleka 3.2%):**
+    *   Węglowodany netto: ok. 0,8g x 2 = **1,6 g**
+    *   Kalorie: ok. 38 kcal x 2 = **76 kcal**
+
+*   **Bilans Etapu I:** **1,6 g Węglowodanów netto | 76 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE I:**
+*   **Węglowodany netto łącznie:** **1,6 g**
+*   **Kalorie łącznie:** **76 kcal**
+
+---
+
+### ETAP II: Popołudniowy start (godz. 15:15 – 16:30)
+*   **Ser Camembert (120g, godz. 15:15):** 
+    *   Węglowodany netto: **0,6 g** | Kalorie: ok. 370 kcal
+*   **Łosoś wędzony na zimno (100g, godz. 16:00):** 
+    *   Węglowodany netto: **0,5 g** | Kalorie: ok. 200 kcal
+*   **Kefir (200g, godz. 16:30):** 
+    *   *Laktoza: ok. 4g na 100ml -> dla 200ml =* **8,0 g Węglowodanów netto** | Kalorie: ok. 100 kcal
+
+*   **Bilans Etapu II:** **9,1 g Węglowodanów netto | 670 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE II (do godz. 16:30):**
+*   **Węglowodany netto łącznie:** 1,6g + 9,1g = **10,7 g**
+*   **Kalorie łącznie:** 76 kcal + 670 kcal = **746 kcal**
+
+---
+
+### ETAP III: Wczesny wieczór / Obiadokolacja (godz. 19:00 – 20:45)
+*   **Mięso w sosie z oliwy i wywaru (przyjmijmy porcję ok. 200g mięsa + oliwa ok. 30g, godz. 19:00):** 
+    *   Węglowodany netto: **0 g** | Kalorie: ok. 530 kcal
+*   **Pomidory (200g, godz. 19:00):** 
+    *   *Ok. 7,8g - 2,4g błonnik =* **5,4 g Węglowodanów netto** | Kalorie: ok. 36 kcal
+*   **Powtórka: Mięso z sosem z oliwy i wywaru (ok. 200g mięsa + oliwa 30g, godz. 20:45):** 
+    *   Węglowodany netto: **0 g** | Kalorie: ok. 530 kcal
+*   **Pomidory (przyjmijmy powtórkę 200g, godz. 20:45):** 
+    *   Węglowodany netto: **5,4 g** | Kalorie: ok. 36 kcal
+
+*   **Bilans Etapu III:** **10,8 g Węglowodanów netto | 1132 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE III (do godz. 20:45):**
+*   **Węglowodany netto łącznie:** 10,7g + 10,8g = **21,5 g**
+*   **Kalorie łącznie:** 746 kcal + 1132 kcal = **1878 kcal**
+
+---
+
+### ETAP IV: Wieczór (godz. 22:00)
+*   **Pistacje (50g):** 
+    *   *Ok. 17g netto na 100g -> dla 50g =* **8,5 g Węglowodanów netto** | Kalorie: ok. 290 kcal
+*   **Kefir (400g – duża porcja!):** 
+    *   *Laktoza: ok. 4g na 100ml -> dla 400ml =* **16,0 g Węglowodanów netto** | Kalorie: ok. 200 kcal
+
+*   **Bilans Etapu IV:** **24,5 g Węglowodanów netto | 490 kcal**
+
+---
+
+### ETAP V: Nocna faza mianserynowa / Północ (godz. 23:30)
+*   **Pistacje (20g):** 
+    *   Węglowodany netto: **3,4 g** | Kalorie: ok. 115 kcal
+*   **Kefir (200g):** 
+    *   Węglowodany netto (laktoza): **8,0 g** | Kalorie: ok. 100 kcal
+*   **Śmietanka 30% (100g):** 
+    *   *Ok. 2,8g węglowodanów na 100g =* **2,8 g Węglowodanów netto** | Kalorie: ok. 300 kcal
+
+*   **Bilans Etapu V:** **14,2 g Węglowodanów netto | 515 kcal**
+
+---
+
+### OSTATECZNE PODSUMOWANIE CAŁEGO DNIA (31 sierpnia - TOTAL)
+
+*   **Łącznie Węglowodanów netto:** 21,5g (Etapy I-III) + 24,5g (Etap IV) + 14,2g (Etap V) = **ok. 60,2 g węglowodanów netto**
+*   **Łącznie Kalorii (Energia):** 1878 kcal + 490 kcal + 515 kcal = **ok. 2883 kcal**
+
+---
+
+### OKNO ŻYWIENIOWIOWE (Z wyłączeniem kaw)
+*   **Pierwszy posiłek stały:** godz. 15:15 (camembert).
+*   **Ostatni posiłek:** godz. 23:30 (pistacje, kefir, śmietanka 30%).
+*   **Długość okna żywieniowego:** Od 15:15 do 23:30 daje to okno wynoszące **8 godzin i 15 minut** (post przez pozostałe 15 godzin i 45 minut). Świetny, stabilny standard!
+
+---
+
+### ANALIZA KETOGENICZNA I KOMENTARZ
+
+1. **Węglowodany netto (ok. 60g):** 
+   Przekroczyłeś barierę 50g netto, co w tym dniu wynikało głównie z **potężnej ilości kefiru** (200g + 400g + 200g = łącznie aż 800 ml kefiru w ciągu wieczora i nocy! To daje ok. 32g samej laktozy), a także pistacji i pomidorów z ogródka.
+
+2. **Wylączenie i powrót do ketogenezy (przy założeniu zerowego glikogenu na starcie):**
+   * **Kiedy nastąpiło wyłączenie?** Z uwagi na to, że 800 ml kefiru wpadło w skumulowanych dawkach pod koniec dnia i w nocy (wraz z pistacjami i śmietanką), wątroba otrzymała sporą dawkę laktozy. Insulina podskoczyła, co sprawiło, że **ketogeneza została przygaszona/wstrzymana w nocy**.
+   * **Kiedy nastąpił powrót?** Ponieważ nie było tu czystego cukru czy fruktozy z owoców, a laktoza i orzechy spalały się w towarzystwie dużej ilości tłuszczu (camembert, łosoś, mięso z oliwą, śmietanka 30%), organizm zużył tę pulę sprawnie. Szacunkowy powrót do pełnej produkcji ciał ketonowych nastąpił **nad ranem, około godziny 05:00 – 07:00**.
+
+3. **Komentarz ogólny:**
+   * **Kalorie (ok. 2883 kcal):** Bardzo solidna dawka energetyczna, w pełni pokrywająca zapotrzebowanie przy Twoich warunkach (188 cm / 80 kg). 
+   * **Kefirowe szaleństwo:** 800 ml kefiru to absolutny rekord w historii Twoich jadłospisów! Mianseryna wyraźnie domagała się płynnego, chłodnego nabiału w nocy. Na szczęście kefir to produkt fermentowany, więc organizm toleruje go znacznie lepiej niż czyste mleko, ale laktoza robi swoje w bilansie węglowodanów netto.
+   * **Pomidory z ogródka:** Zjedzenie 400g świeżych pomidorów z własnego krzaka to czysta przyjemność i świetna dawka potasu – w pełni popieram tę decyzję!
+========================================
+
+========================================
+=== USER ===
+Przyjmijmy ze jest 2 wrzesnia, godzina 13
+
+Moja konsumpcja za dzien 1 wrzesnia:
+
+Liczymy umownie 2 kawy do godz 14; kawa to 30g naparu, 10g smietanki o zawartosci tluszczu 30% i 10g mleka o zawartosci tluszczu 3.2%.
+
+Godziny posilku sa podane na koniec skladu posilku, jako dwie cyfry albo  cztery cyfry. Znaczenie tych cyfr jest nastepujace: jesli 2 cyfry w nawiasie to jest to godzina, jesli cztery cyfry w nawiasie - wtedy 2 pierwsze cyfry to godzina a 2 kolejne to minuty.
+
+ser żółty 3plastry, żywiecka 2plastry, pomidor 100g (16); boczek gotowany 250g (1930); majonez z oliwy z oliwek, pomidor 200g cebula szt czosnek 1szt (22); orzeszki ziemne 100g, kefir 400g (22345);
+
+Zadanie dla dnia 1 wrzesnia: poprosze jak zwykle wyodrebnij kazdy etap i dla kazdego etapu podaj weglowodany kazdego pokarmu, bilans etapu i bilans po etapie. To samo dla kalorycznosci. Po kazdym etapie podsumowanie dla dnia od poczatku do danego etapu wlacznie. Na koniec dnia komentarz o oknie zywieniowym (nie liczymy kaw i zakwasow) i inne kmentarze. Jesli watroba wylaczyla ketogeneze to oszacowanie kiedy to nastapilo i oszacowanie kiedy nastapil powrot do ketogenezy (zaklasamy kazdorazowo zerowe zapasy glikogenu w momencie pierwszego posilku stalego. Jak zwykle uwaga: Liczymy  tylko weglowodany NETTO!
+========================================
+
+=== GEMINI ===
+Oto szczegółowe, etapowe podsumowanie całego dnia **1 września (wtorek)**, z wyliczeniem węglowodanów NETTO, kalorii, okna żywieniowego oraz analizą ketogeniczną (z uwzględnieniem godzinowej literówki w nocnym posiłku, którą potraktowałem jako standardową porę ok. 22:45 / 23:00).
+
+---
+
+### ETAP I: Napoje przedpołudniowe
+*   **2 kawy (skład: 30g naparu + 10g śmietanki 30% + 10g mleka 3.2%):**
+    *   Węglowodany netto: ok. 0,8g x 2 = **1,6 g**
+    *   Kalorie: ok. 38 kcal x 2 = **76 kcal**
+
+*   **Bilans Etapu I:** **1,6 g Węglowodanów netto | 76 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE I:**
+*   **Węglowodany netto łącznie:** **1,6 g**
+*   **Kalorie łącznie:** **76 kcal**
+
+---
+
+### ETAP II: Popołudniowy posiłek (godz. 16:00)
+*   **Ser żółty – 3 plastry (ok. 60g):** 
+    *   Węglowodany netto: **0,6 g** | Kalorie: ok. 215 kcal
+*   **Kiełbasa Żywiecka – 2 plastry (ok. 40g):** 
+    *   Węglowodany netto: **0,5 g** | Kalorie: ok. 175 kcal
+*   **Pomidor (100g):** 
+    *   *Ok. 3,9g - 1,2g błonnik =* **2,7 g Węglowodanów netto** | Kalorie: ok. 18 kcal
+
+*   **Bilans Etapu II:** **3,8 g Węglowodanów netto | 408 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE II (do godz. 16:00):**
+*   **Węglowodany netto łącznie:** 1,6g + 3,8g = **5,4 g**
+*   **Kalorie łącznie:** 76 kcal + 408 kcal = **484 kcal**
+
+---
+
+### ETAP III: Wczesny wieczór (godz. 19:30)
+*   **Boczek gotowany (250g):** 
+    *   Węglowodany netto: **0 g** | Kalorie: ok. 1125 kcal
+
+*   **Bilans Etapu III:** **0 g Węglowodanów netto | 1125 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE III (do godz. 19:30):**
+*   **Węglowodany netto łącznie:** 5,4g + 0g = **5,4 g**
+*   **Kalorie łącznie:** 484 kcal + 1125 kcal = **1609 kcal**
+
+---
+
+### ETAP IV: Wieczór (godz. 22:00)
+*   **Majonez z oliwy z oliwek (przyjmijmy solidną porcję – ok. 30g / 2 łyżki):** 
+    *   Węglowodany netto: **0,4 g** | Kalorie: ok. 210 kcal
+*   **Pomidory (200g):** 
+    *   *Ok. 7,8g - 2,4g błonnik =* **5,4 g Węglowodanów netto** | Kalorie: ok. 36 kcal
+*   **Cebula (1 sztuka / ok. 80g):** 
+    *   *Ok. 7g - 1,5g błonnik = 5,5g netto na 100g -> dla 80g =* **4,4 g Węglowodanów netto** | Kalorie: ok. 32 kcal
+*   **Czosnek (1 ząbek / ok. 5g):** 
+    *   *Ok. 28g netto na 100g -> dla 5g =* **1,4 g Węglowodanów netto** | Kalorie: ok. 7 kcal
+
+*   **Bilans Etapu IV:** **11,6 g Węglowodanów netto | 285 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE IV (do godz. 22:00):**
+*   **Węglowodany netto łącznie:** 5,4g + 11,6g = **17,0 g**
+*   **Kalorie łącznie:** 1609 kcal + 285 kcal = **1894 kcal**
+
+---
+
+### ETAP V: Nocna faza mianserynowa / Północ (godz. 22:45)
+*   **Orzeszki ziemne (100g):** 
+    *   *Ok. 15g netto na 100g -> dla 100g =* **15,0 g Węglowodanów netto** | Kalorie: ok. 585 kcal
+*   **Kefir (400g – spora porcja laktozy):** 
+    *   *Laktoza: ok. 4g na 100ml -> dla 400ml =* **16,0 g Węglowodanów netto** | Kalorie: ok. 200 kcal
+
+*   **Bilans Etapu V:** **31,0 g Węglowodanów netto | 785 kcal**
+
+---
+
+### OSTATECZNE PODSUMOWANIE CAŁEGO DNIA (1 września - TOTAL)
+
+*   **Łącznie Węglowodanów netto:** 17,0g (Etapy I-IV) + 31,0g (Etap V) = **ok. 48,0 g węglowodanów netto**
+*   **Łącznie Kalorii (Energia):** 1894 kcal + 785 kcal = **ok. 2679 kcal**
+
+---
+
+### OKNO ŻYWIENIOWIOWE (Z wyłączeniem kaw)
+*   **Pierwszy posiłek stały:** godz. 16:00 (ser, żywiecka, pomidor).
+*   **Ostatni posiłek:** godz. 22:45 (orzeszki ziemne i kefir).
+*   **Długość okna żywieniowego:** Od 16:00 do 22:45 daje to okno wynoszące **6 godzin i 45 minut** (post przez pozostałe 17 godzin i 15 minut). Świetny wynik poniżej 7 godzin!
+
+---
+
+### ANALIZA KETOGENICZNA I KOMENTARZ
+
+1. **Węglowodany netto (ok. 48g):** 
+   Idealnie na styk poniżej progu 50g netto. Mimo sporej ilości pomidorów, cebuli, 400g kefiru i orzeszków na noc, zmieściłeś się w bezpiecznej strefie keto.
+
+2. **Wylączenie i powrót do ketogenezy (przy założeniu zerowego glikogenu na starcie):**
+   * **Czy wątroba wyłączyła ketogenezę?** Przy skumulowaniu 31g węglowodanów w nocy (kefir + fistaszki), odpowiedź insulinowa mogła **na kilka godzin spowolnić lub lekko przygasić produkcję ciał ketonowych**. 
+   * **Powrót:** Ponieważ były to naturalne źródła (laktoza i orzechy) w towarzystwie wcześniejszych 250g tłustego boczku, majonezu i kiełbasy, organizm spalił tę pulę płynnie. Szacunkowy powrót do pełnej produkcji ketonów nastąpił **w drugiej połowie nocy, ok. 03:00 – 04:00**.
+
+3. **Komentarz ogólny:**
+   * **Kalorie (ok. 2679 kcal):** Bardzo dobra, solidna dawka energii, świetnie skrojona pod Twoje parametry (188 cm / 80 kg). 
+   * **Pomidory i cebula z ogródka:** Korzystaj z dobrodziejstw natury, póki są! Organizm bez problemu radzi sobie z błonnikiem i warzywami, dopóki baza opiera się na tak solidnych blokach tłuszczowych jak gotowany boczek czy majonez z oliwy.
+   * **Okno poniżej 7 godzin:** Konsekwentne trzymanie okna poniżej 7-8 godzin staje się Twoim znakiem rozpoznawczym. Daje to organizmowi potężny bufor postu i świetnie dyscyplinuje apetyt.
+========================================
+
+========================================
+=== USER ===
+Przyjmijmy ze jest 3 wrzesnia, godzina 13
+
+Moja konsumpcja za dzien 2 wrzesnia:
+
+Liczymy umownie 2 kawy do godz 14; kawa to 30g naparu, 10g smietanki o zawartosci tluszczu 30% i 10g mleka o zawartosci tluszczu 3.2%.
+
+Godziny posilku sa podane na koniec skladu posilku, jako dwie cyfry albo cztery cyfry. Znaczenie tych cyfr jest nastepujace: jesli 2 cyfry w nawiasie to jest to znacznik godziny, jesli cztery cyfry w nawiasie - wtedy jest to znacznik godziny z minutami: 2 pierwsze cyfry to godzina a 2 kolejne to minuty.
+
+kiełbasa select myśliwska 270g (przez cały dzień od 1230); śmietana 30% 200g (21); ser żółty 3plastry, żywiecka 3plastry, pomidor 150g, kefir 300g (2130); orzeszki ziemne 100g (2230); 
+
+Zadanie dla dnia 2 wrzesnia: poprosze jak zwykle wyodrebnij kazdy etap i dla kazdego etapu podaj weglowodany kazdego pokarmu, bilans etapu i bilans po etapie. To samo dla kalorycznosci. Po kazdym etapie podsumowanie dla dnia od poczatku do danego etapu wlacznie. Na koniec dnia komentarz o oknie zywieniowym (nie liczymy kaw i zakwasow) i inne kmentarze. Jesli watroba wylaczyla ketogeneze to oszacowanie kiedy to nastapilo i oszacowanie kiedy nastapil powrot do ketogenezy (zaklasamy kazdorazowo zerowe zapasy glikogenu w momencie pierwszego posilku stalego. Jak zwykle uwaga: Liczymy  tylko weglowodany NETTO!
+========================================
+
+=== GEMINI ===
+Oto szczegółowe, etapowe podsumowanie całego dnia **2 września (środa)**, z uwzględnieniem Twoich stałych zasad (kawa, węglowodany NETTO, kalorie), nowego rozłożenia kiełbasy myśliwskiej "przez cały dzień", okna żywieniowego oraz analizy ketogenicznej.
+
+---
+
+### ETAP I: Napoje przedpołudniowe
+*   **2 kawy (skład: 30g naparu + 10g śmietanki 30% + 10g mleka 3.2%):**
+    *   Węglowodany netto: ok. 0,8g x 2 = **1,6 g**
+    *   Kalorie: ok. 38 kcal x 2 = **76 kcal**
+
+*   **Bilans Etapu I:** **1,6 g Węglowodanów netto | 76 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE I:**
+*   **Węglowodany netto łącznie:** **1,6 g**
+*   **Kalorie łącznie:** **76 kcal**
+
+---
+
+### ETAP II: Start posiłków (rozpoczęcie konsumpcji kiełbasy myśliwskiej, godz. 12:30)
+*   *Z racji tego, że kiełbasa select myśliwska 270g była podjadana "przez cały dzień od 12:30", wliczamy ją jako element otwierający okno żywieniowe o 12:30.*
+*   **Kiełbasa Select Myśliwska (270g):** 
+    *   *Wysokiej jakości sucha kiełbasa ma ok. 1,0g do 1,5g węglowodanów na 100g -> dla 270g =* **3,0 g Węglowodanów netto** | Kalorie: ok. 1140 kcal
+
+*   **Bilans Etapu II:** **3,0 g Węglowodanów netto | 1140 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE II (do godz. 12:30):**
+*   **Węglowodany netto łącznie:** 1,6g + 3,0g = **4,6 g**
+*   **Kalorie łącznie:** 76 kcal + 1140 kcal = **1216 kcal**
+
+---
+
+### ETAP III: Wieczór (godz. 21:00)
+*   **Śmietana 30% (200g):** 
+    *   *Ok. 2,8g węglowodanów na 100g -> dla 200g =* **5,6 g Węglowodanów netto** | Kalorie: ok. 600 kcal
+
+*   **Bilans Etapu III:** **5,6 g Węglowodanów netto | 600 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE III (do godz. 21:00):**
+*   **Węglowodany netto łącznie:** 4,6g + 5,6g = **10,2 g**
+*   **Kalorie łącznie:** 1216 kcal + 600 kcal = **1816 kcal**
+
+---
+
+### ETAP IV: Późny wieczór (godz. 21:30)
+*   **Ser żółty – 3 plastry (ok. 60g):** 
+    *   Węglowodany netto: **0,6 g** | Kalorie: ok. 215 kcal
+*   **Kiełbasa Żywiecka – 3 plastry (ok. 60g):** 
+    *   Węglowodany netto: **0,8 g** | Kalorie: ok. 260 kcal
+*   **Pomidor (150g):** 
+    *   *Ok. 5,8g - 1,8g błonnik =* **4,0 g Węglowodanów netto** | Kalorie: ok. 27 kcal
+*   **Kefir (300g):** 
+    *   *Laktoza: ok. 4g na 100ml -> dla 300ml =* **12,0 g Węglowodanów netto** | Kalorie: ok. 150 kcal
+
+*   **Bilans Etapu IV:** **17,4 g Węglowodanów netto | 652 kcal**
+
+**PODSUMOWANIE TOTAL PO ETAPIE IV (do godz. 21:30):**
+*   **Węglowodany netto łącznie:** 10,2g + 17,4g = **27,6 g**
+*   **Kalorie łącznie:** 1816 kcal + 652 kcal = **2468 kcal**
+
+---
+
+### ETAP V: Nocna faza mianserynowa / Finał (godz. 22:30)
+*   **Orzeszki ziemne (100g):** 
+    *   *Ok. 15g netto na 100g -> dla 100g =* **15,0 g Węglowodanów netto** | Kalorie: ok. 585 kcal
+
+*   **Bilans Etapu V:** **15,0 g Węglowodanów netto | 585 kcal**
+
+---
+
+### OSTATECZNE PODSUMOWANIE CAŁEGO DNIA (2 września - TOTAL)
+
+*   **Łącznie Węglowodanów netto:** 27,6g (Etapy I-IV) + 15,0g (Etap V) = **ok. 42,6 g węglowodanów netto**
+*   **Łącznie Kalorii (Energia):** 2468 kcal + 585 kcal = **ok. 3053 kcal**
+
+---
+
+### OKNO ŻYWIENIOWIOWE (Z wyłączeniem kaw)
+*   **Pierwszy posiłek stały:** godz. 12:30 (rozpoczęcie podjadania kiełbasy myśliwskiej).
+*   **Ostatni posiłek:** godz. 22:30 (orzeszki ziemne).
+*   **Długość okna żywieniowego:** Od 12:30 do 22:30 daje to okno wynoszące dokładnie **10 godzin** (post przez pozostałe 14 godzin).
+
+---
+
+### ANALIZA KETOGENICZNA I KOMENTARZ
+
+1. **Węglowodany netto (ok. 43g):** 
+   Kolejny bardzo czysty, modelowy dzień z pulą poniżej 45g węglowodanów netto. Mimo sporej ilości śmietany 30% (200g!), kefiru i orzeszków na noc, całość zmieściła się w bezpiecznym limicie keto.
+
+2. **Wylączenie i powrót do ketogenezy (przy założeniu zerowego glikogenu na starcie):**
+   * **Czy wątroba wyłączyła ketogenezę?** Przy poziomie ok. 43g węglowodanów rozłożonych na całą dobę (głównie laktoza z kefiru i śmietany oraz fistaszki), odpowiedź insulinowa była umiarkowana. Wątroba **nie zaliczyła twardego "resetu"** (brak czystego cukru, skrobi czy fruktozy), co najwyżej delikatnie zwolniła tempo produkcji ketonów w okolicach wieczornego kefiru i orzeszków.
+   * **Powrót:** Organizm spłukał te węglowodany niemal na bieżąco, a stabilna baza białkowo-tłuszczowa (kiełbasa myśliwska, żywiecka, ser, śmietana) utrzymała spalanie tłuszczu na wysokich obrotach.
+
+3. **Komentarz ogólny:**
+   * **Kalorie (ok. 3053 kcal):** Nieco wyższa pula energetyczna (przede wszystkim przez całą paczkę kiełbasy myśliwskiej 270g + 200g śmietany 30% + orzeszki), ale przy Twoim wzroście 188 cm i wadze 80 kg, raz na jakiś czas wyższa podaż kaloryczna z czystego keto to świetny sygnał dla metabolizmu, że "nie ma głodu".
+   * **Rozciągnięcie okna (10 godzin):** Z racji wczesnego startu o 12:30 z kiełbasą myśliwską, okno nieco się otworzyło, dając 10 godzin jedzenia. Mimo to, noc zamknęła się sprawnie o 22:30 bez dalszych ekscesów. Kolejny solidny dzień za Tobą!
+========================================
+
