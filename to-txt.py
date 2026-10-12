@@ -16,17 +16,18 @@ def formatuj_json_do_tekstu(sciezka_pliku, msg_to_skip):
             if i < msg_to_skip:
                 i = i + 1
                 continue
+
             rola = msg.get('role', 'unknown').upper()
             tresc = msg.get('text', '').strip()
-            
             # Zamiana nazwy roli na czytelniejszą
             if rola == 'MODEL':
-                rola = 'GEMINI'
-            else:
-                print("=" * 40)
+                print(f"=== GEMINI ===")
+                print(tresc)
+            # else:
+                # print("=" * 40)
+                # print(f"=== {rola} ===")
+                # print(tresc)
                 
-            print(f"=== {rola} ===")
-            print(tresc)
             print("=" * 40)
             print() # Dodatkowa pusta linia dla czytelności
             i = i + 1
