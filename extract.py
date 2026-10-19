@@ -3,14 +3,14 @@ import os
 
 # Słownik z jednoznacznymi skrótami (Q = potas, P = sympramol)
 DICTIONARY = {
-    "P": "sympramol",
-    "O": "obudzenie",
+    "L": "sympramol",
+    "J": "obudzenie",
     "W": "wstanie",
-    "S": "sól 2g (w 300g wody)",
-    "M": "cytrynian magnezu 1g",
-    "Q": "cytrynian potasu g (razem - w 100g wody)",
+    "S": "sól 2g w 300g wody",
+    "M": "cytrynian magnezu 1.5g w 50g wody",
+    "P": "cytrynian potasu 1.5g w 50g wody",
     "N": "żel z ugotowanego siemienia lnianego",
-    "F": "kawa ze śmietanka 36% - śmietanki 20g",
+    "F": "kawa i 20g śmietanki 36%",
     "Z": "zakwas buraczany",
     "R": "kreatyna",
     "G": "omega3",
@@ -21,8 +21,7 @@ DICTIONARY = {
     "T": "olej mct c8",
     "X": "deprexolet - mianseryna 10mg",
     "H": "melatonina",
-    "J": "jedzenie",
-    "V": "drążek"
+    "V": "cwiczenia na drabince - podciagniecia i dipy"
 }
 
 def decompress_diary_from_file(file_path):

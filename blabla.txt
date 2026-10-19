@@ -1,10 +1,15 @@
-19pn:
+19 pazdziernika, poniedzialek:
+L(0445); J(0845); W(09); SMP(0915); N(0945); F(10); F(1030); L(11); V(13); Z(1330); GKD(14);
+&mieso z puszki gulasz angielski łuków 300g& (14);
+L(17);
+&makaron - ważony przed ugotowaniem 40g, tuńczyk z puszki w sosie własnym - ryby 55g, pesto zielone dawtona 85g, oliwa z oliwek 10g& (17);
+X(18); 
+&orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g& (19); H(19);
 
-P(0445); O(0845); W(09); SMQ(0915); N(0945); F(10); F(1030); P(11); V(13); Z(1330); GKD &mieso z puszki gulasz angielski łuków 300g& (14);
-
-
-
-# 18n:
-
-PO(0730); W(0745); SMQ(08); N(0830); F(0845); F(0930); ZRGKDCBT(12); &mięso gotowane (odgrzewane na patelni z odrobiną wywaru) - mięso 300g, oliwa z oliwek 30g dodana na koniec& (12); P(17); &jajka L 3szt, tuńczyk z puszki w sosie własnym - ryba 110g, olej rzepakowy 40g, kawałek cebuli& (17); X(18); &czekolada domowa z erytrytolem czyli woda, masło 10g, kakao 20g& (18); &orzechy włoskie 50g, kefir 300g& (20); H(20); &myśliwska 45g, trochę kapusty kiszonej& (22);
-
+18 pazdziernika, niedziela:
+LJ(0730); W(0745); SMP(08); N(0830); F(0845); F(0930); LZRGKDCT(12);
+&mięso gotowane (odgrzewane na patelni z odrobiną wywaru) - mięso 300g, oliwa z oliwek 30g dodana na koniec& (12); L(17);
+&jajka L 3szt, tuńczyk z puszki w sosie własnym - ryba 110g, olej rzepakowy 40g, kawałek cebuli& (17); X(18);
+&czekolada domowa z erytrytolem czyli woda, masło 10g, kakao 20g& (18);
+&orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g& (20); H(20);
+&myśliwska 45g, trochę kapusty kiszonej& (22);

@@ -1,231 +1,68 @@
-### DZIEŃ 10 PAŹDZIERNIKA (Sobota)
+========================================
 
-* **06:10** – Sympramol
-* **06:00** – Obudzenie się
-* **07:45** – Wstanie z łóżka
-* **08:30** – Magnez, Potas, Sól, Siemię lniane - sam zel
-* **08:43** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **11:00** – Sympramol
-* **12:30** – Posiłek 1: W: 1.1g | kcal: 495 | B: 31.2g *(Jajka 3 szt.: 1.1g W, 219 kcal, 18.6g B; Tuńczyk 55g: 0g W, 55 kcal, 12.6g B; Olej rzepakowy 25g: 0g W, 221 kcal, 0g B)*
-* **12:30** – MCT 10g, Kreatyna, K2 (krople), D3 4000 UI, Omega3 kapsulka 1g, Witamina C
-* **13:00** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **17:00** – Sympramol, Cynk selen kompleks witaminy B
-* **18:00** – Cwiczenia na drazku (podciaganie, dipy)
-* **18:45** – Deprexolet
-* **19:00** – Posiłek 2: W: 2.5g | kcal: 1435 | B: 90.8g *(Łopatka grillowana 500g: 0g W, 1150 kcal, 90.0g B; Oliwa z oliwek 30g: 0g W, 268 kcal, 0g B; Cebula 20g: 1.5g W, 8 kcal, 0.3g B; Kapusta kiszona 50g: 1.0g W, 9 kcal, 0.5g B)*
-* **19:45** – Melatonina
-* **21:30** – Posiłek 3: W: 8.2g | kcal: 410 | B: 17.5g *(Orzechy ziemne 70g: 8.2g W, 410 kcal, 17.5g B)*
-
-**Podsumowanie dnia 10 października:**
-* Suma węglowodanów netto: **13.2 g**
-* Suma kalorii: **2460 kcal**
-* Suma białka: **140.3 g**
-* **Ocena wpływu na lipidogram:** bardzo dobry
-* *Komentarz:* Czysta dieta ketogeniczna bez cukrów prostych i wysoko przetworzonej żywności sprzyja redukcji stanów zapalnych oraz poprawie profilu lipidowego.
+=== GEMINI ===
+Oto szczegółowe podsumowanie obu dni, uwzględniające wszystkie wytyczne (makroskładniki dotyczą całego posiłku/kawy, węglowodany to węglowodany netto).
 
 ---
 
-### DZIEŃ 11 PAŹDZIERNIKA (Niedziela)
+### 19 października, poniedziałek
 
-* **08:00** – Obudzenie się
-* **09:00** – Sympramol
-* **09:15** – Wstanie z łóżka
-* **09:45** – Siemię lniane - sam zel
-* **10:00** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **10:04** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **10:30** – Sól
-* **12:00** – Posiłek 1: W: 0g | kcal: 430 | B: 38.0g *(Śledź wędzony 200g: 0g W, 430 kcal, 38.0g B)*
-* **12:30** – Sympramol
-* **13:00** – Posiłek 2: W: 15.5g | kcal: 710 | B: 52.6g *(Wątróbka smażona 250g: 1.5g W, 365 kcal, 50.0g B; Oliwa z oliwek 30g: 0g W, 268 kcal, 0g B; Cebula 180g: 13.5g W, 72 kcal, 2.3g B; Kapusta kiszona 25g: 0.5g W, 5 kcal, 0.3g B)*
-* **13:00** – K2 (krople), D3 4000 UI, Omega3 kapsulka 1g, Witamina C
-* **16:30** – Magnez, Potas
-* **17:00** – Sympramol
-* **18:00** – Posiłek 3: W: 2.8g | kcal: 675 | B: 38.1g *(Mięso gotowane 150g: 0g W, 300 kcal, 37.5g B; Smalec/tłuszcz 20g: 0g W, 180 kcal, 0g B; Kapusta kiszona 25g: 0.5g W, 4 kcal, 0.2g B; Oliwa z oliwek 20g: 0g W, 179 kcal, 0g B; Cebula 30g: 2.3g W, 12 kcal, 0.4g B)*
-* **18:15** – Deprexolet
-* **18:45** – Cynk selen kompleks witaminy B
-* **19:00** – Posiłek 4: W: 7.5g | kcal: 495 | B: 16.0g *(Orzechy włoskie 40g: 2.8g W, 260 kcal, 6.0g B; Orzechy ziemne 40g: 4.7g W, 235 kcal, 10.0g B)*
-* **19:30** – Melatonina
-* **20:00** – Posiłek 5: W: 37.6g | kcal: 442 | B: 25.4g *(Fasolka po bretońsku ze słoika 470g: 37.6g W, 442 kcal, 25.4g B)*
+**Chronologia zdarzeń:**
+*   [04:45] Sympramol
+*   [08:45] Obudzenie się
+*   [09:00] Wstanie
+*   [09:15] Suplementacja elektrolitami (sól, cytrynian magnezu, cytrynian potasu w wodzie)
+*   [09:45] Żel z ugotowanego siemienia lnianego
+*   [10:00] Kawa z 20g śmietanki 36% *(Węg. netto: 0.8g, 74 kcal, Białko: 0.5g)*
+*   [10:30] Kawa z 20g śmietanki 36% *(Węg. netto: 0.8g, 74 kcal, Białko: 0.5g)*
+*   [11:00] Sympramol
+*   [13:00] Ćwiczenia na drabince (podciągnięcia i dipy)
+*   [13:30] Zakwas buraczany
+*   [14:00] Suplementacja (omega-3, witamina K, witamina D)
+*   [14:00] Posiłek 1: Mięso z puszki (gulasz angielski Łuków 300g) *(Węg. netto: ~3.0g, 750 kcal, Białko: ~45.0g)*
+*   [17:00] Sympramol
+*   [17:00] Posiłek 2: Makaron 40g, tuńczyk w sosie własnym 55g, pesto zielone Dawtona 85g, oliwa z oliwek 10g *(Węg. netto: ~34.0g, 570 kcal, Białko: ~17.0g)*
+*   [18:00] Deprexolet (mianseryna 10mg)
+*   [19:00] Posiłek 3: Orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g *(Węg. netto: ~20.0g, 840 kcal, Białko: ~33.0g)*
+*   [19:00] Melatonina
 
-**Podsumowanie dnia 11 października:**
-* Suma węglowodanów netto: **64.8 g**
-* Suma kalorii: **2874 kcal**
-* Suma białka: **170.9 g**
-* **Ocena wpływu na lipidogram:** zły
-* *Komentarz:* Obecność przetworzonej fasolki z puszki oraz wyższa podaż węglowodanów w połączeniu z tłuszczami nasyconymi i smażonymi potrawami może negatywnie wpłynąć na poziom trójglicerydów.
-
----
-
-### DZIEŃ 12 PAŹDZIERNIKA (Poniedziałek)
-
-* **06:30** – Sympramol
-* **08:00** – Obudzenie się
-* **08:30** – Wstanie z łóżka
-* **09:00** – Siemię lniane - sam zel
-* **09:10** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **09:45** – Sól
-* **10:00** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **11:15** – Sympramol
-* **13:00** – Zakwas buraczany, Mct 10g, Kreatyna, K2 (krople), D3 4000 UI, Omega3 kapsulka 1g, Witamina C
-* **13:00** – Posiłek 1: W: 1.6g | kcal: 390 | B: 26.0g *(Jajka L 3 szt.: 1.6g W, 305 kcal, 26.0g B; MCT C8 10g: 0g W, 85 kcal, 0g B)*
-* **13:30** – Posiłek 2: W: 5.8g | kcal: 410 | B: 35.2g *(Wątróbka smażona 170g: 1.0g W, 248 kcal, 34.0g B; Oliwa z oliwek 15g: 0g W, 133 kcal, 0g B; Cebula świeża 50g: 3.8g W, 20 kcal, 0.7g B; Kapusta kiszona 50g: 1.0g W, 9 kcal, 0.5g B)*
-* **17:00** – Posiłek 3: W: 2.1g | kcal: 118 | B: 3.9g *(Domowa czekolada - masło 10g, kakao 20g, erytrytol 10g: 2.1g W, 118 kcal, 3.9g B)*
-* **17:00** – Sympramol
-* **18:00** – Deprexolet
-* **18:15** – Posiłek 4: W: 0g | kcal: 655 | B: 37.5g *(Mięso gotowane 150g: 0g W, 300 kcal, 37.5g B; Oliwa z oliwek 40g: 0g W, 355 kcal, 0g B)*
-* **20:00** – Melatonina
-* **20:00** – Posiłek 5: W: 2.8g | kcal: 260 | B: 6.0g *(Orzechy włoskie 40g: 2.8g W, 260 kcal, 6.0g B)*
-* **21:30** – Posiłek 6: W: 16.1g | kcal: 329 | B: 17.7g *(Kefir 300g: 12.6g W, 153 kcal, 10.2g B; Orzeszki ziemne 30g: 3.5g W, 176 kcal, 7.5g B)*
-
-**Podsumowanie dnia 12 października:**
-* Suma węglowodanów netto: **29.8 g**
-* Suma kalorii: **2292 kcal**
-* Suma białka: **127.1 g**
-* **Ocena wpływu na lipidogram:** bardzo dobry
-* *Komentarz:* Niska podaż węglowodanów, obecność oleju MCT oraz zdrowych tłuszczów i antyoksydantów wspiera optymalizację poziomu cholesterolu HDL i trójglicerydów.
+**Podsumowanie dnia:**
+*   **Suma węglowodanów netto:** ~58.6 g
+*   **Suma kalorii:** ~2308 kcal
+*   **Suma białka:** ~96.0 g
+*   **Ocena wpływu na lipidogram:** Zły.
+*   *Komentarz do lipidogramu:* Obecność wysoko przetworzonego mięsa z puszki oraz dość wysokich węglowodanów netto (jak na keto) może negatywnie wpływać na profil lipidowy.
+*   *Komentarz o ketozie:* Spożycie ok. 59g węglowodanów netto oraz makaronu najprawdopodobniej na krótko wyłączyło z głębokiej ketozy, ale ze względu na adaptację organizm szybko do niej powróci.
+*   *Komentarz o białku:* Spożyta ilość białka (~96g) przy wadze 88 kg jest minimalna, ale w połączeniu z treningiem siłowym powinna wystarczyć do podstawowej ochrony przed sarkopenią.
 
 ---
 
-### DZIEŃ 13 PAŹDZIERNIKA (Wtorek)
+### 18 października, niedziela
 
-* **04:00** – Sympramol
-* **08:00** – Obudzenie się, Wstanie z łóżka
-* **08:30** – Sól, Magnez, Potas
-* **08:45** – Siemię lniane - sam zel
-* **09:00** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **11:00** – Sympramol
-* **14:00** – Posiłek 1: W: 25.0g | kcal: 650 | B: 45.0g *(Kubełek KFC 1. porcja ok. 5.5 kawałka: 25.0g W, 650 kcal, 45.0g B)*
-* **18:00** – Posiłek 2: W: 25.0g | kcal: 650 | B: 45.0g *(Kubełek KFC 2. porcja ok. 5.5 kawałka: 25.0g W, 650 kcal, 45.0g B)*
-* **18:30** – Sympramol
-* **20:45** – Deprexolet
-* **21:00** – Posiłek 3: W: 12.4g | kcal: 415 | B: 21.0g *(Kiełbasa myśliwska 70g: 0.7g W, 292 kcal, 13.3g B; Kapusta kiszona 50g: 1.0g W, 9 kcal, 0.5g B; Cebula 30g: 2.3g W, 12 kcal, 0.4g B; Kefir 200g: 8.4g W, 102 kcal, 6.8g B)*
-* **21:00** – Melatonina
-* **22:00** – Posiłek 4: W: 4.2g | kcal: 390 | B: 9.0g *(Orzechy włoskie 60g: 4.2g W, 390 kcal, 9.0g B)*
-* **22:30** – Posiłek 5: W: 20.3g | kcal: 380 | B: 21.1g *(Orzeszki ziemne 30g: 3.5g W, 176 kcal, 7.5g B; Kefir 400g: 16.8g W, 204 kcal, 13.6g B)*
+**Chronologia zdarzeń:**
+*   [07:30] Sympramol, obudzenie się
+*   [07:45] Wstanie
+*   [08:00] Suplementacja elektrolitami (sól, cytrynian magnezu, cytrynian potasu w wodzie)
+*   [08:30] Żel z ugotowanego siemienia lnianego
+*   [08:45] Kawa z 20g śmietanki 36% *(Węg. netto: 0.8g, 74 kcal, Białko: 0.5g)*
+*   [09:30] Kawa z 20g śmietanki 36% *(Węg. netto: 0.8g, 74 kcal, Białko: 0.5g)*
+*   [12:00] Sympramol, zakwas buraczany, kreatyna, omega-3, witamina K, witamina D, witamina C, olej MCT C8
+*   [12:00] Posiłek 1: Mięso gotowane 300g, oliwa z oliwek 30g *(Węg. netto: ~1.0g, 810 kcal, Białko: ~66.0g)*
+*   [17:00] Sympramol
+*   [17:00] Posiłek 2: Jajka L 3 szt., tuńczyk w sosie własnym 110g, olej rzepakowy 40g, cebula *(Węg. netto: ~4.0g, 770 kcal, Białko: ~43.0g)*
+*   [18:00] Deprexolet (mianseryna 10mg)
+*   [18:00] Posiłek 3: Czekolada domowa (woda, masło 10g, kakao 20g, erytrytol) *(Węg. netto: ~3.0g, 175 kcal, Białko: ~4.0g)*
+*   [20:00] Posiłek 4: Orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g *(Węg. netto: ~20.0g, 840 kcal, Białko: ~33.0g)*
+*   [20:00] Melatonina
+*   [22:00] Posiłek 5 (poza oknem żywieniowym): Kiełbasa myśliwska 45g, kapusta kiszona *(Węg. netto: ~2.0g, 220 kcal, Białko: ~11.0g)*
 
-**Podsumowanie dnia 13 października:**
-* Suma węglowodanów netto: **88.3 g**
-* Suma kalorii: **2595 kcal**
-* Suma białka: **141.5 g**
-* **Ocena wpływu na lipidogram:** zły
-* *Komentarz:* Smażony w głębokim tłuszczu fast food w połączeniu z panierką silnie obciąża układ krążenia i negatywnie wpływa na profil lipidowy.
-
----
-
-### DZIEŃ 14 PAŹDZIERNIKA (Środa)
-
-* **06:30** – Sympramol
-* **06:30** – Obudzenie się
-* **08:15** – Wstanie z łóżka
-* **08:30** – Sól, Magnez, Potas
-* **08:45** – Siemię lniane - sam zel
-* **09:00** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **09:30** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **11:00** – Sympramol, Zakwas buraczany
-* **11:30** – Posiłek 1: W: 1.6g | kcal: 390 | B: 26.0g *(Jajka L 3 szt.: 1.6g W, 305 kcal, 26.0g B; MCT C8 10g: 0g W, 85 kcal, 0g B)*
-* **11:30** – K2 (krople), D3 4000 UI, Omega3 kapsulka 1g
-* **14:30** – Posiłek 2: W: 45.0g | kcal: 500 | B: 25.0g *(Kebab pita mała z kurczakiem: 45.0g W, 500 kcal, 25.0g B)*
-* **15:00** – Cwiczenia na drazku (podciaganie, dipy)
-* **17:00** – Posiłek 3: W: 37.0g | kcal: 380 | B: 12.5g *(Marcepan 62.5g: 28.0g W, 260 kcal, 4.5g B; Jogurt Bifidus 200g: 9.0g W, 120 kcal, 8.0g B)*
-* **18:00** – Sympramol
-* **19:00** – Posiłek 4: W: 0g | kcal: 672 | B: 18.0g *(Śledź w oleju z puszki 100g ryby + 50g oleju: 0g W, 672 kcal, 18.0g B)*
-* **20:00** – Posiłek 5: W: 28.0g | kcal: 260 | B: 4.5g *(Marcepan 62.5g: 28.0g W, 260 kcal, 4.5g B)*
-* **21:00** – Posiłek 6: W: 17.4g | kcal: 368 | B: 23.6g *(Ser żółty 40g: 0.6g W, 164 kcal, 10.0g B; Kefir 400g: 16.8g W, 204 kcal, 13.6g B)*
-* **21:00** – Deprexolet
-* **21:15** – Melatonina
-* **21:30** – Posiłek 7: W: 3.5g | kcal: 325 | B: 7.5g *(Orzechy włoskie 50g: 3.5g W, 325 kcal, 7.5g B)*
-* **23:00** – Posiłek 8: W: 0.9g | kcal: 375 | B: 17.1g *(Kiełbasa myśliwska 90g: 0.9g W, 375 kcal, 17.1g B)*
-
-**Podsumowanie dnia 14 października:**
-* Suma węglowodanów netto: **134.8 g**
-* Suma kalorii: **3490 kcal**
-* Suma białka: **135.0 g**
-* **Ocena wpływu na lipidogram:** bardzo zły
-* *Komentarz:* Duża dawka cukrów prostych z marcepanu oraz węglowodanów w połączeniu z wysoką kalorycznością i tłuszczami nasyconymi silnie zaburza gospodarkę lipidową i glikemiczną.
-
----
-
-### DZIEŃ 15 PAŹDZIERNIKA (Czwartek)
-
-* **07:00** – Sympramol
-* **07:00** – Obudzenie się
-* **08:30** – Wstanie z łóżka
-* **09:00** – Sól, Magnez, Potas
-* **09:30** – Siemię lniane - sam zel
-* **09:45** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **11:15** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **12:00** – Sympramol
-* **15:00** – Zakwas buraczany
-* **15:00** – Posiłek 1: W: 0g | kcal: 579 | B: 50.0g *(Mięso gotowane 200g: 0g W, 400 kcal, 50.0g B; Oliwa z oliwek 20g: 0g W, 179 kcal, 0g B)*
-* **17:30** – Sympramol
-* **19:00** – Posiłek 2: W: 0g | kcal: 579 | B: 50.0g *(Mięso gotowane 200g: 0g W, 400 kcal, 50.0g B; Oliwa z oliwek 20g: 0g W, 179 kcal, 0g B)*
-* **19:15** – Deprexolet
-* **20:00** – Omega3 kapsulka 1g, Melatonina
-* **20:00** – Posiłek 3: W: 26.1g | kcal: 822 | B: 33.6g *(Orzechy włoskie 50g: 3.5g W, 325 kcal, 7.5g B; Orzeszki ziemne 50g: 5.8g W, 293 kcal, 12.5g B; Kefir 400g: 16.8g W, 204 kcal, 13.6g B)*
-
-**Podsumowanie dnia 15 października:**
-* Suma węglowodanów netto: **27.5 g**
-* Suma kalorii: **2100 kcal**
-* Suma białka: **134.4 g**
-* **Ocena wpływu na lipidogram:** bardzo dobry
-* *Komentarz:* Niska podaż węglowodanów i brak przetworzonej żywności w połączeniu ze zdrowymi tłuszczami wspierają prawidłowy profil lipidowy i redukcję stanów zapalnych.
-
----
-
-### DZIEŃ 16 PAŹDZIERNIKA (Piątek)
-
-* **06:00** – Sympramol, Obudzenie się
-* **08:15** – Wstanie z łóżka
-* **08:30** – Sól, Magnez, Potas
-* **08:45** – Siemię lniane - sam zel
-* **09:00** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **09:30** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **11:30** – Sympramol
-* **12:00** – Zakwas buraczany
-* **12:00** – Posiłek 1: W: 0g | kcal: 340 | B: 30.0g *(Śledź wędzony na gorąco 160g: 0g W, 340 kcal, 30.0g B)*
-* **14:00** – Magnez
-* **16:00** – Mct 10g, K2 (krople), Omega3 kapsulka 1g, Witamina C
-* **16:00** – Posiłek 2: W: 13.8g | kcal: 867 | B: 41.3g *(Jajka L 3 szt.: 1.6g W, 305 kcal, 26.0g B; Ser żółty 60g: 0.8g W, 246 kcal, 15.0g B; Oliwa z oliwek 20g: 0g W, 179 kcal, 0g B; Jabłko 100g: 11.4g W, 52 kcal, 0.3g B; MCT C8 10g: 0g W, 85 kcal, 0g B)*
-* **17:30** – Sympramol
-* **18:00** – Cwiczenia na drazku (podciaganie, dipy)
-* **18:30** – Deprexolet
-* **19:00** – Posiłek 3: W: 7.7g | kcal: 594 | B: 10.9g *(Kapusta kiszona 150g: 3.2g W, 27 kcal, 1.4g B; Oliwa z oliwek 30g: 0g W, 268 kcal, 0g B; Olej rzepakowy 10g: 0g W, 88 kcal, 0g B; Kiełbasa myśliwska 45g: 0.5g W, 188 kcal, 8.6g B; Czosnek 10g: 2.5g W, 15 kcal, 0.6g B; Cebula 20g: 1.5g W, 8 kcal, 0.3g B)*
-* **19:30** – Melatonina
-* **20:00** – Posiłek 4: W: 21.9g | kcal: 771 | B: 30.2g *(Orzechy włoskie 50g: 3.5g W, 325 kcal, 7.5g B; Orzeszki ziemne 50g: 5.8g W, 293 kcal, 12.5g B; Kefir 300g: 12.6g W, 153 kcal, 10.2g B)*
-
-**Podsumowanie dnia 16 października:**
-* Suma węglowodanów netto: **44.8 g**
-* Suma kalorii: **2752 kcal**
-* Suma białka: **113.2 g**
-* **Ocena wpływu na lipidogram:** bardzo dobry
-* *Komentarz:* Obecność bogatego w kwasy Omega-3 śledzia, zdrowych olejów oraz kiszonek bardzo korzystnie wpływa na profil lipidowy i układ krążenia.
-
----
-
-### DZIEŃ 17 PAŹDZIERNIKA (Sobota)
-
-* **07:00** – Sympramol
-* **09:00** – Obudzenie się
-* **09:30** – Wstanie z łóżka
-* **09:45** – Sól, Magnez, Potas
-* **10:00** – Siemię lniane - sam zel
-* **10:30** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **12:00** – Kawa (17g śmietanki 36%): W: 0.7g | kcal: 60 | B: 0.4g
-* **13:00** – Zakwas buraczany, Kreatyna, K2 (krople), D3 4000 UI, Omega3 kapsulka 1g, Witamina C
-* **13:00** – Sympramol
-* **13:00** – Posiłek 1: W: 0g | kcal: 579 | B: 50.0g *(Mięso gotowane 200g: 0g W, 400 kcal, 50.0g B; Smalec z wywaru 10g: 0g W, 90 kcal, 0g B; Oliwa z oliwek 10g: 0g W, 89 kcal, 0g B)*
-* **16:00** – Posiłek 2: W: 0g | kcal: 340 | B: 30.0g *(Śledź wędzony 160g: 0g W, 340 kcal, 30.0g B)*
-* **17:30** – Sympramol
-* **18:30** – Posiłek 3: W: 1.0g | kcal: 100 | B: 1.5g *(Czekolada domowa - erytrytol, masło 10g, kakao: 1.0g W, 100 kcal, 1.5g B)*
-* **18:30** – Deprexolet
-* **19:30** – Posiłek 4: W: 0g | kcal: 579 | B: 50.0g *(Mięso gotowane 200g: 0g W, 400 kcal, 50.0g B; Oliwa z oliwek 20g: 0g W, 179 kcal, 0g B)*
-* **20:30** – Melatonina
-* **21:00** – Posiłek 5: W: 21.9g | kcal: 771 | B: 30.2g *(Orzechy włoskie 50g: 3.5g W, 325 kcal, 7.5g B; Orzeszki ziemne 50g: 5.8g W, 293 kcal, 12.5g B; Kefir 300g: 12.6g W, 153 kcal, 10.2g B)*
-
-**Podsumowanie dnia 17 października:**
-* Suma węglowodanów netto: **24.3 g**
-* Suma kalorii: **2489 kcal**
-* Suma białka: **162.5 g**
-* **Ocena wpływu na lipidogram:** bardzo dobry
-* *Komentarz:* Klasyczny, modelowy jadłospis ketogeniczny z dużą ilością kwasów Omega-3 z ryb oraz zdrowych tłuszczów doskonale wspiera optymalizację lipidogramu.
+**Podsumowanie dnia:**
+*   **Suma węglowodanów netto:** ~31.6 g
+*   **Suma kalorii:** ~2963 kcal
+*   **Suma białka:** ~158.0 g
+*   **Ocena wpływu na lipidogram:** Neutralny.
+*   *Komentarz do lipidogramu:* Przewaga zdrowych tłuszczów (oliwa, MCT, orzechy) oraz nieprzetworzonego białka sprzyja utrzymaniu stabilnego profilu lipidowego.
+*   *Komentarz o ketozie:* Niski poziom węglowodanów netto (~32g) oraz obecność oleju MCT idealnie wspierają stan głębokiej ketozę bez ryzyka jej przerwania.
+*   *Komentarz o białku:* Wysoka podaż białka (ok. 158g) doskonale wspiera syntezę włókien mięśniowych i stanowi silny czynnik zapobiegający sarkopenii.
+========================================
 
