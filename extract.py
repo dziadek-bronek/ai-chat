@@ -64,7 +64,7 @@ def decompress_diary_from_file(file_path):
                         formatted_time = time
 
                     # Przypadek A: Tekst wewnątrz apostrofów
-                    if (body.startswith("&") and body.endswith("&")):
+                    if body.startswith("&") and body.endswith("&"):
                         content = body[1:-1].strip()
                         output_lines.append(f"[{formatted_time}] {content}")
 
