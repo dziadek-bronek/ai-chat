@@ -1,12 +1,38 @@
-19 pazdziernika, poniedzialek:
+
+22cz
+JL(07); W(0730); SMP(08); N(0815); F(0830); F(0930); L(1130); 
+
+21sr
+JL(08); W(09); SMP(0915);
+N(0930); F(0945); L(14);
+& kiełbasa select myśliwska 90g, ser żółty 100g & (15);
+L(17);
+& mleko 400g, fasolka po bretońsku cały słoik  500g & (17);
+X(18); H(1930); 
+& orzechy włoskie 100g, kefir 400g & (1940);
+L(2230); 
+
+20wt
+L(06);J(07);W(0730);SMP(0745);
+N(08); F(0815); F(09);
+Z(11); LRGKDCT(1115);
+&jajka L 3szt& (1115); 
+&Indyk duszony 200g z tłuszczem 20g (tłuszcz indyka, olej)& (15); LB(17);
+& dzień bez deprexoletu & (19); 
+& piwo 1160g , whisky 20g, rum 20g & (20);
+&śledź w oleju z puszki 100/170 - zjadłem rybę razem z zalewa, makrela w oleju z puszki 100/180 zjadłem rybę razem z zalewa& (22);
+H(23);
+& orzechy włoskie 100g, kefir 300g & (2230); 
+
+19pn:
 L(0445); J(0845); W(09); SMP(0915); N(0945); F(10); F(1030); L(11); V(13); Z(1330); GKD(14);
 &mieso z puszki gulasz angielski łuków 300g& (14);
 L(17);
 &makaron - ważony przed ugotowaniem 40g, tuńczyk z puszki w sosie własnym - ryby 55g, pesto zielone dawtona 85g, oliwa z oliwek 10g& (17);
-X(18); 
-&orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g& (19); H(19);
+X(1830); 
+&orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g& (20); H(20);
 
-18 pazdziernika, niedziela:
+18n:
 LJ(0730); W(0745); SMP(08); N(0830); F(0845); F(0930); LZRGKDCT(12);
 &mięso gotowane (odgrzewane na patelni z odrobiną wywaru) - mięso 300g, oliwa z oliwek 30g dodana na koniec& (12); L(17);
 &jajka L 3szt, tuńczyk z puszki w sosie własnym - ryba 110g, olej rzepakowy 40g, kawałek cebuli& (17); X(18);

@@ -17,11 +17,12 @@ DICTIONARY = {
     "K": "witamina K",
     "D": "witamina D",
     "C": "witamina C",
-    "B": "witamina B",
+    "Q": "witamina B",
     "T": "olej mct c8",
     "X": "deprexolet - mianseryna 10mg",
     "H": "melatonina",
-    "V": "cwiczenia na drabince - podciagniecia i dipy"
+    "V": "cwiczenia na drabince - podciagniecia i dipy",
+    "B": "cynk selen kompleks witamin B"
 }
 
 def decompress_diary_from_file(file_path):
