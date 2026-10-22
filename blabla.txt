@@ -1,7 +1,7 @@
-
 22cz
-JL(07); W(0730); SMP(08); N(0815); F(0830); F(0930); L(1130); 
-
+JL(07); W(0730); SMP(08); N(0815); F(0830); F(0930); L(1130);
+ZGKDCT(1230);
+& szynka i łopatka świeżo  ugotowane wybrane tłuściejsze kawałki 300g & (1230); 
 21sr
 JL(08); W(09); SMP(0915);
 N(0930); F(0945); L(14);
@@ -9,9 +9,8 @@ N(0930); F(0945); L(14);
 L(17);
 & mleko 400g, fasolka po bretońsku cały słoik  500g & (17);
 X(18); H(1930); 
-& orzechy włoskie 100g, kefir 400g & (1940);
+& orzechy włoskie 100g, kefir 400g & (1945);
 L(2230); 
-
 20wt
 L(06);J(07);W(0730);SMP(0745);
 N(08); F(0815); F(09);
@@ -23,7 +22,6 @@ Z(11); LRGKDCT(1115);
 &śledź w oleju z puszki 100/170 - zjadłem rybę razem z zalewa, makrela w oleju z puszki 100/180 zjadłem rybę razem z zalewa& (22);
 H(23);
 & orzechy włoskie 100g, kefir 300g & (2230); 
-
 19pn:
 L(0445); J(0845); W(09); SMP(0915); N(0945); F(10); F(1030); L(11); V(13); Z(1330); GKD(14);
 &mieso z puszki gulasz angielski łuków 300g& (14);
@@ -31,7 +29,6 @@ L(17);
 &makaron - ważony przed ugotowaniem 40g, tuńczyk z puszki w sosie własnym - ryby 55g, pesto zielone dawtona 85g, oliwa z oliwek 10g& (17);
 X(1830); 
 &orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g& (20); H(20);
-
 18n:
 LJ(0730); W(0745); SMP(08); N(0830); F(0845); F(0930); LZRGKDCT(12);
 &mięso gotowane (odgrzewane na patelni z odrobiną wywaru) - mięso 300g, oliwa z oliwek 30g dodana na koniec& (12); L(17);
