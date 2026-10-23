@@ -1,4 +1,4 @@
-3pt
+23pt
 [06:30] obudzenie, sympramol
 [09:45] obudzenie
 [10:00] wstanie
@@ -12,6 +12,9 @@
 [13:00] jajka L 3szt, oliwa z oliwek 10g
 [15:00] witamina D
 [15:00] ser żółty 130g
+[17:00] sympramol
+[18:00] cwiczenia na drabince - podciagniecia i dipy
+[18:30] paprykarz szczeciński 330g, co daje 24g węglowodanów, 16g tłuszczu, 20g białka
 
 22cz
 [07:00] obudzenie, sympramol

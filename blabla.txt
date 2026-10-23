@@ -1,9 +1,11 @@
-3pt
+23pt
 JL(0630); J(0945); W(10);
 SMP(1015); N(1030); F(1045);
 F(1115); L(12); Z(1230); RGDCT(13);
 & jajka L 3szt, oliwa z oliwek 10g & (13); D(15);
-& ser żółty 130g & (15); 
+& ser żółty 130g & (15);
+L(17); V(18);
+& paprykarz szczeciński 330g, co daje 24g węglowodanów, 16g tłuszczu, 20g białka & (1830);
 
 22cz
 JL(07); W(0730); SMP(08); N(0815); F(0830); F(0930); L(1130);
