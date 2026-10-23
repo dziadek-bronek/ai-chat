@@ -1,7 +1,9 @@
-23pt
+3pt
 JL(0630); J(0945); W(10);
 SMP(1015); N(1030); F(1045);
-F(1115); 
+F(1115); L(12); Z(1230); RGDCT(13);
+& jajka L 3szt, oliwa z oliwek 10g & (13); D(15);
+& ser żółty 130g & (15); 
 
 22cz
 JL(07); W(0730); SMP(08); N(0815); F(0830); F(0930); L(1130);
@@ -14,7 +16,7 @@ X(1845); H(20); & mleko 200g & (20); & orzechy włoskie 100g, mleko 200g &(23);
 21sr
 JL(08); W(09); SMP(0915);
 N(0930); F(0945); L(14);
-& kiełbasa select myśliwska 90g, ser żółty 100g & (15);
+& kiełbasa select myśliwska 90g, ser żółty 70g & (15);
 L(17);
 & mleko 400g, fasolka po bretońsku cały słoik  500g & (17);
 X(18); H(1930); 
@@ -48,3 +50,4 @@ LJ(0730); W(0745); SMP(08); N(0830); F(0845); F(0930); LZRGKDCT(12);
 &czekolada domowa z erytrytolem czyli woda, masło 10g, kakao 20g& (18);
 &orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g& (20); H(20);
 &myśliwska 45g, trochę kapusty kiszonej& (22);
+

@@ -1,4 +1,4 @@
-23pt
+3pt
 [06:30] obudzenie, sympramol
 [09:45] obudzenie
 [10:00] wstanie
@@ -6,6 +6,12 @@
 [10:30] żel z ugotowanego siemienia lnianego
 [10:45] kawa i 20g śmietanki 36%
 [11:15] kawa i 20g śmietanki 36%
+[12:00] sympramol
+[12:30] zakwas buraczany
+[13:00] kreatyna, omega3, witamina D, witamina C, olej mct c8
+[13:00] jajka L 3szt, oliwa z oliwek 10g
+[15:00] witamina D
+[15:00] ser żółty 130g
 
 22cz
 [07:00] obudzenie, sympramol
@@ -31,7 +37,7 @@
 [09:30] żel z ugotowanego siemienia lnianego
 [09:45] kawa i 20g śmietanki 36%
 [14:00] sympramol
-[15:00] kiełbasa select myśliwska 90g, ser żółty 100g
+[15:00] kiełbasa select myśliwska 90g, ser żółty 70g
 [17:00] sympramol
 [17:00] mleko 400g, fasolka po bretońsku cały słoik  500g
 [18:00] deprexolet - mianseryna 10mg
@@ -93,3 +99,4 @@
 [20:00] orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g
 [20:00] melatonina
 [22:00] myśliwska 45g, trochę kapusty kiszonej
+
