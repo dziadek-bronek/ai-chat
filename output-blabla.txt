@@ -1,8 +1,17 @@
+24so
+[05:30] obudzenie, sympramol
+[08:15] wstanie
+[08:30] sól 1g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[08:45] żel z ugotowanego siemienia lnianego
+[09:15] kawa i 20g śmietanki 36%
+[10:30] kawa i 20g śmietanki 36%
+[11:30] sympramol
+
 23pt
 [06:30] obudzenie, sympramol
 [09:45] obudzenie
 [10:00] wstanie
-[10:15] sól 2g w 300g wody, cytrynian magnezu 1.5g w 50g wody, cytrynian potasu 1.5g w 50g wody
+[10:15] sól 1g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
 [10:30] żel z ugotowanego siemienia lnianego
 [10:45] kawa i 20g śmietanki 36%
 [11:15] kawa i 20g śmietanki 36%
@@ -14,12 +23,16 @@
 [15:00] ser żółty 130g
 [17:00] sympramol
 [18:00] cwiczenia na drabince - podciagniecia i dipy
-[18:30] paprykarz szczeciński 330g, co daje 24g węglowodanów, 16g tłuszczu, 20g białka
+[18:30] paprykarz szczeciński 330g, co daje 20g białka, 16g tłuszczu, 24g węglowodanów
+[19:00] deprexolet - mianseryna 10mg
+[21:30] Orzechy włoskie 100g
+[21:30] melatonina
+[22:30] ser żółty 150g
 
 22cz
 [07:00] obudzenie, sympramol
 [07:30] wstanie
-[08:00] sól 2g w 300g wody, cytrynian magnezu 1.5g w 50g wody, cytrynian potasu 1.5g w 50g wody
+[08:00] sól 1g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
 [08:15] żel z ugotowanego siemienia lnianego
 [08:30] kawa i 20g śmietanki 36%
 [09:30] kawa i 20g śmietanki 36%
@@ -36,7 +49,7 @@
 21sr
 [08:00] obudzenie, sympramol
 [09:00] wstanie
-[09:15] sól 2g w 300g wody, cytrynian magnezu 1.5g w 50g wody, cytrynian potasu 1.5g w 50g wody
+[09:15] sól 1g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
 [09:30] żel z ugotowanego siemienia lnianego
 [09:45] kawa i 20g śmietanki 36%
 [14:00] sympramol
@@ -52,7 +65,7 @@
 [06:00] sympramol
 [07:00] obudzenie
 [07:30] wstanie
-[07:45] sól 2g w 300g wody, cytrynian magnezu 1.5g w 50g wody, cytrynian potasu 1.5g w 50g wody
+[07:45] sól 1g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
 [08:00] żel z ugotowanego siemienia lnianego
 [08:15] kawa i 20g śmietanki 36%
 [09:00] kawa i 20g śmietanki 36%
@@ -71,7 +84,7 @@
 [04:45] sympramol
 [08:45] obudzenie
 [09:00] wstanie
-[09:15] sól 2g w 300g wody, cytrynian magnezu 1.5g w 50g wody, cytrynian potasu 1.5g w 50g wody
+[09:15] sól 1g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
 [09:45] żel z ugotowanego siemienia lnianego
 [10:00] kawa i 20g śmietanki 36%
 [10:30] kawa i 20g śmietanki 36%
@@ -89,7 +102,7 @@
 18n:
 [07:30] sympramol, obudzenie
 [07:45] wstanie
-[08:00] sól 2g w 300g wody, cytrynian magnezu 1.5g w 50g wody, cytrynian potasu 1.5g w 50g wody
+[08:00] sól 1g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
 [08:30] żel z ugotowanego siemienia lnianego
 [08:45] kawa i 20g śmietanki 36%
 [09:30] kawa i 20g śmietanki 36%
