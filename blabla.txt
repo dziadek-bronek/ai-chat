@@ -1,6 +1,7 @@
 24so
 JL(0530); W(0815); SMP(0830);
-N(0845); F(0915); F(1030); L(1130); 
+N(0845); F(0915); F(1030); L(1130); Z(1230);
+& łopatka i szynka gotowane, odgrzane na patelni 400g, na koniec po wyłączeniu grzania dodana oliwa z oliwek 40g &(13); 
 
 23pt
 JL(0630); J(0945); W(10);
