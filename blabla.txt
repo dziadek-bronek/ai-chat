@@ -1,7 +1,20 @@
+25n
+L(06); JW(0845); SMP(09);
+N(0915); F(0945); F(1045); Z(13);
+RGKDCT(14); 
+& jajka L 3szt, oliwa z oliwek 10g & (14); 
+& łopatka i szynka gotowane, odgrzane na patelni 250g, po wyłączeniu grzania dodana oliwa z oliwek 40g & (1730); 
+L(1845); X(1930); H(22); 
+& orzechy włoskie 50g, orzechy ziemne 50g, kefir 300g & (22);
+
 24so
 JL(0530); W(0815); SMP(0830);
 N(0845); F(0915); F(1030); L(1130); Z(1230);
-& łopatka i szynka gotowane, odgrzane na patelni 400g, na koniec po wyłączeniu grzania dodana oliwa z oliwek 40g &(13); 
+& łopatka i szynka gotowane, odgrzane na patelni 270g, na koniec po wyłączeniu grzania dodana oliwa z oliwek 30g & (13); 
+B(16);
+& łopatka i szynka gotowane, odgrzane na patelni 130g, na koniec po wyłączeniu grzania dodana oliwa z oliwek 10g & (16); 
+L(18); X(19); H(20);
+& orzechy włoskie 40g, orzechy ziemne 60g, kefir 270g & (20);
 
 23pt
 JL(0630); J(0945); W(10);
