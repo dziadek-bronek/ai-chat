@@ -1,10 +1,18 @@
+27wt
+L(06); J(07); W(0745); SMP(08); N(0815); F(0830); F(10); L(1130);
+& awokado 1szt, bułki słodkie cynamonki bez lukru 2szt, razem 120g & (14); V(15); Z(1530);
+& makrela wędzona 160g & (1530);
+& biała kiełbasa 300g &(16);
+KDC(16); L(17); X(18); H(19);
+& orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g & (20); 
+
 26pn
 L(0630); J(0815); W(0845); SMP(09); N(0915);
 F(0930); F(1015); L(12); Z(1230);
 & łopatka i szynka gotowane, odgrzane na patelni 220g, smalec wygotowany z miesa 70g & (13);
 KDT(14);
 & maslo 10g, kakao 20g, erytrytol 7g & (1430); LB(1730); X(1830);
-& śledź w oleju puszka 100g, zalewa 70g & (1830); H(22); 
+& śledź w oleju puszka: ryba 100g, zalewa 70g & (1830); H(20); 
 & orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g & (20);
 
 25n
@@ -13,6 +21,8 @@ N(0915); F(0945); F(1045); Z(13);
 RGKDCT(14); 
 & jajka L 3szt, oliwa z oliwek 10g & (14); V(17); 
 & łopatka i szynka gotowane, odgrzane na patelni 250g, po podgrzaniu dodana oliwa z oliwek 40g & (1730); 
+L(1845); X(1930); H(22);
+& orzechy włoskie 50g, orzechy ziemne 50g, kefir 300g & (22);
 
 24so
 JL(0530); W(0815); SMP(0830);

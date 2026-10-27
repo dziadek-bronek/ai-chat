@@ -20,7 +20,7 @@ DICTIONARY = {
     "Q": "witamina B",
     "T": "olej mct c8",
     "X": "deprexolet - mianseryna 10mg",
-    "H": "melatonina",
+    "H": "melatonina 1g",
     "V": "cwiczenia na drabince - podciagniecia i dipy",
     "B": "cynk selen kompleks witamin B"
 }

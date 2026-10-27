@@ -1,3 +1,23 @@
+27wt
+[06:00] sympramol
+[07:00] obudzenie
+[07:45] wstanie
+[08:00] sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[08:15] żel z ugotowanego siemienia lnianego
+[08:30] kawa i 20g śmietanki 36%
+[10:00] kawa i 20g śmietanki 36%
+[11:30] sympramol
+[14:00] awokado 1szt, bułki słodkie cynamonki bez lukru 2szt, razem 120g
+[15:00] cwiczenia na drabince - podciagniecia i dipy
+[15:30] zakwas buraczany
+[15:30] makrela wędzona 160g
+[16:00] biała kiełbasa 300g
+[16:00] witamina K, witamina D, witamina C
+[17:00] sympramol
+[18:00] deprexolet - mianseryna 10mg
+[19:00] melatonina 1g
+[20:00] orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g
+
 26pn
 [06:30] sympramol
 [08:15] obudzenie
@@ -13,8 +33,8 @@
 [14:30] maslo 10g, kakao 20g, erytrytol 7g
 [17:30] sympramol, cynk selen kompleks witamin B
 [18:30] deprexolet - mianseryna 10mg
-[18:30] śledź w oleju puszka 100g, zalewa 70g
-[22:00] melatonina
+[18:30] śledź w oleju puszka: ryba 100g, zalewa 70g
+[20:00] melatonina 1g
 [20:00] orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g
 
 25n
@@ -29,6 +49,10 @@
 [14:00] jajka L 3szt, oliwa z oliwek 10g
 [17:00] cwiczenia na drabince - podciagniecia i dipy
 [17:30] łopatka i szynka gotowane, odgrzane na patelni 250g, po podgrzaniu dodana oliwa z oliwek 40g
+[18:45] sympramol
+[19:30] deprexolet - mianseryna 10mg
+[22:00] melatonina 1g
+[22:00] orzechy włoskie 50g, orzechy ziemne 50g, kefir 300g
 
 24so
 [05:30] obudzenie, sympramol
@@ -44,7 +68,7 @@
 [16:00] łopatka i szynka gotowane, odgrzane na patelni 130g, na koniec po wyłączeniu grzania dodana oliwa z oliwek 10g
 [18:00] sympramol
 [19:00] deprexolet - mianseryna 10mg
-[20:00] melatonina
+[20:00] melatonina 1g
 [20:00] orzechy włoskie 40g, orzechy ziemne 60g, kefir 270g
 
 23pt
@@ -66,7 +90,7 @@
 [18:30] paprykarz szczeciński 330g, co daje 20g białka, 16g tłuszczu, 24g węglowodanów
 [19:00] deprexolet - mianseryna 10mg
 [21:30] Orzechy włoskie 100g
-[21:30] melatonina
+[21:30] melatonina 1g
 [22:30] ser żółty 150g
 
 22cz
@@ -82,7 +106,7 @@
 [17:30] sympramol
 [18:00] szynka i łopatka świeżo  ugotowane wybrane tłuściejsze kawałki 350g, musztarda 100g w tym węglowodany 7g
 [18:45] deprexolet - mianseryna 10mg
-[20:00] melatonina
+[20:00] melatonina 1g
 [20:00] mleko 200g
 [23:00] orzechy włoskie 100g, mleko 200g
 
@@ -97,7 +121,7 @@
 [17:00] sympramol
 [17:00] mleko 400g, fasolka po bretońsku cały słoik  500g
 [18:00] deprexolet - mianseryna 10mg
-[19:30] melatonina
+[19:30] melatonina 1g
 [19:45] orzechy włoskie 100g, kefir 400g
 [22:30] sympramol
 
@@ -117,7 +141,7 @@
 [19:00] dzień bez deprexoletu
 [20:00] piwo 1160g , whisky 20g, rum 20g
 [22:00] śledź w oleju z puszki 100/170 - zjadłem rybę razem z zalewa, makrela w oleju z puszki 100/180 zjadłem rybę razem z zalewa
-[23:00] melatonina
+[23:00] melatonina 1g
 [22:30] orzechy włoskie 100g, kefir 300g
 
 19pn:
@@ -137,7 +161,7 @@
 [17:00] makaron - ważony przed ugotowaniem 40g, tuńczyk z puszki w sosie własnym - ryby 55g, pesto zielone dawtona 85g, oliwa z oliwek 10g
 [18:30] deprexolet - mianseryna 10mg
 [20:00] orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g
-[20:00] melatonina
+[20:00] melatonina 1g
 
 18n:
 [07:30] sympramol, obudzenie
@@ -153,6 +177,6 @@
 [18:00] deprexolet - mianseryna 10mg
 [18:00] czekolada domowa z erytrytolem czyli woda, masło 10g, kakao 20g
 [20:00] orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g
-[20:00] melatonina
+[20:00] melatonina 1g
 [22:00] myśliwska 45g, trochę kapusty kiszonej
 
