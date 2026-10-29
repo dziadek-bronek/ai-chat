@@ -1,6 +1,10 @@
 29cz
 JL(0630); W(0715); SMP(0730);
-N(0745); F(08);
+N(0745); F(08); L(11); F(12); Z(13);
+& schab gotowany, odgrzany na patelni 200g, trochę wywaru, po podgrzaniu dodana oliwa z oliwek 40g & (13); GKDTC(13); F(14); L(17);
+& biała kiełbasa (parzona, kupiona była surowa) 200g & (17);
+X(18); H(1930);
+& orzechy włoskie 50g, kefir 300g & (20);
 
 28sr
 L(06); J(0645); W(07); SMP(0715);
@@ -14,7 +18,7 @@ N(0730); F(08); F(0845); LZ(1130);
 L(06); J(07); W(0745); SMP(08); N(0815); F(0830); F(10); L(1130);
 & bułki 120g, awokado 1szt & (14); V(15); Z(1530);
 & makrela wędzona 160g & (1530);
-& biała kiełbasa (parzona, kupiona była surowa) 300g &(16);
+& biała kiełbasa (parzona, kupiona była surowa) 300g & (16);
 KDC(16); L(17); X(18); H(20);
 & orzechy włoskie 40g, kefir 300g & (20);
 & biała kiełbasa (parzona, kupiona była surowa) 200g & (2130);
