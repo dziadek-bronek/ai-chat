@@ -1,3 +1,30 @@
+29cz
+[06:30] obudzenie, sympramol
+[07:15] wstanie
+[07:30] sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[07:45] żel z ugotowanego siemienia lnianego
+[08:00] kawa i 20g śmietanki 36%
+
+28sr
+[06:00] sympramol
+[06:45] obudzenie
+[07:00] wstanie
+[07:15] sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[07:30] żel z ugotowanego siemienia lnianego
+[08:00] kawa i 20g śmietanki 36%
+[08:45] kawa i 20g śmietanki 36%
+[11:30] sympramol, zakwas buraczany
+[12:30] bułki razem 120g, mleko 200g
+[13:00] witamina K, witamina D, olej mct c8
+[13:30] omega3, witamina C
+[13:30] jajka L 3szt
+[16:30] cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[16:30] schab gotowany, odgrzany na patelni 250g, po podgrzaniu dodana oliwa z oliwek 40g
+[17:00] sympramol
+[18:00] deprexolet - mianseryna 10mg
+[19:30] melatonina 1g
+[20:00] orzechy włoskie 50g, kefir 300g
+
 27wt
 [06:00] sympramol
 [07:00] obudzenie
@@ -7,16 +34,17 @@
 [08:30] kawa i 20g śmietanki 36%
 [10:00] kawa i 20g śmietanki 36%
 [11:30] sympramol
-[14:00] awokado 1szt, bułki słodkie cynamonki bez lukru 2szt, razem 120g
+[14:00] bułki 120g, awokado 1szt
 [15:00] cwiczenia na drabince - podciagniecia i dipy
 [15:30] zakwas buraczany
 [15:30] makrela wędzona 160g
-[16:00] biała kiełbasa 300g
+[16:00] biała kiełbasa (parzona, kupiona była surowa) 300g
 [16:00] witamina K, witamina D, witamina C
 [17:00] sympramol
 [18:00] deprexolet - mianseryna 10mg
-[19:00] melatonina 1g
-[20:00] orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g
+[20:00] melatonina 1g
+[20:00] orzechy włoskie 40g, kefir 300g
+[21:30] biała kiełbasa (parzona, kupiona była surowa) 200g
 
 26pn
 [06:30] sympramol
@@ -28,7 +56,7 @@
 [10:15] kawa i 20g śmietanki 36%
 [12:00] sympramol
 [12:30] zakwas buraczany
-[13:00] łopatka i szynka gotowane, odgrzane na patelni 220g, smalec wygotowany z miesa 70g
+[13:00] łopatka i schab gotowane, odgrzane na patelni 220g, smalec wygotowany z miesa 70g
 [14:00] witamina K, witamina D, olej mct c8
 [14:30] maslo 10g, kakao 20g, erytrytol 7g
 [17:30] sympramol, cynk selen kompleks witamin B
@@ -48,7 +76,7 @@
 [14:00] kreatyna, omega3, witamina K, witamina D, witamina C, olej mct c8
 [14:00] jajka L 3szt, oliwa z oliwek 10g
 [17:00] cwiczenia na drabince - podciagniecia i dipy
-[17:30] łopatka i szynka gotowane, odgrzane na patelni 250g, po podgrzaniu dodana oliwa z oliwek 40g
+[17:30] łopatka i schab gotowane, odgrzane na patelni 250g, po podgrzaniu dodana oliwa z oliwek 40g
 [18:45] sympramol
 [19:30] deprexolet - mianseryna 10mg
 [22:00] melatonina 1g
