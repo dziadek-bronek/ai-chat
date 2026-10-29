@@ -1,324 +1,360 @@
 ========================================
 
 === GEMINI ===
-Oto szczegółowy raport dla każdego dnia, uwzględniający harmonogram, makroskładniki (węglowodany netto, kalorie, białko) dla posiłków i kawy, podsumowania dzienne oraz krótkie oceny eksperckie.
+Oto szczegółowy raport dla poszczególnych dni października, uwzględniający chronologię, makroskładniki posiłków/kaw (węglowodany netto, kalorie, białko), podsumowania dzienne oraz wymagane oceny i komentarze.
 
 ---
 
-### Dzień: 29cz (Wtorek)
-* [06:30] Obudzenie, sympramol
-* [07:15] Wstanie
-* [07:30] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [07:45] Żel z ugotowanego siemienia lnianego
-* [08:00] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* **Okno czasowe posiłków stałych:** Brak posiłków stałych w tym dniu (post/brak wpisów głównych posiłków).
-* **Suma węglowodanów netto:** 0.8 g
-* **Suma kalorii:** 75 kcal
-* **Suma białka:** 0.5 g
-* **Ocena wpływu na lipidogram:** Dobry – niska podaż węglowodanów i brak skoków insuliny sprzyjają poprawie profilu lipidowego.
-* **Ketoza:** Stan głębokiej ketozy utrzymał się bez żadnych przerw ze względu na znikomą podaż węglowodanów.
-* **Sarkopenia:** Podaż białka jest drastycznie za niska, co przy braku aminokwasów egzogennych nie chroni przed sarkopenią.
+### **Dzień: 29.10 (czwartek)**
+*   **Okno czasowe posiłków:** Brak posiłków stałych (poza płynami i kawą, brak głównego okna żywieniowego).
+*   **Harmonogram:**
+    *   [06:30] Obudzenie, sympramol
+    *   [07:15] Wstanie
+    *   [07:30] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [07:45] Żel z ugotowanego siemienia lnianego
+    *   [08:00] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+*   **Podsumowanie dnia:**
+    *   Suma węglowodanów netto: 0.8 g
+    *   Suma kalorii: 75 kcal
+    *   Suma białka: 0.5 g
+*   **Ocena wpływu na lipidogram:** Dobry
+    *   *Komentarz:* Niski poziom węglowodanów i brak obciążenia lipidowego sprzyjają stabilizacji frakcji lipidowych.
+*   **Komentarz o ketozie:** Głęboka ketogeniczność ze względu na post, stan ketozy jest w pełni utrzymany.
+*   **Komentarz o białku:** Bardzo niska podaż białka, która przy jednorazowym wystąpieniu nie zagraża sarkopenii, ale na dłuższą metę wymagałaby korekty.
 
 ---
 
-### Dzień: 28sr (Środa)
-* [06:00] Sympramol
-* [06:45] Obudzenie
-* [07:00] Wstanie
-* [07:15] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [07:30] Żel z ugotowanego siemienia lnianego
-* [08:00] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [08:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [11:30] Sympramol, zakwas buraczany
-* [12:30] Bułki razem 120g, mleko 200g (Węglowodany netto: 65.0g, Kalorie: 430 kcal, Białko: 15.0g)
-* [13:00] Witamina K, witamina D, olej MCT C8
-* [13:30] Omega3, witamina C
-* [13:30] Jajka L 3szt (Węglowodany netto: 1.2g, Kalorie: 220 kcal, Białko: 19g)
-* [16:30] Cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [16:30] Schab gotowany, odgrzany na patelni 250g, oliwa z oliwek 40g (Węglowodany netto: 0.0g, Kalorie: 730 kcal, Białko: 52.5g)
-* [17:00] Sympramol
-* [18:00] Deprexolet - mianseryna 10mg
-* [19:30] Melatonina 1g
-* [20:00] Orzechy włoskie 50g, kefir 300g (Węglowodany netto: 14.5g, Kalorie: 515 kcal, Białko: 18.0g)
-* **Okno czasowe posiłków stałych:** 12:30 – 20:00
-* **Suma węglowodanów netto:** 82.3 g
-* **Suma kalorii:** 2145 kcal
-* **Suma białka:** 105.5 g
-* **Ocena wpływu na lipidogram:** Zły – wysoka podaż węglowodanów (bułki) w połączeniu z tłuszczami nasyconymi może przejściowo pogorszyć parametry lipidowe.
-* **Ketoza:** Nastąpiło wyraźne wyłączenie z ketozy z powodu spożycia tradycyjnego pieczywa, powrót do ketozy zajmie ok. 24-48 godzin.
-* **Sarkopenia:** Odpowiednia podaż białka (~105g) zapewnia dobre wsparcie dla syntezy białek mięśniowych i prewencji sarkopenii.
+### **Dzień: 28.10 (środa)**
+*   **Okno czasowe posiłków:** 12:30 – 20:00 (7,5 godziny)
+*   **Harmonogram:**
+    *   [06:00] Sympramol
+    *   [06:45] Obudzenie
+    *   [07:00] Wstanie
+    *   [07:15] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [07:30] Żel z ugotowanego siemienia lnianego
+    *   [08:00] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [08:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [11:30] Sympramol, zakwas buraczany 130g
+    *   [12:30] Bułki razem 120g, mleko 200g (Węglowodany netto: ~68g, 470 kcal, Białko: ~17g)
+    *   [13:00] Witamina K, witamina D, olej MCT C8 8g
+    *   [13:30] Omega-3, witamina C
+    *   [13:30] Jajka L 3szt (Węglowodany netto: 1.2g, 215 kcal, Białko: 18g)
+    *   [16:30] Cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [16:30] Schab gotowany 250g, oliwa z oliwek 40g (Węglowodany netto: 0g, 770 kcal, Białko: 52.5g)
+    *   [17:00] Sympramol
+    *   [18:00] Deprexolet - mianseryna 10mg
+    *   [19:30] Melatonina 1mg
+    *   [20:00] Orzechy włoskie 50g, kefir 300g (Węglowodany netto: ~18g, 525 kcal, Białko: ~18g)
+*   **Podsumowanie dnia:**
+    *   Suma węglowodanów netto: ~88.8 g
+    *   Suma kalorii: ~2210 kcal
+    *   Suma białka: ~106.5 g
+*   **Ocena wpływu na lipidogram:** Zly
+    *   *Komentarz:* Wyższa podaż węglowodanów w tym dniu (bułki) w połączeniu z tłuszczami nasyconymi może przejściowo pogorszyć parametry lipidowe.
+*   **Komentarz o ketozie:** Spożycie bułek prawdopodobnie na kilka godzin wyłączyło stan ketozy, jednak wysoka aktywność metaboliczna szybko przywróciła powrót do spalania ciał ketonowych.
+*   **Komentarz o białku:** Odpowiednia podaż białka (ponad 100g) skutecznie stymuluje syntezę białek mięśniowych i chroni przed sarkopenią.
 
 ---
 
-### Dzień: 27wt (Wtorek)
-* [06:00] Sympramol
-* [07:00] Obudzenie
-* [07:45] Wstanie
-* [08:00] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [08:15] Żel z ugotowanego siemienia lnianego
-* [08:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [10:00] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [11:30] Sympramol
-* [14:00] Bułki 120g, awokado 1szt (Węglowodany netto: 67.0g, Kalorie: 640 kcal, Białko: 15.5g)
-* [15:00] Ćwiczenia na drabince - podciągnięcia i dipy
-* [15:30] Zakwas buraczany
-* [15:30] Makrela wędzona 160g (Węglowodany netto: 0.0g, Kalorie: 355 kcal, Białko: 35.2g)
-* [16:00] Biała kiełbasa (parzona) 300g (Węglowodany netto: 3.0g, Kalorie: 900 kcal, Białko: 36.0g)
-* [16:00] Witamina K, witamina D, witamina C
-* [17:00] Sympramol
-* [18:00] Deprexolet - mianseryna 10mg
-* [20:00] Melatonina 1g
-* [20:00] Orzechy włoskie 40g, kefir 300g (Węglowodany netto: 13.0g, Kalorie: 460 kcal, Białko: 15.0g)
-* [21:30] Biała kiełbasa (parzona) 200g (Węglowodany netto: 2.0g, Kalorie: 600 kcal, Białko: 24.0g)
-* **Okno czasowe posiłków stałych:** 14:00 – 21:30
-* **Suma węglowodanów netto:** 86.6 g
-* **Suma kalorii:** 3165 kcal
-* **Suma białka:** 126.7 g
-* **Ocena wpływu na lipidogram:** Zły – wysoka podaż węglowodanów z bułek połączona z dużą ilością tłuszczu nasyconego z kiełbasy niekorzystnie wpływa na profil lipidowy.
-* **Ketoza:** Wylogowanie z ketozy z powodu spożycia bułek; trwający proces adaptacji metabolicznej zostaje przerwany.
-* **Sarkopenia:** Wysoka podaż białka (ponad 125g) i trening sięcy na drążku doskonale stymulują mięśnie i zapobiegają sarkopenii.
+### **Dzień: 27.10 (wtorek)**
+*   **Okno czasowe posiłków:** 14:00 – 21:30 (7,5 godziny)
+*   **Harmonogram:**
+    *   [06:00] Sympramol
+    *   [07:00] Obudzenie
+    *   [07:45] Wstanie
+    *   [08:00] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [08:15] Żel z ugotowanego siemienia lnianego
+    *   [08:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [10:00] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [11:30] Sympramol
+    *   [14:00] Bułki 120g, awokado 1szt (Węglowodany netto: ~64g, 550 kcal, Białko: ~15g)
+    *   [15:00] Ćwiczenia na drabince - podciągnięcia i dipy
+    *   [15:30] Zakwas buraczany 130g
+    *   [15:30] Makrela wędzona 160g (Węglowodany netto: 0g, 350 kcal, Białko: ~35g)
+    *   [16:00] Biała kiełbasa 300g (Węglowodany netto: ~3g, 900 kcal, Białko: ~39g)
+    *   [16:00] Witamina K, witamina D, witamina C
+    *   [17:00] Sympramol
+    *   [18:00] Deprexolet - mianseryna 10mg
+    *   [20:00] Melatonina 1mg
+    *   [20:00] Orzechy włoskie 40g, kefir 300g (Węglowodany netto: ~14g, 420 kcal, Białko: ~14g)
+    *   [21:30] Biała kiełbasa 200g (Węglowodany netto: ~2g, 600 kcal, Białko: ~26g)
+*   **Podsumowanie dnia:**
+    *   Suma węglowodanów netto: ~88.6 g
+    *   Suma kalorii: ~2970 kcal
+    *   Suma białka: ~130 g
+*   **Ocena wpływu na lipidogram:** Zly
+    *   *Komentarz:* Duża podaż tłuszczu nasyconego i przetworzonego mięsa w połączeniu z węglowodanami z bułek negatywnie wpływa na profil lipidowy.
+*   **Komentarz o ketozie:** Obecność bułek w diecie spowodowała wyjście z ketozy, ale trening siłowy i wysokie spalanie energii przyspieszyły powrót do ketozy.
+*   **Komentarz o białku:** Wysoka podaż białka (130g) połączona z treningiem siłowym na drabince doskonale wspiera prewencję sarkopenii.
 
 ---
 
-### Dzień: 26pn (Poniedziałek)
-* [06:30] Sympramol
-* [08:15] Obudzenie
-* [08:45] Wstanie
-* [09:00] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [09:15] Żel z ugotowanego siemienia lnianego
-* [09:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [10:15] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [12:00] Sympramol
-* [12:30] Zakwas buraczany
-* [13:00] Łopatka i schab gotowane 220g, smalec 70g (Węglowodany netto: 0.0g, Kalorie: 1010 kcal, Białko: 44.0g)
-* [14:00] Witamina K, witamina D, olej MCT C8
-* [14:30] Masło 10g, kakao 20g, erytrytol 7g (Węglowodany netto: 2.5g, Kalorie: 165 kcal, Białko: 4.0g)
-* [17:30] Sympramol, cynk selen kompleks witamin B
-* [18:30] Deprexolet - mianseryna 10mg
-* [18:30] Śledź w oleju (ryba 100g, zalewa 70g) (Węglowodany netto: 0.5g, Kalorie: 380 kcal, Białko: 18.0g)
-* [20:00] Melatonina 1g
-* [20:00] Orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g (Węglowodany netto: 17.0g, Kalorie: 685 kcal, Białko: 22.5g)
-* **Okno czasowe posiłków stałych:** 13:00 – 20:00
-* **Suma węglowodanów netto:** 21.6 g
-* **Suma kalorii:** 2390 kcal
-* **Suma białka:** 89.5 g
-* **Ocena wpływu na lipidogram:** Neutralny – niska podaż węglowodanów i obecność zdrowych tłuszczów (ryby, orzechy) równoważą nasycone kwasy tłuszczowe.
-* **Ketoza:** Utrzymanie stabilnej ketozy ketogenicznej bez przerw.
-* **Sarkopenia:** Odpowiednia ilość pełnowartościowego białka (~90g) skutecznie wspiera ochronę masy mięśniowej.
+### **Dzień: 26.10 (poniedziałek)**
+*   **Okno czasowe posiłków:** 13:00 – 20:00 (7 godzin)
+*   **Harmonogram:**
+    *   [06:30] Sympramol
+    *   [08:15] Obudzenie
+    *   [08:45] Wstanie
+    *   [09:00] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [09:15] Żel z ugotowanego siemienia lnianego
+    *   [09:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [10:15] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [12:00] Sympramol
+    *   [12:30] Zakwas buraczany 130g
+    *   [13:00] Łopatka i schab gotowane 220g, smalec 70g (Węglowodany netto: 0g, 1100 kcal, Białko: ~45g)
+    *   [14:00] Witamina K, witamina D, olej MCT C8 8g
+    *   [14:30] Masło 10g, kakao 20g, erytrytol 7g (Węglowodany netto: ~3g, 160 kcal, Białko: ~4g)
+    *   [17:30] Sympramol, cynk selen kompleks witamin B
+    *   [18:30] Deprexolet - mianseryna 10mg
+    *   [18:30] Śledź w oleju puszka: ryba 100g, zalewa 70g (Węglowodany netto: 1g, 350 kcal, Białko: ~18g)
+    *   [20:00] Melatonina 1mg
+    *   [20:00] Orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g (Węglowodany netto: ~20g, 580 kcal, Białko: ~22g)
+*   **Podsumowanie dnia:**
+    *   Suma węglowodanów netto: ~25.6 g
+    *   Suma kalorii: ~2340 kcal
+    *   Suma białka: ~90 g
+*   **Ocena wpływu na lipidogram:** Neutralny
+    *   *Komentarz:* Klasyczny profil ketogeniczny bogaty w tłuszcze nasycone i jednonienasycone przy niskiej podaży węglowodanów pozwala utrzymać stabilny lipidogram.
+*   **Komentarz o ketozie:** Bardzo niska podaż węglowodanów netto utrzymuje organizm w stabilnej, głębokiej ketozie bez epizodów jej przerywania.
+*   **Komentarz o białku:** Podaż na poziomie 90g jest w pełni wystarczająca dla utrzymania masy mięśniowej u mężczyzny o tej wadze w stanie ketozy.
 
 ---
 
-### Dzień: 25n (Niedziela)
-* [06:00] Sympramol
-* [08:45] Obudzenie, wstanie
-* [09:00] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [09:15] Żel z ugotowanego siemienia lnianego
-* [09:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [10:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [13:00] Zakwas buraczany
-* [14:00] Kreatyna, omega3, witamina K, witamina D, witamina C, olej MCT C8
-* [14:00] Jajka L 3szt, oliwa z oliwek 10g (Węglowodany netto: 1.2g, Kalorie: 310 kcal, Białko: 19.0g)
-* [17:00] Ćwiczenia na drabince - podciągnięcia i dipy
-* [17:30] Łopatka i schab gotowane 250g, oliwa z oliwek 40g (Węglowodany netto: 0.0g, Kalorie: 990 kcal, Białko: 50.0g)
-* [18:45] Sympramol
-* [19:30] Deprexolet - mianseryna 10mg
-* [22:00] Melatonina 1g
-* [22:00] Orzechy włoskie 50g, orzechy ziemne 50g, kefir 300g (Węglowodany netto: 21.0g, Kalorie: 840 kcal, Białko: 27.5g)
-* **Okno czasowe posiłków stałych:** 14:00 – 22:00
-* **Suma węglowodanów netto:** 23.8 g
-* **Suma kalorii:** 2290 kcal
-* **Suma białka:** 97.5 g
-* **Ocena wpływu na lipidogram:** Dobry – wysoki udział jednonienasyconych kwasów tłuszczowych (oliwa) sprzyja korzystnemu profilowi lipidowemu.
-* **Ketoza:** Głęboka i niezakłócona ketoza.
-* **Sarkopenia:** Podaż białka na poziomie bliskim 100g w połączeniu z treningiem na drążku bardzo dobrze zapobiega sarkopenii.
+### **Dzień: 25.10 (niedziela)**
+*   **Okno czasowe posiłków:** 14:00 – 22:00 (8 godzin)
+*   **Harmonogram:**
+    *   [06:00] Sympramol
+    *   [08:45] Obudzenie, wstanie
+    *   [09:00] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [09:15] Żel z ugotowanego siemienia lnianego
+    *   [09:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [10:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [13:00] Zakwas buraczany 130g
+    *   [14:00] Kreatyna, omega-3, witamina K, witamina D, witamina C, olej MCT C8 8g
+    *   [14:00] Jajka L 3szt, oliwa z oliwek 10g (Węglowodany netto: 1.2g, 305 kcal, Białko: 18g)
+    *   [17:00] Ćwiczenia na drabince - podciągnięcia i dipy
+    *   [17:30] Łopatka i schab gotowane 250g, oliwa z oliwek 40g (Węglowodany netto: 0g, 850 kcal, Białko: ~50g)
+    *   [18:45] Sympramol
+    *   [19:30] Deprexolet - mianseryna 10mg
+    *   [22:00] Melatonina 1mg
+    *   [22:00] Orzechy włoskie 50g, orzechy ziemne 50g, kefir 300g (Węglowodany netto: ~23g, 700 kcal, Białko: ~26g)
+*   **Podsumowanie dnia:**
+    *   Suma węglowodanów netto: ~25.8 g
+    *   Suma kalorii: ~2005 kcal
+    *   Suma białka: ~95 g
+*   **Ocena wpływu na lipidogram:** Dobry
+    *   *Komentarz:* Przewaga zdrowych tłuszczów (oliwa, orzechy) przy niskiej podaży węglowodanów korzystnie wpływa na profil lipidowy.
+*   **Komentarz o ketozie:** Niski poziom węglowodanów i umiarkowane białko zapewniają nieprzerwaną, stabilną ketozę.
+*   **Komentarz o białku:** Około 95g białka w połączeniu z treningiem na drążku doskonale chroni przed sarkopenią.
 
 ---
 
-### Dzień: 24so (Sobota)
-* [05:30] Obudzenie, sympramol
-* [08:15] Wstanie
-* [08:30] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [08:45] Żel z ugotowanego siemienia lnianego
-* [09:15] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [10:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [11:30] Sympramol
-* [12:30] Zakwas buraczany
-* [13:00] Łopatka i szynka gotowane 270g, oliwa z oliwek 30g (Węglowodany netto: 0.0g, Kalorie: 850 kcal, Białko: 54.0g)
-* [16:00] Cynk selen kompleks witamin B
-* [16:00] Łopatka i szynka gotowane 130g, oliwa z oliwek 10g (Węglowodany netto: 0.0g, Kalorie: 360 kcal, Białko: 26.0g)
-* [18:00] Sympramol
-* [19:00] Deprexolet - mianseryna 10mg
-* [20:00] Melatonina 1g
-* [20:00] Orzechy włoskie 40g, orzechy ziemne 60g, kefir 270g (Węglowodany netto: 20.0g, Kalorie: 800 kcal, Białko: 26.0g)
-* **Okno czasowe posiłków stałych:** 13:00 – 20:00
-* **Suma węglowodanów netto:** 21.6 g
-* **Suma kalorii:** 2160 kcal
-* **Suma białka:** 107.0 g
-* **Ocena wpływu na lipidogram:** Dobry – niska podaż węglowodanów i bogactwo tłuszczów roślinnych oraz oliwy wspierają prawidłowy profil lipidowy.
-* **Ketoza:** Stan ketozy utrzymany stabilnie przez cały dzień.
-* **Sarkopenia:** Ponad 107g białka zapewnia doskonałe środowisko anaboliczne dla mięśni.
+### **Dzień: 24.10 (sobota)**
+*   **Okno czasowe posiłków:** 13:00 – 20:00 (7 godzin)
+*   **Harmonogram:**
+    *   [05:30] Obudzenie, sympramol
+    *   [08:15] Wstanie
+    *   [08:30] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [08:45] Żel z ugotowanego siemienia lnianego
+    *   [09:15] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [10:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [11:30] Sympramol
+    *   [12:30] Zakwas buraczany 130g
+    *   [13:00] Łopatka i szynka gotowane 270g, oliwa z oliwek 30g (Węglowodany netto: 0g, 810 kcal, Białko: ~54g)
+    *   [16:00] Cynk selen kompleks witamin B
+    *   [16:00] Łopatka i szynka gotowane 130g, oliwa z oliwek 10g (Węglowodany netto: 0g, 360 kcal, Białko: ~26g)
+    *   [18:00] Sympramol
+    *   [19:00] Deprexolet - mianseryna 10mg
+    *   [20:00] Melatonina 1mg
+    *   [20:00] Orzechy włoskie 40g, orzechy ziemne 60g, kefir 270g (Węglowodany netto: ~22g, 680 kcal, Białko: ~24g)
+*   **Podsumowanie dnia:**
+    *   Suma węglowodanów netto: ~23.6 g
+    *   Suma kalorii: ~1995 kcal
+    *   Suma białka: ~105 g
+*   **Ocena wpływu na lipidogram:** Dobry
+    *   *Komentarz:* Wysoki udział oliwy z oliwek i orzechów wspiera profil lipidowy przy jednoczesnej restrykcji węglowodanów.
+*   **Komentarz o ketozie:** Dieta ketogeniczna w pełni zachowana, brak jakichkolwiek czynników przerywających ketozę.
+*   **Komentarz o białku:** Podaż 105g białka z pełnowartościowych źródeł mięsnych i nabiału to silny bodziec przeciwko sarkopenii.
 
 ---
 
-### Dzień: 23pt (Piątek)
-* [06:30] Obudzenie, sympramol
-* [09:45] Obudzenie
-* [10:00] Wstanie
-* [10:15] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [10:30] Żel z ugotowanego siemienia lnianego
-* [10:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [11:15] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [12:00] Sympramol
-* [12:30] Zakwas buraczany
-* [13:00] Kreatyna, omega3, witamina D, witamina C, olej MCT C8
-* [13:00] Jajka L 3szt, oliwa z oliwek 10g (Węglowodany netto: 1.2g, Kalorie: 310 kcal, Białko: 19.0g)
-* [15:00] Witamina D
-* [15:00] Ser żółty 130g (Węglowodany netto: 1.3g, Kalorie: 520 kcal, Białko: 31.2g)
-* [17:00] Sympramol
-* [18:00] Ćwiczenia na drabince - podciągnięcia i dipy
-* [18:30] Paprykarz szczeciński 330g (Węglowodany netto: 24.0g, Kalorie: 300 kcal, Białko: 20.0g)
-* [19:00] Deprexolet - mianseryna 10mg
-* [21:30] Orzechy włoskie 100g (Węglowodany netto: 7.0g, Kalorie: 650 kcal, Białko: 15.0g)
-* [21:30] Melatonina 1g
-* [22:30] Ser żółty 150g (Węglowodany netto: 1.5g, Kalorie: 600 kcal, Białko: 36.0g)
-* **Okno czasowe posiłków stałych:** 13:00 – 22:30
-* **Suma węglowodanów netto:** 37.6 g
-* **Suma kalorii:** 2630 kcal
-* **Suma białka:** 122.2 g
-* **Ocena wpływu na lipidogram:** Zły – wysoka zawartość nasyconych kwasów tłuszczowych z dużej ilości sera żółtego może niekorzystnie wpłynąć na poziom cholesterolu LDL.
-* **Ketoza:** Lekkie przekroczenie tradycyjnego limitu węglowodanów (37.6g) mogło na granicy wpłynąć na ketozę, jednak przy aktywności fizycznej ketoza zazwyczaj zostaje zachowana.
-* **Sarkopenia:** Bardzo wysoka podaż białka (ponad 120g) połączona z treningiem siłowym to wzorowa profilaktyka sarkopenii.
+### **Dzień: 23.10 (piątek)**
+*   **Okno czasowe posiłków:** 13:00 – 22:30 (9,5 godziny)
+*   **Harmonogram:**
+    *   [06:30] Obudzenie, sympramol
+    *   [09:45] Obudzenie
+    *   [10:00] Wstanie
+    *   [10:15] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [10:30] Żel z ugotowanego siemienia lnianego
+    *   [10:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [11:15] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [12:00] Sympramol
+    *   [12:30] Zakwas buraczany 130g
+    *   [13:00] Kreatyna, omega-3, witamina D, witamina C, olej MCT C8 8g
+    *   [13:00] Jajka L 3szt, oliwa z oliwek 10g (Węglowodany netto: 1.2g, 305 kcal, Białko: 18g)
+    *   [15:00] Witamina D
+    *   [15:00] Ser żółty 130g (Węglowodany netto: 1.5g, 520 kcal, Białko: ~32g)
+    *   [17:00] Sympramol
+    *   [18:00] Ćwiczenia na drabince - podciągnięcia i dipy
+    *   [18:30] Paprykarz szczeciński 330g (Węglowodany netto: 24g, 300 kcal, Białko: 20g)
+    *   [19:00] Deprexolet - mianseryna 10mg
+    *   [21:30] Orzechy włoskie 100g (Węglowodany netto: ~7g, 650 kcal, Białko: ~15g)
+    *   [21:30] Melatonina 1mg
+    *   [22:30] Ser żółty 150g (Węglowodany netto: ~2g, 600 kcal, Białko: ~37g)
+*   **Podsumowanie dnia:**
+    *   Suma węglowodanów netto: ~38.2 g
+    *   Suma kalorii: ~2475 kcal
+    *   Suma białka: ~123 g
+*   **Ocena wpływu na lipidogram:** Zly
+    *   *Komentarz:* Duża ilość sera żółtego oraz przetworzonego produktu (paprykarz z wyższymi węglowodanami) może negatywnie wpłynąć na lipidogram.
+*   **Komentarz o ketozie:** Wyższe węglowodany z paprykarza mogły delikatnie i chwilowo naruszyć ketozę, jednak wysoka zawartość tłuszczu pozwoliła na szybki powrót do stanu ketogenicznego.
+*   **Komentarz o białku:** Bardzo wysoka podaż białka (123g) w połączeniu z treningiem siłowym to doskonała tarcza przeciwko sarkopenii.
 
 ---
 
-### Dzień: 22cz (Czwartek)
-* [07:00] Obudzenie, sympramol
-* [07:30] Wstanie
-* [08:00] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [08:15] Żel z ugotowanego siemienia lnianego
-* [08:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [09:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [11:30] Sympramol
-* [12:30] Zakwas buraczany, omega3, witamina K, witamina D, witamina C, olej MCT C8
-* [12:30] Szynka i łopatka gotowane 350g (Węglowodany netto: 0.0g, Kalorie: 770 kcal, Białko: 70.0g)
-* [17:30] Sympramol
-* [18:00] Szynka i łopatka gotowane 350g, musztarda 100g (Węglowodany netto: 7.0g, Kalorie: 870 kcal, Białko: 72.0g)
-* [18:45] Deprexolet - mianseryna 10mg
-* [20:00] Melatonina 1g
-* [20:00] Mleko 200g (Węglowodany netto: 9.4g, Kalorie: 120 kcal, Białko: 6.8g)
-* [23:00] Orzechy włoskie 100g, mleko 200g (Węglowodany netto: 16.4g, Kalorie: 770 kcal, Białko: 21.8g)
-* **Okno czasowe posiłków stałych:** 12:30 – 23:00
-* **Suma węglowodanów netto:** 34.4 g
-* **Suma kalorii:** 2750 kcal
-* **Suma białka:** 172.1 g
-* **Ocena wpływu na lipidogram:** Neutralny – umiarkowane węglowodany i wysoka zawartość białka przy klasycznej diecie ketogenicznej mięsnej utrzymują stabilny profil lipidowy.
-* **Ketoza:** Niska podaż węglowodanów netto utrzymuje stabilny stan ketozy ketogenicznej.
-* **Sarkopenia:** Ekstremalnie wysoka podaż białka (ponad 170g) całkowicie eliminuje ryzyko katabolizmu mięśniowego i sarkopenii.
+### **Dzień: 22.10 (czwartek)**
+*   **Okno czasowe posiłków:** 12:30 – 23:00 (10,5 godziny)
+*   **Harmonogram:**
+    *   [07:00] Obudzenie, sympramol
+    *   [07:30] Wstanie
+    *   [08:00] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [08:15] Żel z ugotowanego siemienia lnianego
+    *   [08:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [09:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [11:30] Sympramol
+    *   [12:30] Zakwas buraczany 130g, omega-3, witamina K, witamina D, witamina C, olej MCT C8 8g
+    *   [12:30] Szynka i łopatka gotowane 350g (Węglowodany netto: 0g, 850 kcal, Białko: ~70g)
+    *   [17:30] Sympramol
+    *   [18:00] Szynka i łopatka gotowane 350g, musztarda 100g (Węglowodany netto: 7g, 920 kcal, Białko: ~75g)
+    *   [18:45] Deprexolet - mianseryna 10mg
+    *   [20:00] Melatonina 1mg
+    *   [20:00] Mleko 200g (Węglowodany netto: ~9.4g, 100 kcal, Białko: ~6.4g)
+    *   [23:00] Orzechy włoskie 100g, mleko 200g (Węglowodany netto: ~16.4g, 750 kcal, Białko: ~21.4g)
+*   **Podsumowanie dnia:**
+    *   Suma węglowodanów netto: ~34.4 g
+    *   Suma kalorii: ~2795 kcal
+    *   Suma białka: ~174.3 g
+*   **Ocena wpływu na lipidogram:** Neutralny
+    *   *Komentarz:* Pomimo dużej ilości mięsa, umiarkowana ilość węglowodanów pozwala utrzymać lipidogram na stabilnym poziomie.
+*   **Komentarz o ketozie:** Węglowodany z musztardy i mleka były na granicy tolerancji ketogenicznej, ale ketozie nie zagrażało poważne wyłączenie.
+*   **Komentarz o białku:** Ekstremalnie wysoka podaż białka (~174g) w tym dniu całkowicie zabezpiecza przed sarkopenią, choć jest wręcz nadmiarowa.
 
 ---
 
-### Dzień: 21sr (Środa)
-* [08:00] Obudzenie, sympramol
-* [09:00] Wstanie
-* [09:15] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [09:30] Żel z ugotowanego siemienia lnianego
-* [09:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [14:00] Sympramol
-* [15:00] Kiełbasa myśliwska 90g, ser żółty 70g (Węglowodany netto: 1.0g, Kalorie: 680 kcal, Białko: 43.0g)
-* [17:00] Sympramol
-* [17:00] Mleko 400g, fasolka po bretońsku 500g (Węglowodany netto: 45.0g, Kalorie: 650 kcal, Białko: 30.0g)
-* [18:00] Deprexolet - mianseryna 10mg
-* [19:30] Melatonina 1g
-* [19:45] Orzechy włoskie 100g, kefir 400g (Węglowodany netto: 20.0g, Kalorie: 810 kcal, Białko: 24.0g)
-* [22:30] Sympramol
-* **Okno czasowe posiłków stałych:** 15:00 – 19:45
-* **Suma węglowodanów netto:** 66.8 g
-* **Suma kalorii:** 2215 kcal
-* **Suma białka:** 97.5 g
-* **Ocena wpływu na lipidogram:** Zły – wysoka podaż węglowodanów z fasolki i nabiału w połączeniu z tłuszczami nasyconymi może negatywnie wpłynąć na triglicerydy i frakcje cholesterolu.
-* **Ketoza:** Wyłączenie z ketozy ze względu na znaczną ilość węglowodanów pochodzących z fasolki po bretońsku i mleka.
-* **Sarkopenia:** Odpowiednia ilość białka (~97g) dobrze wspiera utrzymanie masy mięśniowej.
+### **Dzień: 21.10 (środa)**
+*   **Okno czasowe posiłków:** 15:00 – 19:45 (4,75 godziny)
+*   **Harmonogram:**
+    *   [08:00] Obudzenie, sympramol
+    *   [09:00] Wstanie
+    *   [09:15] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [09:30] Żel z ugotowanego siemienia lnianego
+    *   [09:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [14:00] Sympramol
+    *   [15:00] Kiełbasa select myśliwska 90g, ser żółty 70g (Węglowodany netto: 1g, 620 kcal, Białko: ~35g)
+    *   [17:00] Sympramol
+    *   [17:00] Mleko 400g, fasolka po bretońsku cały słoik 500g (Węglowodany netto: ~45g, 600 kcal, Białko: ~30g)
+    *   [18:00] Deprexolet - mianseryna 10mg
+    *   [19:30] Melatonina 1mg
+    *   [19:45] Orzechy włoskie 100g, kefir 400g (Węglowodany netto: ~19g, 810 kcal, Białko: ~27g)
+    *   [22:30] Sympramol
+*   **Podsumowanie dnia:**
+    *   Suma węglowodanów netto: ~65.8 g
+    *   Suma kalorii: ~2105 kcal
+    *   Suma białka: ~92.5 g
+*   **Ocena wpływu na lipidogram:** Zly
+    *   *Komentarz:* Fasolka po bretońsku i duże ilości nabiału (mleko, kefir) w połączeniu z tłustymi wędlinami obciążają profil lipidowy i podnoszą ładunek glikemiczny.
+*   **Komentarz o ketozie:** Znaczna ilość węglowodanów z fasolki i nabiału na pewno wyłączyła stan ketozy, zmuszając organizm do powrotu do ketozy dopiero w kolejnych godzinach postu.
+*   **Komentarz o białku:** Podaż białka na poziomie 92.5g jest w pełni wystarczająca do prewencji sarkopenii.
 
 ---
 
-### Dzień: 20wt (Wtorek)
-* [06:00] Sympramol
-* [07:00] Obudzenie
-* [07:30] Wstanie
-* [07:45] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [08:00] Żel z ugotowanego siemienia lnianego
-* [08:15] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [09:00] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [11:00] Zakwas buraczany
-* [11:15] Sympramol, kreatyna, omega3, witamina K, witamina D, witamina C, olej MCT C8
-* [11:15] Jajka L 3szt (Węglowodany netto: 1.2g, Kalorie: 220 kcal, Białko: 19.0g)
-* [15:00] Indyk duszony 200g z tłuszczem 20g (Węglowodany netto: 0.0g, Kalorie: 460 kcal, Białko: 42.0g)
-* [17:00] Sympramol, cynk selen kompleks witamin B
-* [19:00] Dzień bez deprexoletu
-* [20:00] Piwo 1160g, whisky 20g, rum 20g (Węglowodany netto: 50.0g, Kalorie: 650 kcal, Białko: 5.0g)
-* [22:00] Śledź w oleju 100/170, makrela w oleju 100/180 (razem z zalewą) (Węglowodany netto: 1.0g, Kalorie: 750 kcal, Białko: 38.0g)
-* [23:00] Melatonina 1g
-* [22:30] Orzechy włoskie 100g, kefir 300g (Węglowodany netto: 17.0g, Kalorie: 770 kcal, Białko: 21.0g)
-* **Okno czasowe posiłków stałych:** 11:15 – 22:30
-* **Suma węglowodanów netto:** 70.8 g
-* **Suma kalorii:** 3000 kcal
-* **Suma białka:** 126.0 g
-* **Ocena wpływu na lipidogram:** Bardzo zły – duża ilość alkoholu (piwo) w połączeniu z węglowodanami i tłuszczami drastycznie podnosi poziom triglicerydów i zaburza metabolizm lipidów.
-* **Ketoza:** Całkowite wylaczenie z ketozy na skutek dużej ilości alkoholu i węglowodanów z piwa.
-* **Sarkopenia:** Wysoka podaż białka chroni przed sarkopenią, choć obecność alkoholu może upośledzać syntezę białek mięśniowych w nocy.
+### **Dzień: 20.10 (wtorek)**
+*   **Okno czasowe posiłków:** 11:15 – 23:00 (11,75 godziny)
+*   **Harmonogram:**
+    *   [06:00] Sympramol
+    *   [07:00] Obudzenie
+    *   [07:30] Wstanie
+    *   [07:45] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [08:00] Żel z ugotowanego siemienia lnianego
+    *   [08:15] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [09:00] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [11:00] Zakwas buraczany 130g
+    *   [11:15] Sympramol, kreatyna, omega-3, witamina K, witamina D, witamina C, olej MCT C8 8g
+    *   [11:15] Jajka L 3szt (Węglowodany netto: 1.2g, 215 kcal, Białko: 18g)
+    *   [15:00] Indyk duszony 200g z tłuszczem 20g (Węglowodany netto: 0g, 450 kcal, Białko: ~44g)
+    *   [17:00] Sympramol, cynk selen kompleks witamin B
+    *   [19:00] Dzień bez deprexoletu
+    *   [20:00] Piwo 1160g, whisky 20g, rum 20g (Węglowodany netto: ~50g, 650 kcal, Białko: ~4g)
+    *   [22:00] Śledź w oleju 100/170, makrela w oleju 100/180 (Węglowodany netto: 2g, 700 kcal, Białko: ~35g)
+    *   [22:30] Orzechy włoskie 100g, kefir 300g (Węglowodany netto: ~16g, 740 kcal, Białko: ~22g)
+    *   [23:00] Melatonina 1mg
+*   **Podsumowanie dnia:**
+    *   Suma węglowodanów netto: ~70.8 g
+    *   Suma kalorii: ~2880 kcal
+    *   Suma białka: ~124 g
+*   **Ocena wpływu na lipidogram:** Bardzo zły
+    *   *Komentarz:* Duża ilość alkoholu (piwo zawiera mnóstwo węglowodanów i obciąża wątrobę) w połączeniu z tłuszczami i białkiem bardzo negatywnie wpływa na metabolizm lipidów.
+*   **Komentarz o ketozie:** Duża dawka węglowodanów z piwa całkowicie i głęboko wyłączyła ketozę, a powrót do stanu ketogenicznego wymagał pełnego metabolizowania alkoholu.
+*   **Komentarz o białku:** Podaż białka na poziomie 124g jest bardzo wysoka i skutecznie chroni masę mięśniową pomimo metabolicznych zawirowań dnia.
 
 ---
 
-### Dzień: 19pn (Poniedziałek)
-* [04:45] Sympramol
-* [08:45] Obudzenie
-* [09:00] Wstanie
-* [09:15] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [09:45] Żel z ugotowanego siemienia lnianego
-* [10:00] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [10:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [11:00] Sympramol
-* [13:00] Ćwiczenia na drabince - podciągnięcia i dipy
-* [13:30] Zakwas buraczany
-* [14:00] Omega3, witamina K, witamina D
-* [14:00] Mięso z puszki gulasz angielski Łuków 300g (Węglowodany netto: 3.0g, Kalorie: 840 kcal, Białko: 48.0g)
-* [17:00] Sympramol
-* [17:00] Makaron 40g (przed ugotowaniem), tuńczyk 55g, pesto zielone 85g, oliwa 10g (Węglowodany netto: 35.0g, Kalorie: 650 kcal, Białko: 16.0g)
-* [18:30] Deprexolet - mianseryna 10mg
-* [20:00] Orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g (Węglowodany netto: 17.0g, Kalorie: 680 kcal, Białko: 22.0g)
-* [20:00] Melatonina 1g
-* **Okno czasowe posiłków stałych:** 14:00 – 20:00
-* **Suma węglowodanów netto:** 57.6 g
-* **Suma kalorii:** 2370 kcal
-* **Suma białka:** 87.5 g
-* **Ocena wpływu na lipidogram:** Zły – spożycie makaronu podnosi poziom glukozy i insuliny, co w obecności tłuszczów nie sprzyja prawidłowemu profilowi lipidowemu.
-* **Ketoza:** Wyłączenie z ketozy z powodu zawartości węglowodanów z makaronu; konieczność ponownej adaptacji.
-* **Sarkopenia:** Odpowiednia podaż białka (~87g) w połączeniu z ćwiczeniami wspiera utrzymanie masy mięśniowej.
+### **Dzień: 19.10 (poniedziałek)**
+*   **Okno czasowe posiłków:** 14:00 – 20:00 (6 godzin)
+*   **Harmonogram:**
+    *   [04:45] Sympramol
+    *   [08:45] Obudzenie
+    *   [09:00] Wstanie
+    *   [09:15] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [09:45] Żel z ugotowanego siemienia lnianego
+    *   [10:00] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [10:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [11:00] Sympramol
+    *   [13:00] Ćwiczenia na drabince - podciągnięcia i dipy
+    *   [13:30] Zakwas buraczany 130g
+    *   [14:00] Omega-3, witamina K, witamina D
+    *   [14:00] Mięso z puszki gulasz angielski Łuków 300g (Węglowodany netto: ~3g, 750 kcal, Białko: ~45g)
+    *   [17:00] Sympramol
+    *   [17:00] Makaron 40g, tuńczyk 55g, pesto zielone 85g, oliwa 10g (Węglowodany netto: ~35g, 620 kcal, Białko: ~20g)
+    *   [18:30] Deprexolet - mianseryna 10mg
+    *   [20:00] Orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g (Węglowodany netto: ~20g, 580 kcal, Białko: ~22g)
+    *   [20:00] Melatonina 1mg
+*   **Podsumowanie dnia:**
+    *   Suma węglowodanów netto: ~59.6 g
+    *   Suma kalorii: ~2100 kcal
+    *   Suma białka: ~88 g
+*   **Ocena wpływu na lipidogram:** Zly
+    *   *Komentarz:* Obecność tradycyjnego makaronu podniosła podaż węglowodanów, co w zestawieniu z tłuszczami nie sprzyja optymalnemu lipidogramowi.
+*   **Komentarz o ketozie:** Spożycie makaronu najprawdopodobniej na pewien czas wyłączyło ketozę, jednak aktywność fizyczna i restrykcja w pozostałych posiłkach pomogły w powrocie do ketozy.
+*   **Komentarz o białku:** Podaż 88g białka w połączeniu z treningiem na drążku w wystarczającym stopniu zapobiega sarkopenii.
 
 ---
 
-### Dzień: 18n (Niedziela)
-* [07:30] Sympramol, obudzenie
-* [07:45] Wstanie
-* [08:00] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
-* [08:30] Żel z ugotowanego siemienia lnianego
-* [08:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [09:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 75 kcal, Białko: 0.5g)
-* [12:00] Sympramol, zakwas buraczany, kreatyna, omega3, witamina K, witamina D, witamina C, olej MCT C8
-* [12:00] Mięso gotowane 300g, oliwa z oliwek 30g (Węglowodany netto: 0.0g, Kalorie: 930 kcal, Białko: 60.0g)
-* [17:00] Sympramol
-* [17:00] Jajka L 3szt, tuńczyk 110g, olej rzepakowy 40g, cebula (Węglowodany netto: 4.0g, Kalorie: 800 kcal, Białko: 49.0g)
-* [18:00] Deprexolet - mianseryna 10mg
-* [18:00] Czekolada domowa (masło 10g, kakao 20g) (Węglowodany netto: 2.0g, Kalorie: 150 kcal, Białko: 4.0g)
-* [20:00] Orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g (Węglowodany netto: 17.0g, Kalorie: 680 kcal, Białko: 22.0g)
-* [20:00] Melatonina 1g
-* [22:00] Myśliwska 45g, kapusta kiszona (Węglowodany netto: 2.5g, Kalorie: 210 kcal, Białko: 8.5g)
-* **Okno czasowe posiłków stałych:** 12:00 – 22:00
-* **Suma węglowodanów netto:** 27.1 g
-* **Suma kalorii:** 2920 kcal
-* **Suma białka:** 144.5 g
-* **Ocena wpływu na lipidogram:** Dobry – niska podaż węglowodanów i duży udział zdrowych tłuszczów jedno- i wielonienasyconych sprzyjają utrzymaniu prawidłowego lipidogramu.
-* **Ketoza:** Stabilna, głęboka ketoza bez przerw.
-* **Sarkopenia:** Wysoka podaż białka (ponad 144g) doskonale chroni przed sarkopenią i zapewnia budulec dla mięśni.
+### **Dzień: 18.10 (niedziela)**
+*   **Okno czasowe posiłków:** 12:00 – 22:00 (10 godzin)
+*   **Harmonogram:**
+    *   [07:30] Sympramol, obudzenie
+    *   [07:45] Wstanie
+    *   [08:00] Sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+    *   [08:30] Żel z ugotowanego siemienia lnianego
+    *   [08:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [09:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, 75 kcal, Białko: 0.5g)
+    *   [12:00] Sympramol, zakwas buraczany 130g, kreatyna, omega-3, witamina K, witamina D, witamina C, olej MCT C8 8g
+    *   [12:00] Mięso gotowane 300g, oliwa z oliwek 30g (Węglowodany netto: 0g, 950 kcal, Białko: ~60g)
+    *   [17:00] Sympramol
+    *   [17:00] Jajka L 3szt, tuńczyk 110g, olej rzepakowy 40g, cebula (Węglowodany netto: ~3g, 720 kcal, Białko: ~44g)
+    *   [18:00] Deprexolet - mianseryna 10mg
+    *   [18:00] Czekolada domowa z erytrytolem: masło 10g, kakao 20g (Węglowodany netto: ~3g, 160 kcal, Białko: ~4g)
+    *   [20:00] Orzechy włoskie 50g, orzechy ziemne 40g, kefir 300g (Węglowodany netto: ~20g, 580 kcal, Białko: ~22g)
+    *   [20:00] Melatonina 1mg
+    *   [22:00] Myśliwska 45g, trochę kapusty kiszonej (Węglowodany netto: ~2g, 200 kcal, Białko: ~8g)
+*   **Podsumowanie dnia:**
+    *   Suma węglowodanów netto: ~28.6 g
+    *   Suma kalorii: ~2785 kcal
+    *   Suma białka: ~139 g
+*   **Ocena wpływu na lipidogram:** Neutralny
+    *   *Komentarz:* Niska podaż węglowodanów netto przy tradycyjnych tłuszczach zwierzęcych i roślinnych pozwala zachować równowagę profilu lipidowego.
+*   **Komentarz o ketozie:** Bardzo niski bilans węglowodanów netto zapewnia utrzymanie ciągłej i stabilnej ketozy.
+*   **Komentarz o białku:** Podaż blisko 140g białka z różnorodnych źródeł (mięso, ryby, jaja, nabiał) stanowi znakomitą ochronę przed sarkopenią.
 ========================================
 

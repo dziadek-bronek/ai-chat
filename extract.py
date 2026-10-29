@@ -18,7 +18,7 @@ DICTIONARY = {
     "D": "witamina D",
     "C": "witamina C",
     "Q": "witamina B",
-    "T": "olej mct c8 10g",
+    "T": "olej mct c8 8g",
     "X": "deprexolet - mianseryna 10mg",
     "H": "melatonina 1mg",
     "V": "cwiczenia na drabince - podciagniecia i dipy",

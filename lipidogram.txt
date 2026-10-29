@@ -1,0 +1,57 @@
+Dla kazdego z ostatnich dni:
+    krotko:
+
+Ocena wpływu na lipidogram:** Dobry
+Ocena wpływu na lipidogram:** Zly
+Ocena wpływu na lipidogram:** Zly
+Ocena wpływu na lipidogram:** Neutralny
+Ocena wpływu na lipidogram:** Dobry
+Ocena wpływu na lipidogram:** Dobry
+Ocena wpływu na lipidogram:** Zly
+Ocena wpływu na lipidogram:** Neutralny
+Ocena wpływu na lipidogram:** Zly
+Ocena wpływu na lipidogram:** Bardzo zły
+Ocena wpływu na lipidogram:** Zly
+Ocena wpływu na lipidogram:** Neutralny
+
+
+
+
+
+    z dodatkowywym komentarzem:
+
+Ocena wpływu na lipidogram:** Dobry
+Komentarz:* Niski poziom węglowodanów i brak obciążenia lipidowego sprzyjają stabilizacji frakcji lipidowych.
+--
+Ocena wpływu na lipidogram:** Zly
+Komentarz:* Wyższa podaż węglowodanów w tym dniu (bułki) w połączeniu z tłuszczami nasyconymi może przejściowo pogorszyć parametry lipidowe.
+--
+Ocena wpływu na lipidogram:** Zly
+Komentarz:* Duża podaż tłuszczu nasyconego i przetworzonego mięsa w połączeniu z węglowodanami z bułek negatywnie wpływa na profil lipidowy.
+--
+Ocena wpływu na lipidogram:** Neutralny
+Komentarz:* Klasyczny profil ketogeniczny bogaty w tłuszcze nasycone i jednonienasycone przy niskiej podaży węglowodanów pozwala utrzymać stabilny lipidogram.
+--
+Ocena wpływu na lipidogram:** Dobry
+Komentarz:* Przewaga zdrowych tłuszczów (oliwa, orzechy) przy niskiej podaży węglowodanów korzystnie wpływa na profil lipidowy.
+--
+Ocena wpływu na lipidogram:** Dobry
+Komentarz:* Wysoki udział oliwy z oliwek i orzechów wspiera profil lipidowy przy jednoczesnej restrykcji węglowodanów.
+--
+Ocena wpływu na lipidogram:** Zly
+Komentarz:* Duża ilość sera żółtego oraz przetworzonego produktu (paprykarz z wyższymi węglowodanami) może negatywnie wpłynąć na lipidogram.
+--
+Ocena wpływu na lipidogram:** Neutralny
+Komentarz:* Pomimo dużej ilości mięsa, umiarkowana ilość węglowodanów pozwala utrzymać lipidogram na stabilnym poziomie.
+--
+Ocena wpływu na lipidogram:** Zly
+Komentarz:* Fasolka po bretońsku i duże ilości nabiału (mleko, kefir) w połączeniu z tłustymi wędlinami obciążają profil lipidowy i podnoszą ładunek glikemiczny.
+--
+Ocena wpływu na lipidogram:** Bardzo zły
+Komentarz:* Duża ilość alkoholu (piwo zawiera mnóstwo węglowodanów i obciąża wątrobę) w połączeniu z tłuszczami i białkiem bardzo negatywnie wpływa na metabolizm lipidów.
+--
+Ocena wpływu na lipidogram:** Zly
+Komentarz:* Obecność tradycyjnego makaronu podniosła podaż węglowodanów, co w zestawieniu z tłuszczami nie sprzyja optymalnemu lipidogramowi.
+--
+Ocena wpływu na lipidogram:** Neutralny
+Komentarz:* Niska podaż węglowodanów netto przy tradycyjnych tłuszczach zwierzęcych i roślinnych pozwala zachować równowagę profilu lipidowego.
