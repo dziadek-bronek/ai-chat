@@ -3,8 +3,9 @@ JL(0630); W(0715); SMP(0730);
 N(0745); F(08); L(11); F(12); Z(13);
 & schab gotowany, odgrzany na patelni 200g, trochę wywaru, po podgrzaniu dodana oliwa z oliwek 40g & (13); GKDTC(13); F(14); L(17);
 & biała kiełbasa (parzona, kupiona była surowa) 200g & (17);
-X(18); H(1930);
-& orzechy włoskie 50g, kefir 300g & (20);
+X(18); H(20);
+& orzechy włoskie 50g, orzechy ziemne 30g, kefir 300g & (20);
+& biała kiełbasa (parzona, kupiona była surowa) 300g & (2030);
 
 28sr
 L(06); J(0645); W(07); SMP(0715);
