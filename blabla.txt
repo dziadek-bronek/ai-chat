@@ -1,3 +1,17 @@
+31so
+L(06); J(0730); W(08); SMP(0815);
+N(0830); F(0845); F(0930); Z(13);
+
+30pt
+J(0530); L(06); W(0645); SMP(07);
+N(0715); F(0730); L(1130); F(1230);
+& śledź wędzony 200g & (14);Z(14);
+K(1530); & awokado 1szt & (1530);
+& makaron - przed ugotowaniem ważył 40g, pesto zielone dawtona 95g & (16);
+C(16); L(17); X(18); B(1830);
+& jajka L 3szt, ser żółty 50g, trochę kapusty kiszonej & (1830);
+& paprykarz 330g, kefir 300g & (20);
+
 29cz
 JL(0630); W(0715); SMP(0730);
 N(0745); F(08); L(11); F(12); Z(13);
