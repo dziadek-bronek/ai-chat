@@ -1,4 +1,8 @@
-01 niedziela
+02pn
+L(05); (08); W(0815); SMP(0830); N(09); F(0915); F(10); LZ(1130);
+& szynka gotowana 180g, trochę wywaru, oliwa 40g & (1330); GKD(1330);
+
+01n:
 L(06); J(0730); W(08); SMP(0815);
 N(0830); F(0845); F(0930); LZ(11);
 & śledź wędzony 180g & (12);
@@ -6,3 +10,5 @@ KC(12); & gruszki 2szt & (14);
 L(1630);
 & jajka L 3szt, szynka gotowana 100g, oliwa 10g, odrobina wywaru & (1630); V(17); X(1730); H(1830);
 & orzechy włoskie 50g, orzechy ziemne 30g, kefir 300g & (19);
+& kiełbasa select myśliwska 45g, ser żółty 100g & (23);
+

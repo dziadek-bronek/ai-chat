@@ -1,4 +1,15 @@
-01 niedziela
+02pn
+[05:00] sympramol
+[08:15] wstanie
+[08:30] sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[09:00] żel z ugotowanego siemienia lnianego
+[09:15] kawa i 20g śmietanki 36%
+[10:00] kawa i 20g śmietanki 36%
+[11:30] sympramol, zakwas buraczany 130g
+[13:30] szynka gotowana 180g, trochę wywaru, oliwa 40g
+[13:30] omega3, witamina K, witamina D
+
+01n:
 [06:00] sympramol
 [07:30] obudzenie
 [08:00] wstanie
@@ -16,3 +27,5 @@
 [17:30] deprexolet - mianseryna 10mg
 [18:30] melatonina 1mg
 [19:00] orzechy włoskie 50g, orzechy ziemne 30g, kefir 300g
+[23:00] kiełbasa select myśliwska 45g, ser żółty 100g
+

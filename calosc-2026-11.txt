@@ -1,45 +1,61 @@
 ========================================
 
 === GEMINI ===
-Oto szczegółowe podsumowanie dnia 1 października dla opisanego mężczyzny, z uwzględnieniem parametrów antropometrycznych (50 lat, 188 cm, 88 kg), założonej diety ketogenicznej oraz stałego okna żywieniowego.
+Oto szczegółowe podsumowanie danych dla obu dni (01n oraz 02pn), uwzględniające parametry makroelementów dla kawy i posiłków (węglowodany netto, kilokalorie, białko), sumy dzienne, oceny wpływu na lipidogram, stan ketozy oraz kontekst sarkopenii.
 
-### Chronologiczny plan dnia (01.10.2023, niedziela)
+---
 
+### Dzień 01n (Niedziela)
+
+**Chronologia zdarzeń:**
 *   [06:00] Sympramol
 *   [07:30] Obudzenie się
-*   [08:00] Wstanie z łóżka
+*   [08:00] Wstanie
 *   [08:15] Suplementacja: sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
 *   [08:30] Żel z ugotowanego siemienia lnianego
-*   [08:45] Kawa z 20g śmietanki 36% (Węglowodany netto: 0.5g, Kalorie: 76 kcal, Białko: 0.5g)
-*   [09:30] Kawa z 20g śmietanki 36% (Węglowodany netto: 0.5g, Kalorie: 76 kcal, Białko: 0.5g)
-*   [11:00] Sympramol, zakwas buraczany 130g (Węglowodany netto: ok. 4g, Kalorie: 20 kcal, Białko: 1g)
-*   [12:00] Śledź wędzony 180g, witamina K, witamina C (Węglowodany netto: 0g, Kalorie: 394 kcal, Białko: 31.5g)
-*   [14:00] Gruszki 2 szt. (Węglowodany netto: ok. 26g, Kalorie: 200 kcal, Białko: 1.2g)
+*   [08:45] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 76 kcal, Białko: 0.5g)
+*   [09:30] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 76 kcal, Białko: 0.5g)
+*   [11:00] Sympramol, zakwas buraczany 130g
+*   [12:00] Posiłek 1: Śledź wędzony 180g (Węglowodany netto: 0.0g, Kalorie: 385 kcal, Białko: 31.5g) + witamina K, witamina C
+*   [14:00] Posiłek 2: Gruszki 2 szt. (Węglowodany netto: ~24g, Kalorie: ~200 kcal, Białko: ~1.2g)
 *   [16:30] Sympramol
-*   [16:30] Jajka L 3 szt., szynka gotowana 100g, oliwa 10g, odrobina wywaru (Węglowodany netto: ok. 1.5g, Kalorie: 512 kcal, Białko: 39g)
+*   [16:30] Posiłek 3: Jajka L 3 szt., szynka gotowana 100g, oliwa 10g, odrobina wywaru (Węglowodany netto: 1.5g, Kalorie: 565 kcal, Białko: 43.0g)
 *   [17:00] Ćwiczenia na drabince – podciągnięcia i dipy
-*   [17:30] Deprexolet (mianseryna) 10mg
+*   [17:30] Deprexolet (mianseryna 10mg)
 *   [18:30] Melatonina 1mg
-*   [19:00] Orzechy włoskie 50g, orzechy ziemne 30g, kefir domowy 300g (Węglowodany netto: ok. 19g, Kalorie: 657 kcal, Białko: 28g)
+*   [19:00] Posiłek 4: Orzechy włoskie 50g, orzechy ziemne 30g, kefir 300g (Węglowodany netto: ~20.5g, Kalorie: ~685 kcal, Białko: ~22.5g)
+*   [23:00] Posiłek 5: Kiełbasa select myśliwska 45g, ser żółty 100g (Węglowodany netto: 2.0g, Kalorie: 740 kcal, Białko: 37.5g)
+
+**Podsumowanie dnia 01n:**
+*   Suma węglowodanów netto: ok. 49.6 g
+*   Suma kalorii: ok. 2727 kcal
+*   Suma białka: ok. 136.7 g
+*   **Ocena wpływu na lipidogram:** Zły (spożycie dużej ilości owoców – gruszek – przy jednoczesnym wysokim spożyciu nasyconych kwasów tłuszczowych z serów i wędlin może negatywnie wpłynąć na poziom trójglicerydów i frakcji LDL).
+*   **Ketoza:** Jednorazowe spożycie dużej ilości węglowodanów (gruszki) na pewno na kilka godzin wyłączyło organizm ze stanu ketozowego, z którego powrót nastąpił prawdopodobnie w nocy lub nad ranem kolejnego dnia.
+*   **Sarkopenia:** Spożycie białka na poziomie blisko 137 g przy wadze 88 kg jest bardzo dobre i w pełni wystarczające do skutecznej stymulacji syntezy białek mięśniowych oraz ochrony przed sarkopenią, zwłaszcza w połączeniu z treningiem oporowym.
+*   **Okno czasowe:** Posiłki spożyto w nietypowym i bardzo szerokim oknie (od 12:00 do 23:00), co narusza założone stałe okno 13:00–21:00.
 
 ---
 
-### Podsumowanie dnia
+### Dzień 02pn (Poniedziałek)
 
-*   **Suma węglowodanów netto:** ok. 51.5g *(uwaga: obecność gruszek i zakwasu podniosła pulę węglowodanów powyżej standardowego limitu keto, ok. 50g netto)*
-*   **Suma kalorii:** ok. 1935 kcal
-*   **Suma białka:** 102.7g
-*   **Okno posiłków:** 12:00 – 19:00 (7 godzin; poza założonym sztywnym oknem 13:00-21:00 ze względu na posiłek o 12:00).
+**Chronologia zdarzeń:**
+*   [05:00] Sympramol
+*   [08:15] Wstanie
+*   [08:30] Suplementacja: sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+*   [09:00] Żel z ugotowanego siemienia lnianego
+*   [09:15] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 76 kcal, Białko: 0.5g)
+*   [10:00] Kawa i 20g śmietanki 36% (Węglowodany netto: 0.8g, Kalorie: 76 kcal, Białko: 0.5g)
+*   [11:30] Sympramol, zakwas buraczany 130g
+*   [13:30] Posiłek 1: Szynka gotowana 180g, trochę wywaru, oliwa 40g (Węglowodany netto: 1.0g, Kalorie: 685 kcal, Białko: 38.0g) + omega3, witamina K, witamina D
 
----
-
-### Oceny eksperckie
-
-*   **Ocena wpływu na lipidogram:** Zły.
-    *Komentarz:* Obecność owoców o wyższej zawartości cukrów prostych (gruszki) przy jednoczesnym spożyciu tłuszczów nasyconych i nabiału może w krótkiej perspektywie negatywnie wpływać na poziom trójglicerydów i frakcji LDL u osób na diecie keto.
-*   **Ketoza:** Wyłączenie z ketozy.
-    *Komentarz:* Spożycie dwóch gruszek oraz zakwasu buraczanego dostarczyło puli węglowodanów netto przekraczającej próg ketogeniczny (ok. 50g), co z dużym prawdopodobieństwem na kilka godzin wyłączyło organizm ze stanu ketonowej adaptacji.
-*   **Białko a sarkopenia:** Dobry.
-    *Komentarz:* Podaż białka na poziomie ponad 100g przy wadze 88 kg (ok. 1.17g/kg m.c.) w połączeniu z treningiem siłowym (podciągnięcia, dipy) stanowi odpowiedni bodziec do stymulacji syntezy białek mięśniowych i skutecznie zapobiega sarkopenii.
+**Podsumowanie dnia 02pn:**
+*   Suma węglowodanów netto: ok. 2.6 g (nie licząc śladowych ilości z zakwasu buraczanego)
+*   Suma kalorii: ok. 837 kcal
+*   Suma białka: ok. 39.0 g
+*   **Ocena wpływu na lipidogram:** Neutralny (bardzo niski poziom węglowodanów i czysta dieta ketogeniczna wspierają poprawę wrażliwości insulinowej i profilu lipidowego, choć kaloryczność tego dnia była bardzo niska).
+*   **Ketoza:** Głęboka i niezakłócona ketoza; organizm bez problemu utrzymał stan ketogenny i kontynuował spalanie tłuszczu.
+*   **Sarkopenia:** Podaż białka w tym konkretnym dniu była za niska (ok. 39 g), co przy braku dostatecznej ilości aminokwasów egzogennych nie chroni optymalnie przed sarkopenią w skali doby, jeśli nie było innych posiłków po godzinie 13:30.
+*   **Okno czasowe:** Jedyne okno posiłkowe zamknęło się w wyznaczonym przedziale (posiłek o 13:30 mieści się w stałym oknie 13:00–21:00).
 ========================================
 
