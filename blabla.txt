@@ -1,6 +1,12 @@
+03wt
+JL(0530); W(06); SMP(0615);
+N(0645); F(07); F(09); L(1030);
+
 02pn
-L(05); (08); W(0815); SMP(0830); N(09); F(0915); F(10); LZ(1130);
-& szynka gotowana 180g, trochę wywaru, oliwa 40g & (1330); GKD(1330);
+L(05); J(08); W(0815); SMP(0830); N(09); F(0915); F(10); LZ(1130);
+& szynka gotowana 180g, trochę wywaru, oliwa 40g & (1330); GKD(1330); MP(16); L(1630);
+& paprykarz 330g & (17); X(1730);
+& orzechy włoskie 50g, kefir 300g & (18); H(1830); & oliwa 20g, olej 15g, ser żółty 50g, kapusta kiszona 100g, kefir 150g & (1930);
 
 01n:
 L(06); J(0730); W(08); SMP(0815);
