@@ -1,6 +1,23 @@
+05czw
+JL(0530); WSMP(0615); N(0630);
+F(0645); V(09); F(0930); L(1030);
+
+04sr
+JL(0545); W(06); SMP(0615);
+N(0630); F(07);
+& kfc: małe frytki i 6 hotwings (czyli kubełek hot wings dla 1 osoby) & (0945); & coffo 2w1 saszetki kawowe z biedronki 1szt (czyli 9g węglowodanów) & (15);
+& ser żółty 50 g & (1530); & gruszki 500g & (16); L(17); X(1730);
+& wątróbka drobiowa odgrzewana 100g, oliwa 15g, kapusta kiszona 85g, jajka L 3szt & (1830); H(19);
+& orzechy włoskie 50g, kefir 300g & (19); & ser żółty 35g & (21);
+
 03wt
 JL(0530); W(06); SMP(0615);
 N(0645); F(07); F(09); L(1030);
+Z(1130); RGKDQC(12);
+& szynka gotowana 220g, wywar 80g, oliwa 40g & (12); & wątróbka drobiowa odgrzewana 100g, oliwa 25g, olej rzepakowy tani 15g, kapusta kiszona 100g & (1630);
+L(1630); & ser żółty 60g & (17);
+X(1730); & orzechy włoskie 50g, kefir 300g & (1830); H(1830);
+& ser żółty 40g & (19); orzechy ziemne 30g (22);
 
 02pn
 L(05); J(08); W(0815); SMP(0830); N(09); F(0915); F(10); LZ(1130);
