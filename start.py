@@ -94,46 +94,66 @@ def list_text_models(client):
     return names
 
 
+STANDARD_NAME = re.compile(r"^gemini-(\d+(?:\.\d+)?)-(pro|flash-lite|flash)(?:-(.+))?$")
+
+
 def model_rank(name):
-    """Im wyższy klucz, tym lepszy model: najpierw wersja, potem klasa (pro > flash > lite), potem stabilność."""
-    ver = re.search(r"gemini-(\d+(?:\.\d+)?)", name)
-    version = float(ver.group(1)) if ver else 0.0
-    if "flash-lite" in name or "lite" in name:
-        tier = 1
-    elif "flash" in name:
-        tier = 2
-    elif "pro" in name:
-        tier = 3
-    else:
-        tier = 0
-    stable = 0 if any(x in name for x in ("preview", "exp")) else 1
-    alias_penalty = 0 if "latest" in name else 1
-    return (version, tier, stable, alias_penalty)
+    """
+    Wyższy klucz = lepszy model. Najpierw modele o standardowej nazwie
+    (gemini-X.Y-pro|flash|flash-lite), potem wersja, klasa (pro > flash > lite),
+    stabilność (bez preview/exp). Kryptonimy typu 'gemini-4-argon' trafiają na koniec,
+    ale nadal można je wybrać ręcznie komendą 'model <nazwa>'.
+    """
+    m = STANDARD_NAME.match(name)
+    if not m:
+        return (0, 0.0, 0, 0, 0)
+    version = float(m.group(1))
+    tier = {"flash-lite": 1, "flash": 2, "pro": 3}[m.group(2)]
+    suffix = m.group(3) or ""
+    stable = 0 if any(x in suffix for x in ("preview", "exp")) else 1
+    alias_penalty = 0 if "latest" in suffix else 1
+    return (1, version, tier, stable, alias_penalty)
 
 
 def ranked_models(client):
     return sorted(list_text_models(client), key=model_rank, reverse=True)
 
 
+MAX_ATTEMPTS = 4          # ile modeli maksymalnie próbujemy na jedno pytanie
+REQUEST_TIMEOUT_MS = 90_000  # timeout pojedynczego zapytania (90 s)
+failed_models = {}        # model -> kod błędu, pomijane do końca sesji
+
+
 def generate_with_fallback(client, candidates, start_model, contents):
     """
-    Próbuje start_model, a przy błędzie (model niedostępny, limit, przeciążenie)
-    przechodzi do kolejnych kandydatów. Zwraca (response, użyty_model).
+    Próbuje start_model, a przy błędzie (limit, model niedostępny, przeciążenie)
+    przechodzi do kolejnych kandydatów - maksymalnie MAX_ATTEMPTS.
+    Modele, które już zawiodły w tej sesji, są pomijane. Zwraca (response, użyty_model).
     """
     order = [start_model] + [m for m in candidates if m != start_model]
+    order = [m for m in order if m not in failed_models or m == start_model][:MAX_ATTEMPTS]
     last_error = None
-    for model in order:
+    for i, model in enumerate(order, 1):
+        print(f"[{i}/{len(order)}] próba: {model} ...", flush=True)
+        t0 = time.time()
         try:
-            response = client.models.generate_content(model=model, contents=contents)
+            response = client.models.generate_content(
+                model=model, contents=contents,
+                config=types.GenerateContentConfig(
+                    http_options=types.HttpOptions(timeout=REQUEST_TIMEOUT_MS)),
+            )
             return response, model
         except genai_errors.APIError as e:
             last_error = e
             code = getattr(e, "code", None)
-            print(f"[!] Model {model} zwrócił błąd {code}: {getattr(e, 'message', e)}")
+            failed_models[model] = code
+            print(f"[!] {model}: błąd {code} po {time.time() - t0:.1f}s - {str(getattr(e, 'message', e))[:150]}")
             if code in (400, 401):
-                # zły klucz lub zapytanie - zmiana modelu nie pomoże
-                raise
-            print("[!] Próbuję kolejny model...")
+                raise  # zły klucz lub zapytanie - zmiana modelu nie pomoże
+        except Exception as e:  # timeout sieciowy itp.
+            last_error = e
+            failed_models[model] = type(e).__name__
+            print(f"[!] {model}: {type(e).__name__} po {time.time() - t0:.1f}s")
     raise last_error
 
 
@@ -165,6 +185,8 @@ except genai_errors.APIError as e:
 
 current_model = os.environ.get("GEMINI_MODEL") or (candidates[0] if candidates else "gemini-3.5-flash-lite")
 print(f"[+] Model: {current_model}")
+if candidates:
+    print("[+] Najlepsze wg rankingu: " + ", ".join(candidates[:6]))
 print("[+] Komendy: 'models' (lista), 'model <nazwa>' (zmiana), 'f' (z input.txt), 'exit'")
 
 while True:
@@ -213,7 +235,10 @@ while True:
     print(f"\nGemini ({current_model}) myśli...")
     try:
         response, used_model = generate_with_fallback(client, candidates, current_model, conv_state)
-    except genai_errors.APIError as e:
+    except KeyboardInterrupt:
+        print("\n[!] Przerwano (Ctrl+C).")
+        continue
+    except Exception as e:
         print(f"[!] Nie udało się uzyskać odpowiedzi: {e}")
         continue  # nic nie zapisujemy - tura użytkownika nie trafia do historii
 
