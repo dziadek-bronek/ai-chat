@@ -1,137 +1,150 @@
-Poni¿ej wyliczenia dla dni od 1 do 5 listopada (chronologicznie, dla 5.11 dane do 10:30, wiêc dzieñ jest niepe³ny). Wartoœci to oszacowania z tabel wartoœci od¿ywczych: **W** to wêglowodany netto (wêglowodany minus b³onnik), **K** kcal, **B** bia³ko.
+========================================
 
-Suplementy, leki, sól i cytryniany (Mg, K), witaminy i kreatynê liczê jako 0 kcal i 0 g.
-
----
-
-## 01.11 (niedziela)
-- 06:00 sympramol
-- 07:30 obudzenie
-- 08:00 wstanie
-- 08:15 sól + cytrynian Mg + cytrynian K
-- 08:30 ¿el lniany: W 0,2 g, 53 kcal, B 1,8 g
-- 08:45 kawa + œmietanka: W 0,6 g, 67 kcal, B 0,5 g
-- 09:30 kawa + œmietanka: W 0,6 g, 67 kcal, B 0,5 g
-- 11:00 sympramol, zakwas buraczany 130 g: W 3,3 g, 20 kcal, B 0,8 g
-- 12:00 œledŸ wêdzony 180 g: W 0 g, 390 kcal, B 44 g (plus witaminy K i C)
-- 14:00 gruszki 2 szt.: W 40 g, 205 kcal, B 1,3 g
-- 16:30 sympramol
-- 16:30 jajka L ×3, szynka 100 g, oliwa 10 g, wywar: W 2 g, 440 kcal, B 40 g
-- 17:00 æwiczenia (podci¹gniêcia i dipy)
-- 17:30 deprexolet (mianseryna 10 mg)
-- 18:30 melatonina
-- 19:00 orzechy w³oskie 50 g, orzechy ziemne 30 g, kefir 300 g: W 13,3 g, 677 kcal, B 25 g
-- 23:00 kie³basa myœliwska 45 g, ser ¿ó³ty 100 g: W 1 g, 515 kcal, B 36 g
-
-**Suma: W ? 61 g | ? 2430 kcal | B ? 150 g**
-- **Lipidogram: z³y.** Nasycone to ok. 54 g (oko³o 20% energii), g³ównie z sera 100 g, œmietanki, kie³basy i kefiru. ŒledŸ, orzechy i gruszki (b³onnik) tylko czêœciowo to równowa¿¹.
-- **Ketoza:** 40 g wêglowodanów z gruszek w jednej porcji o 14:00 prawdopodobnie obni¿y³o ketony poni¿ej progu na kilka do kilkunastu godzin. Powrót jest realny do nastêpnego ranka, bo wieczorne posi³ki by³y niskowêglowodanowe, a jesteœ zaadaptowany.
-- **Bia³ko:** 150 g (1,7 g/kg), w kilku du¿ych porcjach po 25–44 g, plus trening oporowy, wiêc bardzo dobrze dla ochrony przed sarkopeni¹.
-- **Okno:** kalorie od 08:30 do 23:00. W³aœciwe posi³ki 12:00–23:00 (11 h), czyli 1 h przed i 2 h po sta³ym oknie 13–21.
+=== GEMINI ===
+Oto opracowanie danych z dni 1â€“5 listopada przedstawione w kolejnoÅ›ci chronologicznej.
 
 ---
 
-## 02.11 (poniedzia³ek)
-- 05:00 sympramol
-- 08:00 obudzenie
-- 08:15 wstanie
-- 08:30 sól + cytryniany Mg i K
-- 09:00 ¿el lniany: W 0,2 g, 53 kcal, B 1,8 g
-- 09:15 kawa + œmietanka: W 0,6 g, 67 kcal, B 0,5 g
-- 10:00 kawa + œmietanka: W 0,6 g, 67 kcal, B 0,5 g
-- 11:30 sympramol, zakwas buraczany 130 g: W 3,3 g, 20 kcal, B 0,8 g
-- 13:30 szynka 180 g, wywar, oliwa 40 g: W 1,4 g, 557 kcal, B 33 g (plus omega3, K, D)
-- 16:00 cytryniany Mg i K
-- 16:30 sympramol
-- 17:00 paprykarz 330 g: W ? 25 g, 627 kcal, B 26 g
-- 17:30 deprexolet
-- 18:00 orzechy w³oskie 50 g, kefir 300 g: W 11 g, 507 kcal, B 17,6 g
-- 18:30 melatonina
-- 19:30 oliwa 20 g, olej 15 g, ser 50 g, kapusta kiszona 100 g, kefir 150 g: W 5,5 g, 598 kcal, B 18,6 g
+### **01.11 Niedziela**
 
-**Suma: W ? 48 g | ? 2500 kcal | B ? 99 g**
-- **Lipidogram: neutralny.** Nasycone to ok. 47 g (oko³o 17% energii), ale ok. 60 g oliwy, olej rzepakowy, orzechy w³oskie i ryba (paprykarz) daj¹ sporo t³uszczów jednonienasyconych i omega-3.
-- **Ketoza:** paprykarz (ry¿, koncentrat) da³ ok. 25 g wêglowodanów i wraz z kefirem sumê 48 g, wiêc ketony mog³y spaœæ w okolice progu 0,5 mmol/l. Po poprzednim dniu powrót pe³nej ketozy móg³ siê opóŸniæ.
-- **Bia³ko:** 99 g (1,1 g/kg) to dolna granica, a przy 1,2–1,6 g/kg (105–140 g) by³oby lepiej. Brakowa³o te¿ porcji ?30 g w kilku posi³kach i treningu tego dnia.
-- **Okno:** kalorie od 09:00 do 19:30. W³aœciwe posi³ki 13:30–19:30 (6 h), czyli w obrêbie 13–21. Poza oknem tylko ¿el, kawy ze œmietank¹ i zakwas o 11:30.
+* **[06:00]** CzynnoÅ›Ä‡: sympramol
+* **[07:30]** CzynnoÅ›Ä‡: obudzenie
+* **[08:00]** CzynnoÅ›Ä‡: wstanie
+* **[08:15]** CzynnoÅ›Ä‡: sÃ³l 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+* **[08:30]** PosiÅ‚ek/NapÃ³j: Å¼el z ugotowanego siemienia lnianego *(WÄ™glowodany netto: 0 g, Kcal: 50 kcal, BiaÅ‚ko: 2.0 g)*
+* **[08:45]** Kawa: kawa i 20g Å›mietanki 36% *(WÄ™glowodany netto: 0.6 g, Kcal: 68 kcal, BiaÅ‚ko: 0.5 g)*
+* **[09:30]** Kawa: kawa i 20g Å›mietanki 36% *(WÄ™glowodany netto: 0.6 g, Kcal: 68 kcal, BiaÅ‚ko: 0.5 g)*
+* **[11:00]** CzynnoÅ›Ä‡ / NapÃ³j: sympramol, zakwas buraczany 130g *(WÄ™glowodany netto: 2.0 g, Kcal: 15 kcal, BiaÅ‚ko: 0.5 g)*
+* **[12:00]** PosiÅ‚ek: Å›ledÅº wÄ™dzony 180g oraz suplementy (witamina K, witamina C) *(WÄ™glowodany netto: 0 g, Kcal: 390 kcal, BiaÅ‚ko: 38.0 g)*
+* **[14:00]** PosiÅ‚ek: gruszki 2szt *(WÄ™glowodany netto: 30.0 g, Kcal: 170 kcal, BiaÅ‚ko: 1.0 g)*
+* **[16:30]** CzynnoÅ›Ä‡: sympramol
+* **[16:30]** PosiÅ‚ek: jajka L 3szt, szynka gotowana 100g, oliwa 10g, odrobina wywaru *(WÄ™glowodany netto: 2.0 g, Kcal: 460 kcal, BiaÅ‚ko: 42.0 g)*
+* **[17:00]** CzynnoÅ›Ä‡: Ä‡wiczenia na drabince - podciÄ…gniÄ™cia i dipy
+* **[17:30]** CzynnoÅ›Ä‡: deprexolet - mianseryna 10mg
+* **[18:30]** CzynnoÅ›Ä‡: melatonina 1mg
+* **[19:00]** PosiÅ‚ek: orzechy wÅ‚oskie 50g, orzechy ziemne 30g, kefir 300g *(WÄ™glowodany netto: 14.9 g, Kcal: 650 kcal, BiaÅ‚ko: 24.3 g)*
+* **[23:00]** PosiÅ‚ek: kieÅ‚basa select myÅ›liwska 45g, ser Å¼Ã³Å‚ty 100g *(WÄ™glowodany netto: 0.5 g, Kcal: 500 kcal, BiaÅ‚ko: 37.0 g)*
 
----
-
-## 03.11 (wtorek)
-- 05:30 obudzenie, sympramol
-- 06:00 wstanie
-- 06:15 sól + cytryniany Mg i K
-- 06:45 ¿el lniany: W 0,2 g, 53 kcal, B 1,8 g
-- 07:00 kawa + œmietanka: W 0,6 g, 67 kcal, B 0,5 g
-- 09:00 kawa + œmietanka: W 0,6 g, 67 kcal, B 0,5 g
-- 10:30 sympramol
-- 11:30 zakwas buraczany 130 g: W 3,3 g, 20 kcal, B 0,8 g
-- 12:00 suplementy (kreatyna, omega3, K, D, B, C)
-- 12:00 szynka 220 g, wywar 80 g, oliwa 40 g: W 1,8 g, 601 kcal, B 41,6 g
-- 16:30 w¹tróbka drobiowa 100 g, oliwa 25 g, olej rzepakowy 15 g, kapusta kiszona 100 g: W 2,4 g, 538 kcal, B 25 g
-- 16:30 sympramol
-- 17:00 ser ¿ó³ty 60 g: W 0,3 g, 210 kcal, B 15 g
-- 17:30 deprexolet
-- 18:30 orzechy w³oskie 50 g, kefir 300 g: W 11 g, 507 kcal, B 17,6 g
-- 18:30 melatonina
-- 19:00 ser ¿ó³ty 40 g: W 0,2 g, 140 kcal, B 10 g
-
-**Suma: W ? 20 g | ? 2200 kcal | B ? 113 g**
-- **Lipidogram: neutralny.** Nasycone to nadal ok. 49 g (ser 100 g, œmietanka), ale ok. 65 g oliwy, olej rzepakowy i orzechy znacz¹co poprawiaj¹ profil t³uszczów.
-- **Ketoza:** 20 g wêglowodanów netto, bez ¿adnych skoków. Ketoza utrzymana, a dzieñ dobry do powrotu po poprzednim dniu.
-- **Bia³ko:** 113 g (1,3 g/kg), w tym posi³ek 42 g o 12:00 i kreatyna, wiêc dobrze dla miêœni.
-- **Okno:** kalorie od 06:45 do 19:00. W³aœciwe posi³ki 12:00–19:00 (7 h), czyli pocz¹tek 1 h przed sta³ym oknem 13–21.
+* **Podsumowanie dnia:**
+  * **Suma wÄ™glowodanÃ³w netto:** 50.6 g
+  * **Suma kalorii:** 2371 kcal
+  * **Suma biaÅ‚ka:** 145.8 g
+  * **Okno posiÅ‚kÃ³w staÅ‚ych:** 12:00 â€“ 23:00 (przekroczony zakres staÅ‚ego okna 13:00â€“21:00)
+  * **WpÅ‚yw na lipidogram:** **Neutralny** â€“ wysoka podaÅ¼ tÅ‚uszczÃ³w nasyconych (ser, kieÅ‚basa) zostaÅ‚a zrÃ³wnowaÅ¼ona przez kwasy tÅ‚uszczowe omega-3 ze Å›ledzia oraz orzechÃ³w i oliwÄ™.
+  * **Ketoza:** PodwyÅ¼szona zawartoÅ›Ä‡ wÄ™glowodanÃ³w netto (~50g, gÅ‚Ã³wnie z gruszek) mogÅ‚a nieznacznie obniÅ¼yÄ‡ poziom ketonÃ³w, lecz adaptacja i trening pomogÅ‚y w utrzymaniu ketozy.
+  * **BiaÅ‚ko a sarkopenia:** PodaÅ¼ biaÅ‚ka wynoszÄ…ca 145.8 g (ok. 1.66 g/kg m.c.) doskonale zabezpiecza masÄ™ miÄ™Å›niowÄ… i wspiera regeneracjÄ™ po Ä‡wiczeniach oporowych.
 
 ---
 
-## 04.11 (œroda)
-- 05:45 obudzenie, sympramol
-- 06:00 wstanie
-- 06:15 sól + cytryniany Mg i K
-- 06:30 ¿el lniany: W 0,2 g, 53 kcal, B 1,8 g
-- 07:00 kawa + œmietanka: W 0,6 g, 67 kcal, B 0,5 g
-- 09:45 KFC (ma³e frytki, 6 hot wings): W ? 50 g, 710 kcal, B 32 g
-- 15:00 Coffo 2w1: W 9 g, 65 kcal, B 0,5 g
-- 15:30 ser ¿ó³ty 50 g: W 0,3 g, 175 kcal, B 12,5 g
-- 16:00 gruszki 500 g: W ? 55 g, 260 kcal, B 1,7 g
-- 17:00 sympramol
-- 17:30 deprexolet
-- 18:30 w¹tróbka 100 g, oliwa 15 g, kapusta kiszona 85 g, jajka L ×3: W 3,4 g, 550 kcal, B 46 g
-- 19:00 melatonina
-- 19:00 orzechy w³oskie 50 g, kefir 300 g: W 11 g, 507 kcal, B 17,6 g
-- 21:00 ser ¿ó³ty 35 g: W 0,2 g, 122 kcal, B 8,8 g
+### **02.11 PoniedziaÅ‚ek**
 
-**Suma: W ? 130 g | ? 2510 kcal | B ? 121 g**
-- **Lipidogram: bardzo z³y.** Sma¿one w rafinowanym oleju jedzenie z KFC, 130 g wêglowodanów (w tym 9 g cukru z Coffo i fruktoza z gruszek) i ok. 47 g nasyconych to zestaw niekorzystny dla trójglicerydów i LDL.
-- **Ketoza:** wy³¹czona na pewno. Powrót prawdopodobnie po 24–48 h, a nocny post, poranna kawa i æwiczenia 5.11 go przyspiesz¹.
-- **Bia³ko:** 121 g (1,4 g/kg), dobrze roz³o¿one, wiêc wystarczaj¹ce dla miêœni mimo zjedzonego fast foodu.
-- **Okno:** kalorie od 06:30 do 21:00. W³aœciwe posi³ki 09:45–21:00 (11 h 15 min), czyli pocz¹tek ponad 3 h przed sta³ym oknem 13–21.
+* **[05:00]** CzynnoÅ›Ä‡: sympramol
+* **[08:00]** CzynnoÅ›Ä‡: obudzenie
+* **[08:15]** CzynnoÅ›Ä‡: wstanie
+* **[08:30]** CzynnoÅ›Ä‡: sÃ³l 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+* **[09:00]** PosiÅ‚ek/NapÃ³j: Å¼el z ugotowanego siemienia lnianego *(WÄ™glowodany netto: 0 g, Kcal: 50 kcal, BiaÅ‚ko: 2.0 g)*
+* **[09:15]** Kawa: kawa i 20g Å›mietanki 36% *(WÄ™glowodany netto: 0.6 g, Kcal: 68 kcal, BiaÅ‚ko: 0.5 g)*
+* **[10:00]** Kawa: kawa i 20g Å›mietanki 36% *(WÄ™glowodany netto: 0.6 g, Kcal: 68 kcal, BiaÅ‚ko: 0.5 g)*
+* **[11:30]** CzynnoÅ›Ä‡ / NapÃ³j: sympramol, zakwas buraczany 130g *(WÄ™glowodany netto: 2.0 g, Kcal: 15 kcal, BiaÅ‚ko: 0.5 g)*
+* **[13:30]** PosiÅ‚ek: szynka gotowana 180g, trochÄ™ wywaru, oliwa 40g oraz suplementy (omega3, witamina K, witamina D) *(WÄ™glowodany netto: 1.8 g, Kcal: 576 kcal, BiaÅ‚ko: 36.0 g)*
+* **[16:00]** CzynnoÅ›Ä‡: cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+* **[16:30]** CzynnoÅ›Ä‡: sympramol
+* **[17:00]** PosiÅ‚ek: paprykarz 330g *(WÄ™glowodany netto: 33.0 g, Kcal: 450 kcal, BiaÅ‚ko: 15.0 g)*
+* **[17:30]** CzynnoÅ›Ä‡: deprexolet - mianseryna 10mg
+* **[18:00]** PosiÅ‚ek: orzechy wÅ‚oskie 50g, kefir 300g *(WÄ™glowodany netto: 12.5 g, Kcal: 475 kcal, BiaÅ‚ko: 16.5 g)*
+* **[18:30]** CzynnoÅ›Ä‡: melatonina 1mg
+* **[19:30]** PosiÅ‚ek: oliwa 20g, olej 15g, ser Å¼Ã³Å‚ty 50g, kapusta kiszona 100g, kefir 150g *(WÄ™glowodany netto: 6.0 g, Kcal: 581 kcal, BiaÅ‚ko: 18.0 g)*
 
----
-
-## 05.11 (czwartek, dzieñ w toku, stan na ok. 10:39)
-- 05:30 obudzenie, sympramol
-- 06:15 wstanie, sól + cytryniany Mg i K
-- 06:30 ¿el lniany: W 0,2 g, 53 kcal, B 1,8 g
-- 06:45 kawa + œmietanka: W 0,6 g, 67 kcal, B 0,5 g
-- 09:00 æwiczenia (podci¹gniêcia i dipy)
-- 09:30 kawa + œmietanka: W 0,6 g, 67 kcal, B 0,5 g
-- 10:30 sympramol
-
-**Suma na dziœ: W ? 1,4 g | ? 187 kcal | B ? 2,8 g**
-- **Lipidogram: neutralny** (na razie), bo to tylko œmietanka i ¿el lniany, a ocena zale¿y od reszty dnia.
-- **Ketoza:** poranny post i æwiczenia po wczorajszych 130 g wêglowodanów zwykle skracaj¹ powrót do ketozy, ale pewnoœæ da pomiar BHB.
-- **Bia³ko:** na razie ok. 3 g, wiêc do wieczora trzeba dobiæ ok. 105–140 g, najlepiej w 2–3 porcjach po 30–40 g.
-- **Okno:** na razie kalorie 06:30–09:30, czyli poza sta³ym oknem 13–21 (tylko ¿el lniany i kawy ze œmietank¹).
+* **Podsumowanie dnia:**
+  * **Suma wÄ™glowodanÃ³w netto:** 56.5 g
+  * **Suma kalorii:** 2283 kcal
+  * **Suma biaÅ‚ka:** 89.0 g
+  * **Okno posiÅ‚kÃ³w staÅ‚ych:** 13:30 â€“ 19:30 (zgodne z zakresem 13:00â€“21:00)
+  * **WpÅ‚yw na lipidogram:** **ZÅ‚y** â€“ obecnoÅ›Ä‡ przetworzonego paprykarza ryÅ¼owego oraz taniego oleju rafinowanego niekorzystnie wpÅ‚ywa na wskaÅºniki stanu zapalnego i profil lipidowy.
+  * **Ketoza:** WÄ™glowodany netto z paprykarza (ryÅ¼) oraz orzechÃ³w i kefiru (ponad 56g) chwilowo osÅ‚abiÅ‚y ketozÄ™, jednak dobra adaptacja pozwoliÅ‚a na szybki powrÃ³t do stanu ketogenicznego w nocy.
+  * **BiaÅ‚ko a sarkopenia:** SpoÅ¼ycie biaÅ‚ka na poziomie 89 g (1.01 g/kg m.c.) jest niewystarczajÄ…ce, aby w peÅ‚ni chroniÄ‡ masÄ™ miÄ™Å›niowÄ… u 50-letniego mÄ™Å¼czyzny.
 
 ---
 
-## Za³o¿enia (dla wiarygodnoœci szacunków)
-- Kefir: 2,5 g W/100 g (mieœcisz siê w Twoim "max 3 g"), 60 kcal i 3,3 g B/100 g.
-- Zakwas buraczany: ok. 2,5 g W/100 g, ¿el lniany: ok. 10 g nasion.
-- Gruszka: ok. 180 g na sztukê, 500 g gruszek liczone jako ok. 450 g jadalnych.
-- Paprykarz: ok. 8,5 g W/100 g brutto, b³onnik odjêty, wiêc wartoœæ zale¿y od marki.
-- KFC: uœrednione wartoœci z danych sieci, bez znajomoœci dok³adnej porcji.
-- ŒledŸ: 180 g liczone jako jadalne. Szynka i ser maj¹ œladowe wêglowodany.
+### **03.11 Wtorek**
 
-Jeœli podasz marki lub etykiety (paprykarz, kefir, KFC), przeliczê dok³adniej.
+* **[05:30]** CzynnoÅ›Ä‡: obudzenie, sympramol
+* **[06:00]** CzynnoÅ›Ä‡: wstanie
+* **[06:15]** CzynnoÅ›Ä‡: sÃ³l 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+* **[06:45]** PosiÅ‚ek/NapÃ³j: Å¼el z ugotowanego siemienia lnianego *(WÄ™glowodany netto: 0 g, Kcal: 50 kcal, BiaÅ‚ko: 2.0 g)*
+* **[07:00]** Kawa: kawa i 20g Å›mietanki 36% *(WÄ™glowodany netto: 0.6 g, Kcal: 68 kcal, BiaÅ‚ko: 0.5 g)*
+* **[09:00]** Kawa: kawa i 20g Å›mietanki 36% *(WÄ™glowodany netto: 0.6 g, Kcal: 68 kcal, BiaÅ‚ko: 0.5 g)*
+* **[10:30]** CzynnoÅ›Ä‡: sympramol
+* **[11:30]** NapÃ³j: zakwas buraczany 130g *(WÄ™glowodany netto: 2.0 g, Kcal: 15 kcal, BiaÅ‚ko: 0.5 g)*
+* **[12:00]** CzynnoÅ›Ä‡: suplementy (kreatyna, omega3, witamina K, witamina D, witamina B, witamina C)
+* **[12:00]** PosiÅ‚ek: szynka gotowana 220g, wywar 80g, oliwa 40g *(WÄ™glowodany netto: 2.2 g, Kcal: 624 kcal, BiaÅ‚ko: 44.0 g)*
+* **[16:30]** CzynnoÅ›Ä‡: sympramol
+* **[16:30]** PosiÅ‚ek: wÄ…trÃ³bka drobiowa odgrzewana 100g, oliwa 25g, olej rzepakowy tani 15g, kapusta kiszona 100g *(WÄ™glowodany netto: 2.5 g, Kcal: 511 kcal, BiaÅ‚ko: 20.0 g)*
+* **[17:00]** PosiÅ‚ek: ser Å¼Ã³Å‚ty 60g *(WÄ™glowodany netto: 0 g, Kcal: 210 kcal, BiaÅ‚ko: 15.0 g)*
+* **[17:30]** CzynnoÅ›Ä‡: deprexolet - mianseryna 10mg
+* **[18:30]** CzynnoÅ›Ä‡: melatonina 1mg
+* **[18:30]** PosiÅ‚ek: orzechy wÅ‚oskie 50g, kefir 300g *(WÄ™glowodany netto: 12.5 g, Kcal: 475 kcal, BiaÅ‚ko: 16.5 g)*
+* **[19:00]** PosiÅ‚ek: ser Å¼Ã³Å‚ty 40g *(WÄ™glowodany netto: 0 g, Kcal: 140 kcal, BiaÅ‚ko: 10.0 g)*
+
+* **Podsumowanie dnia:**
+  * **Suma wÄ™glowodanÃ³w netto:** 20.4 g
+  * **Suma kalorii:** 2161 kcal
+  * **Suma biaÅ‚ka:** 109.0 g
+  * **Okno posiÅ‚kÃ³w staÅ‚ych:** 12:00 â€“ 19:00 (rozpoczÄ™te godzinÄ™ przed docelowym oknem 13:00â€“21:00)
+  * **WpÅ‚yw na lipidogram:** **Neutralny** â€“ wysokie spoÅ¼ycie zdrowych tÅ‚uszczÃ³w (oliwa) i wÄ…trÃ³bki zostaÅ‚o czÄ™Å›ciowo zniweczone przez tani rafinowany olej rzepakowy.
+  * **Ketoza:** Niski poziom wÄ™glowodanÃ³w netto (ok. 20g) pozwoliÅ‚ na utrzymanie gÅ‚Ä™bokiej i stabilnej ketozy.
+  * **BiaÅ‚ko a sarkopenia:** PodaÅ¼ 109 g biaÅ‚ka (1.24 g/kg m.c.) speÅ‚nia podstawowe zapotrzebowanie zapobiegajÄ…ce katabolizmowi miÄ™Å›niowemu.
+
+---
+
+### **04.11 Åšroda**
+
+* **[05:45]** CzynnoÅ›Ä‡: obudzenie, sympramol
+* **[06:00]** CzynnoÅ›Ä‡: wstanie
+* **[06:15]** CzynnoÅ›Ä‡: sÃ³l 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+* **[06:30]** PosiÅ‚ek/NapÃ³j: Å¼el z ugotowanego siemienia lnianego *(WÄ™glowodany netto: 0 g, Kcal: 50 kcal, BiaÅ‚ko: 2.0 g)*
+* **[07:00]** Kawa: kawa i 20g Å›mietanki 36% *(WÄ™glowodany netto: 0.6 g, Kcal: 68 kcal, BiaÅ‚ko: 0.5 g)*
+* **[09:45]** PosiÅ‚ek: KFC (maÅ‚e frytki i 6 hotwings) *(WÄ™glowodany netto: 46.0 g, Kcal: 710 kcal, BiaÅ‚ko: 33.0 g)*
+* **[15:00]** Kawa/NapÃ³j: coffo 2w1 saszetki kawowe z Biedronki 1szt *(WÄ™glowodany netto: 9.0 g, Kcal: 45 kcal, BiaÅ‚ko: 0.5 g)*
+* **[15:30]** PosiÅ‚ek: ser Å¼Ã³Å‚ty 50g *(WÄ™glowodany netto: 0 g, Kcal: 175 kcal, BiaÅ‚ko: 12.5 g)*
+* **[16:00]** PosiÅ‚ek: gruszki 500g *(WÄ™glowodany netto: 50.0 g, Kcal: 290 kcal, BiaÅ‚ko: 2.0 g)*
+* **[17:00]** CzynnoÅ›Ä‡: sympramol
+* **[17:30]** CzynnoÅ›Ä‡: deprexolet - mianseryna 10mg
+* **[18:30]** PosiÅ‚ek: wÄ…trÃ³bka drobiowa odgrzewana 100g, oliwa 15g, kapusta kiszona 85g, jajka L 3szt *(WÄ™glowodany netto: 3.3 g, Kcal: 534 kcal, BiaÅ‚ko: 41.8 g)*
+* **[19:00]** CzynnoÅ›Ä‡: melatonina 1mg
+* **[19:00]** PosiÅ‚ek: orzechy wÅ‚oskie 50g, kefir 300g *(WÄ™glowodany netto: 12.5 g, Kcal: 475 kcal, BiaÅ‚ko: 16.5 g)*
+* **[21:00]** PosiÅ‚ek: ser Å¼Ã³Å‚ty 35g *(WÄ™glowodany netto: 0 g, Kcal: 122 kcal, BiaÅ‚ko: 9.0 g)*
+
+* **Podsumowanie dnia:**
+  * **Suma wÄ™glowodanÃ³w netto:** 121.4 g
+  * **Suma kalorii:** 2469 kcal
+  * **Suma biaÅ‚ka:** 117.8 g
+  * **Okno posiÅ‚kÃ³w staÅ‚ych:** 09:45 â€“ 21:00 (rozpoczÄ™te znacznie przed staÅ‚ym oknem 13:00â€“21:00)
+  * **WpÅ‚yw na lipidogram:** **Bardzo zÅ‚y** â€“ przetworzone tÅ‚uszcze trans z gÅ‚Ä™bokiego smaÅ¼enia (KFC) poÅ‚Ä…czone z duÅ¼Ä… dawkÄ… wÄ™glowodanÃ³w prostych (frytki, gruszki) wywoÅ‚ujÄ… silny stres oksydacyjny i sprzyjajÄ… atariogenezie.
+  * **Ketoza:** NastÄ…piÅ‚o caÅ‚kowite wyÅ‚Ä…czenie stanu ketozy z powodu przyjÄ™cia ponad 120g wÄ™glowodanÃ³w netto; powrÃ³t do ketozy zajmie okoÅ‚o 24â€“48 godzin.
+  * **BiaÅ‚ko a sarkopenia:** PodaÅ¼ 117.8 g biaÅ‚ka (1.34 g/kg m.c.) prawidÅ‚owo zabezpiecza potrzeby organizmu pod kÄ…tem ochrony przed sarkopeniÄ….
+
+---
+
+### **05.11 Czwartek**
+
+* **[05:30]** CzynnoÅ›Ä‡: obudzenie, sympramol
+* **[06:15]** CzynnoÅ›Ä‡: wstanie, sÃ³l 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+* **[06:30]** PosiÅ‚ek/NapÃ³j: Å¼el z ugotowanego siemienia lnianego *(WÄ™glowodany netto: 0 g, Kcal: 50 kcal, BiaÅ‚ko: 2.0 g)*
+* **[06:45]** Kawa: kawa i 20g Å›mietanki 36% *(WÄ™glowodany netto: 0.6 g, Kcal: 68 kcal, BiaÅ‚ko: 0.5 g)*
+* **[09:00]** CzynnoÅ›Ä‡: Ä‡wiczenia na drabince - podciÄ…gniÄ™cia i dipy
+* **[09:30]** Kawa: kawa i 20g Å›mietanki 36% *(WÄ™glowodany netto: 0.6 g, Kcal: 68 kcal, BiaÅ‚ko: 0.5 g)*
+* **[10:30]** CzynnoÅ›Ä‡: sympramol
+
+*(Brak dalszych danych dotyczÄ…cych posiÅ‚kÃ³w po godzinie 10:30)*
+
+* **Podsumowanie dnia (do godziny 10:30):**
+  * **Suma wÄ™glowodanÃ³w netto:** 1.2 g
+  * **Suma kalorii:** 186 kcal
+  * **Suma biaÅ‚ka:** 3.0 g
+  * **Okno posiÅ‚kÃ³w staÅ‚ych:** Brak posiÅ‚kÃ³w staÅ‚ych w podanym przedziale czasowym (tylko napoje i siemiÄ™ lniane).
+  * **WpÅ‚yw na lipidogram:** **Neutralny** â€“ znikoma podaÅ¼ kalorii i tÅ‚uszczÃ³w w zarejestrowanej czÄ™Å›ci dnia.
+  * **Ketoza:** Wykonany trening oporowy na czczo przyspieszy spalanie glikogenu pochodzÄ…cego z nadmiaru wÄ™glowodanÃ³w z dnia poprzedniego i uÅ‚atwi szybki powrÃ³t do ketozy.
+  * **BiaÅ‚ko a sarkopenia:** Do godziny 10:30 podaÅ¼ biaÅ‚ka byÅ‚a symboliczna (3g), dlatego kluczowe jest dostarczenie odpowiedniej iloÅ›ci peÅ‚nowartoÅ›ciowego biaÅ‚ka w kolejnych posiÅ‚kach po treningu.
+========================================
+
