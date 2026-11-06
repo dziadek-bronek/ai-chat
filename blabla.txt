@@ -1,6 +1,11 @@
 05czw
 JL(0530); WSMP(0615); N(0630);
 F(0645); V(09); F(0930); L(1030);
+Z(11); GKDTC(11);
+& mięso 250g w odrobinie wywaru, oliwa 25g, olej rzepakowy tani 15g & (1130);
+L(1630); & ser camembert 120g, ser żółty 150g & (18);
+X(1830); & śledź w oleju puszka: ryba 100g, zalewa 50g  & (19);
+H(1930); & orzechy włoskie 50g, kefir 300g & (1930);
 
 04sr
 JL(0545); W(06); SMP(0615);
