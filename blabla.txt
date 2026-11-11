@@ -1,6 +1,10 @@
 11sr
 L(06); J(0945); W(1015); SMP(1030); N(1045); F(11); F(1115);
-L(12);
+L(12); Z(1330); RGKDC(14);
+& jajka L 3szt, oliwa 3 łyżki, ser żółty 100g & (14); F(15); ZL(1630);
+& tuńczyk w sosie własnym z puszki - ryba 55g, olej rzepakowy tani 20g, trochę cebuli, awokado 1szt & (1645);
+X(1730);
+& orzechy włoskie 50g, kefir 300g & (20);
 
 10wt
 JL(06);W(0615);F(07);F(0730);
