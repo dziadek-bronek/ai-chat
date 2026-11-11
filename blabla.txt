@@ -1,3 +1,38 @@
+11sr
+L(06); J(0945); W(1015); SMP(1030); N(1045); F(11); F(1115);
+L(12);
+
+10wt
+JL(06);W(0615);F(07);F(0730);
+& ser żółty 100g & (10); ZCLK(11);
+& wtorkowy kubełek kfc 11 kawałków & (1330); F(15); L(1730);
+& awokado 1szt & (19); X(2030);
+& orzechy włoskie 50g, kefir 300g & (21); H(21);
+
+09pn
+J(0730); WL(0745); F(0830); MP(0930); F(10); ZLV(1130); & ser żółty 110g, majonez 2 łyżeczki & (12); KD(1230); & gołąbki 1szt & (14); & orzechy włoskie 30g & (16);
+L(1730); X(1830); & kiełbasa select myśliwska 90g & (1930);  H(1930);
+
+08n
+L(0430); K(07); & paprykarz szczeciński z łososiem GRAAL 330g & (08); J(09); W(0930); F(0945); F(1015); V(11); L(1230);
+& jajka L 3szt & (1230);
+& makaron z łososiem 300g & (17);
+& kiełbasa select myśliwska 90 & (21); & orzechy włoskie 100g, śmietana 12% 200g & (23);
+
+07so
+J(0430); L(05); & pomiar ciśnienia 119/71/61 & (0515); W(06); SMP(0530); N(0645); F(07); Z(08);
+& mięso 100g, oliwa 20g, olej rzepakowy tani 10g, śmietana 36% 40g & (09); RGKC(90);
+& kiełbasa select myśliwska 180g & (17); L(17);  X(19); banany 2szt, orzechy włoskie 70g, kefir 300g (20); H(20); & jabłko & (21);
+
+06pt
+J(0615); LW(0630); SMP(0645);
+N(0715); F(0730); F(0930); L(1030);
+Z(1130);
+& mięso 230g, oliwa 20g, olej rzepakowy tani 10g, kawałek cebuli, gruszka 150g & (1230); GK(13);
+C(1530); & paprykarz szczeciński z łososiem GRAAL 330g & (16);
+L(1630); X(1730);& mięso 250g, kawałek cebuli & (19); H(19);
+& orzechy włoskie 50g, kefir 300g & (1930);
+
 05czw
 JL(0530); WSMP(0615); N(0630);
 F(0645); V(09); F(0930); L(1030);
