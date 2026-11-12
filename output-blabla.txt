@@ -1,3 +1,22 @@
+12cz
+[06:00] obudzenie
+[06:30] sympramol, wstanie
+[06:30] sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[06:45] żel z ugotowanego siemienia lnianego
+[07:00] kawa i 20g śmietanki 36%
+[08:30] kawa i 20g śmietanki 36%, cwiczenia na drabince - podciagniecia i dipy
+[10:00] schab chudy grillowany saute 370g (waga na surowo), oliwa z oliwek na zimno 30g
+[10:00] omega3, witamina K, witamina D, sympramol
+[13:00] lipa, mięta, rumianek, miód 11g
+[14:00] zakwas buraczany 130g
+[15:00] paprykarz szczeciński z łososiem GRAAL 330g
+[16:00] kiełbasa select myśliwska 45g, kakao proszek 10g, masło 6g
+[16:45] sympramol
+[17:00] kakao proszek 10g, masło 6g
+[17:30] deprexolet - mianseryna 10mg
+[19:00] melatonina 1mg
+[19:30] orzechy włoskie 50g, kefir 300g
+
 11sr
 [06:00] sympramol
 [09:45] obudzenie
@@ -14,7 +33,9 @@
 [16:30] zakwas buraczany 130g, sympramol
 [16:45] tuńczyk w sosie własnym z puszki - ryba 55g, olej rzepakowy tani 20g, trochę cebuli, awokado 1szt
 [17:30] deprexolet - mianseryna 10mg
-[20:00] orzechy włoskie 50g, kefir 300g
+[19:00] melatonina 1mg
+[19:00] orzechy włoskie 50g, kefir 300g
+[21:00] kiełbasa select myśliwska 90g
 
 10wt
 [06:00] obudzenie, sympramol
@@ -58,8 +79,8 @@
 [11:00] cwiczenia na drabince - podciagniecia i dipy
 [12:30] sympramol
 [12:30] jajka L 3szt
-[17:00] makaron z łososiem 300g
-[21:00] kiełbasa select myśliwska 90
+[17:00] makaron z łososiem 300g, rogalik domowy z rabarbarem
+[21:00] kiełbasa select myśliwska 90g
 [23:00] orzechy włoskie 100g, śmietana 12% 200g
 
 07so
@@ -76,6 +97,7 @@
 [17:00] kiełbasa select myśliwska 180g
 [17:00] sympramol
 [19:00] deprexolet - mianseryna 10mg
+[20:00] banany 2szt, orzechy włoskie 70g, kefir 300g
 [20:00] melatonina 1mg
 [21:00] jabłko
 

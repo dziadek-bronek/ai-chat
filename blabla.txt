@@ -1,10 +1,13 @@
+12cz
+J(06); LW(0630); SMP(0630); N(0645); F(07); FV(0830); & schab chudy grillowany saute 370g (waga na surowo), oliwa z oliwek na zimno 30g & (10); GKDL(10); & lipa, mięta, rumianek, miód 11g & (13); Z(14); & paprykarz szczeciński z łososiem GRAAL 330g & (15); & kiełbasa select myśliwska 45g, kakao proszek 10g, masło 6g & (16); L(1645);
+& kakao proszek 10g, masło 6g & (17); X(1730); H(19); & orzechy włoskie 50g, kefir 300g & (1930);
+
 11sr
 L(06); J(0945); W(1015); SMP(1030); N(1045); F(11); F(1115);
 L(12); Z(1330); RGKDC(14);
 & jajka L 3szt, oliwa 3 łyżki, ser żółty 100g & (14); F(15); ZL(1630);
-& tuńczyk w sosie własnym z puszki - ryba 55g, olej rzepakowy tani 20g, trochę cebuli, awokado 1szt & (1645);
-X(1730);
-& orzechy włoskie 50g, kefir 300g & (20);
+& tuńczyk w sosie własnym z puszki - ryba 55g, olej rzepakowy tani 20g, trochę cebuli, awokado 1szt & (1645); X(1730); H(19); & orzechy włoskie 50g, kefir 300g & (19);
+& kiełbasa select myśliwska 90g & (21);
 
 10wt
 JL(06);W(0615);F(07);F(0730);
@@ -20,13 +23,13 @@ L(1730); X(1830); & kiełbasa select myśliwska 90g & (1930);  H(1930);
 08n
 L(0430); K(07); & paprykarz szczeciński z łososiem GRAAL 330g & (08); J(09); W(0930); F(0945); F(1015); V(11); L(1230);
 & jajka L 3szt & (1230);
-& makaron z łososiem 300g & (17);
-& kiełbasa select myśliwska 90 & (21); & orzechy włoskie 100g, śmietana 12% 200g & (23);
+& makaron z łososiem 300g, rogalik domowy z rabarbarem & (17);
+& kiełbasa select myśliwska 90g & (21); & orzechy włoskie 100g, śmietana 12% 200g & (23);
 
 07so
 J(0430); L(05); & pomiar ciśnienia 119/71/61 & (0515); W(06); SMP(0530); N(0645); F(07); Z(08);
 & mięso 100g, oliwa 20g, olej rzepakowy tani 10g, śmietana 36% 40g & (09); RGKC(90);
-& kiełbasa select myśliwska 180g & (17); L(17);  X(19); banany 2szt, orzechy włoskie 70g, kefir 300g (20); H(20); & jabłko & (21);
+& kiełbasa select myśliwska 180g & (17); L(17);  X(19); & banany 2szt, orzechy włoskie 70g, kefir 300g & (20); H(20); & jabłko & (21);
 
 06pt
 J(0615); LW(0630); SMP(0645);
