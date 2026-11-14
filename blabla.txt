@@ -1,6 +1,16 @@
+14so
+L(06); J(08); W(0830); SMP(0845);
+N(09); F(0915); F(0930);
+
+13pt
+JL(06); W(07); SMP(07); N(0715);
+F(0730); F(0830); & 118/70, tętno 72 & (10); L(11); & śledź w oleju z puszki z zalewa zjedzony ryba 100g &(14); & biała kiełbasa 200g & (17);
+LCKD(1730); XZ(21);
+& ser camembert 120g, orzechy włoskie 50g, orzechy ziemne 30g, kefir 300g & (2130);
+
 12cz
-J(06); LW(0630); SMP(0630); N(0645); F(07); FV(0830); & schab chudy grillowany saute 370g (waga na surowo), oliwa z oliwek na zimno 30g & (10); GKDL(10); & lipa, mięta, rumianek, miód 11g & (13); Z(14); & paprykarz szczeciński z łososiem GRAAL 330g & (15); & kiełbasa select myśliwska 45g, kakao proszek 10g, masło 6g & (16); L(1645);
-& kakao proszek 10g, masło 6g & (17); X(1730); H(19); & orzechy włoskie 50g, kefir 300g & (1930);
+J(06); LW(0630); SMP(0630); N(0645); F(07); FV(0830); & schab chudy grillowany saute 370g (waga na surowo), oliwa z oliwek na zimno 30g & (10); GKDL(10); & lipa, mięta, rumianek, miód 11g & (13); Z(14); & paprykarz szczeciński z łososiem GRAAL 330g & (15); & kiełbasa select myśliwska 45g, kakao proszek 10g, masło 6g & (16); L(1645); & kakao proszek 10g, masło 6g & (17); X(1730); H(19);
+& orzechy włoskie 50g, kefir 300g & (1930); & ser żółty 70g & (2130);
 
 11sr
 L(06); J(0945); W(1015); SMP(1030); N(1045); F(11); F(1115);

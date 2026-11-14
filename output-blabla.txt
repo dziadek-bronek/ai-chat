@@ -1,3 +1,27 @@
+14so
+[06:00] sympramol
+[08:00] obudzenie
+[08:30] wstanie
+[08:45] sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[09:00] żel z ugotowanego siemienia lnianego
+[09:15] kawa i 20g śmietanki 36%
+[09:30] kawa i 20g śmietanki 36%
+
+13pt
+[06:00] obudzenie, sympramol
+[07:00] wstanie
+[07:00] sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[07:15] żel z ugotowanego siemienia lnianego
+[07:30] kawa i 20g śmietanki 36%
+[08:30] kawa i 20g śmietanki 36%
+[10:00] 118/70, tętno 72
+[11:00] sympramol
+[14:00] śledź w oleju z puszki z zalewa zjedzony ryba 100g
+[17:00] biała kiełbasa 200g
+[17:30] sympramol, witamina C, witamina K, witamina D
+[21:00] deprexolet - mianseryna 10mg, zakwas buraczany 130g
+[21:30] ser camembert 120g, orzechy włoskie 50g, orzechy ziemne 30g, kefir 300g
+
 12cz
 [06:00] obudzenie
 [06:30] sympramol, wstanie
@@ -16,6 +40,7 @@
 [17:30] deprexolet - mianseryna 10mg
 [19:00] melatonina 1mg
 [19:30] orzechy włoskie 50g, kefir 300g
+[21:30] ser żółty 70g
 
 11sr
 [06:00] sympramol
