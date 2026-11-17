@@ -9,7 +9,17 @@ from google import genai
 from google.genai import types
 from google.genai import errors as genai_errors
 
-BASE_DIR = '/home/dtstgseete/ai-chats/gemini/'
+
+# source .sh file
+# example:
+#     source my-env.sh
+# where my-env.sh content is:
+#     export AI_CHATS_GEMINI_DIR='/home/x/ai-chats/gemini/'
+#     export GEMINI_API_KEY='ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+
+
+
+BASE_DIR=os.environ.get("AI_CHATS_GEMINI_DIR")
 
 # Modele pomijane przy automatycznym wyborze (obrazy, audio, embeddingi itp.)
 EXCLUDE_KEYWORDS = ("image", "live", "tts", "audio", "embedding", "robotics",

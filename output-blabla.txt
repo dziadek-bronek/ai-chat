@@ -1,3 +1,32 @@
+16pn
+[06:30] obudzenie, sympramol
+[09:30] obudzenie
+[10:00] wstanie, sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[10:15] kawa i 20g śmietanki 36%
+[10:30] kawa i 20g śmietanki 36%
+[12:00] kawa i 20g śmietanki 36%
+[14:30] gotowany schab 300g, oliwa 50g
+[17:30] sympramol, witamina C
+[18:30] deprexolet - mianseryna 10mg, omega3
+[20:30] jajka L szt
+[21:00] melatonina 1mg
+[21:00] orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g
+
+15n
+[05:30] obudzenie, sympramol
+[06:45] wstanie
+[07:00] sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[07:15] żel z ugotowanego siemienia lnianego
+[07:30] kawa i 20g śmietanki 36%
+[08:00] kawa i 20g śmietanki 36%
+[10:00] sympramol
+[14:00] ser żółty 200g
+[18:00] makrela w oleju puszka - ryba 100g, zalewa 40g
+[16:30] sympramol
+[19:00] deprexolet - mianseryna 10mg
+[20:00] melatonina 1mg
+[20:30] orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g
+
 14so
 [06:00] sympramol
 [08:00] obudzenie
@@ -6,6 +35,17 @@
 [09:00] żel z ugotowanego siemienia lnianego
 [09:15] kawa i 20g śmietanki 36%
 [09:30] kawa i 20g śmietanki 36%
+[11:00] sympramol
+[12:30] zakwas buraczany 130g
+[13:00] schab gotowany 250g, wywar z gotowania schabu 50g, oliwa z oliwek 3łyżeczki
+[13:00] omega3, witamina D, witamina C
+[15:00] kakao proszek 20g, masło 12g
+[16:30] sympramol
+[17:00] pomiar ciśnienia krwi 121/75, tętno 75 (pół godziny po powrocie z lekkiego spaceru)
+[17:30] deprexolet - mianseryna 10mg
+[18:00] schab gotowany 180g, wywar z gotowania schabu 100g, oliwa z oliwek 40g
+[19:30] melatonina 1mg
+[20:00] orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g
 
 13pt
 [06:00] obudzenie, sympramol
