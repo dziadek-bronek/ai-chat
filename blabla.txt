@@ -1,3 +1,33 @@
+
+pn
+
+JL(0630); J(0930); WSMP(10);
+
+F(1015); F(1030); F(12); & gotowany schab 300g, oliwa 50g & (1430); 
+
+LC(1730); XG(1830); & jajka L szt & (2030); H(21); & orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g & (21);
+
+
+15n
+
+JL(0530); W(0645); SMP(07);
+
+N(0715); F(0730); F(08); L(10);
+
+& ser żółty 200g & (14); & makrela w oleju puszka - ryba 100g, zalewa 40g & (18); L(1630); X(19); H(20);
+
+& orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g & (2030);
+
+
+14so
+
+L(06); J(08); W(0830); SMP(0845);
+
+N(09); F(0915); F(0930); L(11); Z(1230); & schab gotowany 250g, wywar z gotowania schabu 50g, oliwa z oliwek 3łyżeczki & (13); GDC(13); & kakao proszek 20g, masło 12g & (15); L(1630); & pomiar ciśnienia krwi 121/75, tętno 75 (pół godziny po powrocie z lekkiego spaceru) & (17); X(1730); & schab gotowany 180g, wywar z gotowania schabu 100g, oliwa z oliwek 40g & (18); H(1930); & orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g & (20);
+
+
+
+
 14so
 L(06); J(08); W(0830); SMP(0845);
 N(09); F(0915); F(0930);
