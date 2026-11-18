@@ -141,7 +141,11 @@ def generate_with_fallback(client, candidates, start_model, contents):
     Modele, które już zawiodły w tej sesji, są pomijane. Zwraca (response, użyty_model).
     """
     order = [start_model] + [m for m in candidates if m != start_model]
-    order = [m for m in order if m not in failed_models or m == start_model][:MAX_ATTEMPTS]
+    order = order[:MAX_ATTEMPTS]
+    # order = [m for m in order if m not in failed_models or m == start_model][:MAX_ATTEMPTS]
+    if "gemini-3.5-flash-lite" not in order:
+        order.append("gemini-3.5-flash-lite")
+
     last_error = None
     for i, model in enumerate(order, 1):
         print(f"[{i}/{len(order)}] próba: {model} ...", flush=True)
@@ -193,7 +197,8 @@ except genai_errors.APIError as e:
     print(f"[!] Nie udało się pobrać listy modeli: {e}")
     candidates = []
 
-current_model = os.environ.get("GEMINI_MODEL") or (candidates[0] if candidates else "gemini-3.5-flash-lite")
+start_model = os.environ.get("GEMINI_MODEL") or (candidates[0] if candidates else "gemini-3.5-flash-lite")
+current_model = start_model
 print(f"[+] Model: {current_model}")
 if candidates:
     print("[+] Najlepsze wg rankingu: " + ", ".join(candidates[:6]))
@@ -224,8 +229,9 @@ while True:
         continue
 
     if cmd.startswith('model '):
-        current_model = user_input.strip().split(None, 1)[1].replace("models/", "")
-        print(f"[+] Model zmieniony na: {current_model}")
+        start_model = user_input.strip().split(None, 1)[1].replace("models/", "")
+        current_model = start_model
+        print(f"[+] Model zmieniony na: {start_model}")
         continue
 
     if cmd == 'f':
@@ -242,9 +248,9 @@ while True:
         parts=[types.Part.from_text(text=user_input)]
     ))
 
-    print(f"\nGemini ({current_model}) myśli...")
+    # print(f"\nGemini ({start_model}) myśli...")
     try:
-        response, used_model = generate_with_fallback(client, candidates, current_model, conv_state)
+        response, used_model = generate_with_fallback(client, candidates, start_model, conv_state)
     except KeyboardInterrupt:
         print("\n[!] Przerwano (Ctrl+C).")
         continue
@@ -253,8 +259,8 @@ while True:
         continue  # nic nie zapisujemy - tura użytkownika nie trafia do historii
 
     if used_model != current_model:
-        print(f"[+] Przełączono na działający model: {used_model}")
         current_model = used_model
+        print(f"[+] Przełączono na działający model: {used_model}")
 
     answer = response.text
     if not answer:
@@ -262,7 +268,7 @@ while True:
         answer = f"[System: Model zwrócił pustą odpowiedź. Powód: {reason}]"
 
     print("===========================================")
-    print(f"\nGemini:\n{answer}")
+    print(f"\nGemini({current_model})\n{answer}")
     print("===========================================")
 
     conv_state.append(types.Content(
