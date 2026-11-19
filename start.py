@@ -48,28 +48,33 @@ def prepare_chat_directory(folder_path):
     return True
 
 
-def save_conversation_history(filepath, conv_state):
-    raw_data_to_save = []
-    for message in conv_state:
-        text_parts = [part.text for part in message.parts if part.text]
-        raw_data_to_save.append({"role": message.role, "text": "".join(text_parts)})
+def save_conversation_history(filepath, conv_state, models_history):
+    data = []
+    for message, mdl in zip(conv_state, models_history):
+        txt = ''.join(p.text for p in message.parts if p.text)
+        item = {'role': message.role, 'text': txt}
+        if mdl:
+            item['model'] = mdl
+        data.append(item)
     with open(filepath, 'w', encoding='utf-8') as f:
-        json.dump(raw_data_to_save, f, ensure_ascii=False, indent=2)
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 
 def load_conversation_history(filepath):
     conv_state = []
+    models_history = []
     with open(filepath, 'r', encoding='utf-8') as f:
         try:
             raw_data = json.load(f)
         except json.JSONDecodeError:
-            return []
+            return [], []
     for item in raw_data:
         conv_state.append(types.Content(
             role=item["role"],
             parts=[types.Part.from_text(text=item["text"])]
         ))
-    return conv_state
+        models_history.append(item.get('model'))
+    return conv_state, models_history
 
 
 def read_input_source(folder_path='./'):
@@ -208,7 +213,7 @@ while True:
     latest_chat_file_name = get_latest_chat_file_by_name(chat_path)
     print(f'chat file to load conversation: {latest_chat_file_name}\n')
 
-    conv_state = [] if latest_chat_file_name is None else load_conversation_history(latest_chat_file_name)
+    conv_state, models_history = ([],[]) if latest_chat_file_name is None else load_conversation_history(latest_chat_file_name)
 
     user_input = input("\nTy: ")
     cmd = user_input.strip().lower()
@@ -247,6 +252,7 @@ while True:
         role="user",
         parts=[types.Part.from_text(text=user_input)]
     ))
+    models_history.append(None)
 
     # print(f"\nGemini ({start_model}) myśli...")
     try:
@@ -275,9 +281,10 @@ while True:
         role="model",
         parts=[types.Part.from_text(text=answer)]
     ))
+    models_history.append(current_model)
 
     timestamp = int(time.time())
     filepath = os.path.join(chat_path, f"chat-{timestamp}.json")
-    save_conversation_history(filepath, conv_state)
+    save_conversation_history(filepath, conv_state, models_history)
     print(f'saved to {filepath}\n')
     print("===========================================")
