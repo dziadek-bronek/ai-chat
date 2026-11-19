@@ -277,7 +277,7 @@ while True:
     ))
 
     timestamp = int(time.time())
-    filepath = os.path.join(chat_path, f"chat_{timestamp}.json")
+    filepath = os.path.join(chat_path, f"chat-{timestamp}.json")
     save_conversation_history(filepath, conv_state)
     print(f'saved to {filepath}\n')
     print("===========================================")
