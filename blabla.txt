@@ -1,3 +1,43 @@
+
+18sr
+
+J(06); L(0615); L(09); W(0930); SMP(0945); N(10); F(1015);F(1045);
+
+&  paprykarz (GRAAL z łososiem,  łosoś 28%, węglowodany 9%) 160g, jajka L 3szt, oliwa 3łyżeczki, paprykarz 160g, zakwas z ogórków 100g & (15); DCQ(16); & gotowany schab 260g, wywar 90g, oliwa z oliwek 40g, tani olej rzepakowy 10g & (17); L(17); X(18); H(1930); & orzechy włoskie 40g, orzechy ziemne 30g, kefir 300g & (21);
+
+
+
+17wt
+
+JL(06); W(0630); SMP(0645);
+
+N(07); F(0715); F(08); Z(10); L(11);
+
+F(12); & śledź w oleju puszka - ryba 100g, zalewa 50g & (13); L(17); C(18); H(21); & ser żółty 200g & (21); & orzechy włoskie 40g, orzechy ziemne 30g, kefir 300g & (21);
+
+
+16pn
+
+JL(0630); J(0930); WSMP(10);
+
+F(1015); F(1030); F(12); & gotowany schab 300g, oliwa 50g & (1430); 
+
+LC(1730); XG(1830); & jajka L szt & (2030); H(21); & orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g & (21);
+
+
+15n
+
+JL(0530); W(0645); SMP(07);
+
+N(0715); F(0730); F(08); L(10);
+
+& ser żółty 200g & (14); & makrela w oleju puszka - ryba 100g, zalewa 40g & (18); L(1630); X(19); H(20);
+
+& orzechy włoskie 40g, orzechy ziemne 40g, kefir 300g & (2030);
+
+
+
+
 18sr
 J(06); L(0615); L(09); W(0930); SMP(0945); N(10); 
 
