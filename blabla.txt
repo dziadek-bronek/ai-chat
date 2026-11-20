@@ -1,6 +1,6 @@
 20pt
 L(0530); J(09); W(0930); SMP(0930); F(0945); F(10); L(1130); & boczek 144,polędwica 120 & (15); QLKDC(1630);
-X(18);& fasola biała z puszki 130g, oliwa z oliwek 20g, olej tani rzepakowy 35g, sos słodko kwaśny 90g & (18) GH(20); & orczechy wloskie 40g, orzechy ziemne 30g, kefir 300g & (2030);
+X(18);& fasola biała z puszki 130g, oliwa z oliwek 20g, olej tani rzepakowy 35g, sos słodko kwaśny 90g & (18); GH(20); & orzechy wloskie 40g, orzechy ziemne 30g, kefir 300g & (2030);
 
 19czw
 JL(0745); W(0815); SMP(0830); F(0845); F(09); F(12); LQ(13); GKD(14); & gotowany schab 200g, wywar 50g, oliwa 25g, tani olej rzepakowy 25g &(1330); ZL(17);
