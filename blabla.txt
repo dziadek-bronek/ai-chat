@@ -1,4 +1,25 @@
+20pt
 
+L(0530); J(09); W(0930); SMP(0930); F(0945); F(10); L(1130); & boczek 144,polędwica 120 & (15); QLKDC(1630); 
+
+X(18);& fasola biała z puszki 130g, oliwa z oliwek 20g, olej tani rzepakowy 35g, sos słodko kwaśny 90g & (18) H(20); &40,30,300(2030); 
+
+
+
+19czw
+
+JL(0745); W(0815); SMP(0830); F(0845); F(09); F(12); LQ(13); GKD(14); & gotowany schab 200g, wywar 50g, oliwa 25g, tani olej rzepakowy 25g &(1330); ZL(17);
+
+& tuńczyk 55g, tani olej rzepakowy 40g & (18); X(1830); &  tani olej rzepakowy 20g, oliwa 20g, kupny sos słodko kwaśny 150g (100g produktu to 16g węglowodanów), fasola biała z puszki 130g (na 100g produktu węglowodany 13g), pół cebuli & (19); H(20); & orzechy włoskie 40g, kefir 150g, orzechy ziemne 30g & (20); 
+
+Ukryj cytowany tekst
+
+
+18sr
+
+J(06); L(0615); L(09); W(0930); SMP(0945); N(10); F(1015);F(1045);
+
+&  paprykarz (GRAAL z łososiem,  łosoś 28%, węglowodany 9%) 160g, jajka L 3szt, oliwa 3łyżeczki, paprykarz 160g, zakwas z ogórków 100g & (15); DCQ(16); & gotowany schab 260g, wywar 90g, oliwa z oliwek 40g, tani olej rzepakowy 10g & (17); L(17); X(18); H(1930); & orzechy włoskie 40g, orzechy ziemne 30g, kefir 300g & (21);
 18sr
 J(06); L(0615); L(09); W(0930); SMP(0945); N(10); F(1015);F(1045);
 &  paprykarz (GRAAL z łososiem,  łosoś 28%, węglowodany 9%) 160g, jajka L 3szt, oliwa 3łyżeczki, paprykarz 160g, zakwas z ogórków 100g & (15); DCQ(16); & gotowany schab 260g, wywar 90g, oliwa z oliwek 40g, tani olej rzepakowy 10g & (17); L(17); X(18); H(1930); & orzechy włoskie 40g, orzechy ziemne 30g, kefir 300g & (21);
