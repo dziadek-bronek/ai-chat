@@ -21,7 +21,8 @@ def formatuj_json_do_tekstu(sciezka_pliku, msg_to_skip):
             tresc = msg.get('text', '').strip()
             # Zamiana nazwy roli na czytelniejszą
             if rola == 'MODEL':
-                print(f"=== GEMINI ===")
+                model = msg.get('model', '')
+                print(f"=== GEMINI {model} ===")
                 print(tresc)
             # else:
                 # print("=" * 40)

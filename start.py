@@ -20,6 +20,7 @@ from google.genai import errors as genai_errors
 
 
 BASE_DIR=os.environ.get("AI_CHATS_GEMINI_DIR")
+MODELS_CONFIG_FILE = os.path.join("models.cfg") if BASE_DIR else "models.cfg"
 
 # Modele pomijane przy automatycznym wyborze (obrazy, audio, embeddingi itp.)
 EXCLUDE_KEYWORDS = ("image", "live", "tts", "audio", "embedding", "robotics",
@@ -133,6 +134,69 @@ def model_rank(name):
 def ranked_models(client):
     return sorted(list_text_models(client), key=model_rank, reverse=True)
 
+def save_models_to_cfg(candidates):
+    """Zapisuje listę modeli do pliku models.cfg jako czysty tekst (jeden na linię)."""
+    try:
+        with open(MODELS_CONFIG_FILE, 'w', encoding='utf-8') as f:
+            f.write("\n".join(candidates) + "\n")
+        print(f"[+] Zapisano listę modeli do pliku: {MODELS_CONFIG_FILE}")
+    except Exception as e:
+        print(f"[!] Nie udało się zapisać pliku {MODELS_CONFIG_FILE}: {e}")
+
+
+def load_models_from_cfg():
+    """Wczytuje listę modeli z pliku tekstowego models.cfg (pomija puste linie i komentarze #)."""
+    models = []
+    if os.path.exists(MODELS_CONFIG_FILE):
+        try:
+            with open(MODELS_CONFIG_FILE, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    if line and not line.startswith('#'):
+                        models.append(line)
+        except Exception as e:
+            print(f"[!] Błąd odczytu pliku {MODELS_CONFIG_FILE}: {e}")
+    return models
+
+
+def promote_model_in_cfg(model_name):
+    """Przenosi wybrany model na początek pliku models.cfg, usuwając jego ewentualne starsze wystąpienia."""
+    lines = []
+    if os.path.exists(MODELS_CONFIG_FILE):
+        try:
+            with open(MODELS_CONFIG_FILE, 'r', encoding='utf-8') as f:
+                lines = [line.rstrip('\n') for line in f]
+        except Exception as e:
+            print(f"[!] Błąd odczytu pliku {MODELS_CONFIG_FILE}: {e}")
+
+    # Usuwamy model_name ze wszystkich linii (jeśli tam był), ignorując puste i komentarze przy porównaniu
+    cleaned_lines = []
+    for line in lines:
+        stripped = line.strip()
+        if stripped == model_name or stripped == f"models/{model_name}":
+            continue # pomijamy, bo wrzucimy go na samą górę
+        cleaned_lines.append(line)
+
+    # Wstawiamy nowy model na samą górę jako aktywny
+    new_lines = [model_name] + cleaned_lines
+
+    try:
+        with open(MODELS_CONFIG_FILE, 'w', encoding='utf-8') as f:
+            f.write("\n".join(new_lines) + "\n")
+        print(f"[+] Zaktualizowano {MODELS_CONFIG_FILE}: model '{model_name}' trafił na początek.")
+    except Exception as e:
+        print(f"[!] Nie udało się zapisać pliku {MODELS_CONFIG_FILE}: {e}")
+
+def refresh_and_save_models(client):
+    """Pobiera świeżą listę z API i zapisuje do pliku."""
+    try:
+        candidates = ranked_models(client)
+        save_models_to_cfg(candidates)
+        return candidates
+    except genai_errors.APIError as e:
+        print(f"[!] Nie udało się pobrać listy modeli z API: {e}")
+        return []
+
 
 MAX_ATTEMPTS = 4          # ile modeli maksymalnie próbujemy na jedno pytanie
 REQUEST_TIMEOUT_MS = 90_000  # timeout pojedynczego zapytania (90 s)
@@ -147,7 +211,6 @@ def generate_with_fallback(client, candidates, start_model, contents):
     """
     order = [start_model] + [m for m in candidates if m != start_model]
     order = order[:MAX_ATTEMPTS]
-    # order = [m for m in order if m not in failed_models or m == start_model][:MAX_ATTEMPTS]
     if "gemini-3.5-flash-lite" not in order:
         order.append("gemini-3.5-flash-lite")
 
@@ -195,19 +258,14 @@ if not prepare_chat_directory(chat_path):
 # Klucz pobierany ze zmiennej środowiskowej (.bashrc)
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
-# Wybór modelu: GEMINI_MODEL z env, a jeśli go nie ma - najlepszy dostępny
-try:
-    candidates = ranked_models(client)
-except genai_errors.APIError as e:
-    print(f"[!] Nie udało się pobrać listy modeli: {e}")
-    candidates = []
+# Wstępny zapis domyślnej listy modeli do pliku, jeśli go nie ma
+if not os.path.exists(MODELS_CONFIG_FILE):
+    refresh_and_save_models(client)
 
-start_model = os.environ.get("GEMINI_MODEL") or (candidates[0] if candidates else "gemini-3.5-flash-lite")
-current_model = start_model
-print(f"[+] Model: {current_model}")
-if candidates:
-    print("[+] Najlepsze wg rankingu: " + ", ".join(candidates[:6]))
-print("[+] Komendy: 'models' (lista), 'model <nazwa>' (zmiana), 'f' (z input.txt), 'exit'")
+start_model = ''
+current_model = ''
+
+print("[+] Komendy: '%l' (lista z cfg), '%u' (update odśwież z API), '%m <nazwa>' (promocja modelu na pierwsze miejsce), '%f' (tekst z input.txt), 'exit'")
 
 while True:
     latest_chat_file_name = get_latest_chat_file_by_name(chat_path)
@@ -218,28 +276,50 @@ while True:
     user_input = input("\nTy: ")
     cmd = user_input.strip().lower()
 
+    # Zawsze ładujemy kandydatów z pliku na start pętli (uwzględnia edycję w VIM)
+    candidates = load_models_from_cfg()
+    if not candidates:
+        candidates = ["gemini-3.5-flash-lite"]
+    if candidates:
+        print("[+] kandydaci " + ", ".join(candidates[:6]))
+        
+    # Ustalamy start_model z pliku (lub zmiennej środowiskowej)
+    start_model = os.environ.get("GEMINI_MODEL") or candidates[0]
+    current_model = start_model
+
     if cmd == 'exit':
         print("[+] Zakończono sesję.")
         break
 
-    if cmd == 'models':
-        try:
-            candidates = ranked_models(client)
-        except genai_errors.APIError as e:
-            print(f"[!] Błąd listowania modeli: {e}")
-            continue
+    if cmd == '%l':
+        print("Aktualna lista modeli (z pliku models.cfg):")
+        for m in candidates:
+            print(f"  {'*' if m == current_model else ' '} {m}")
+        continue
+
+    if cmd == '%u':
+        # Pobieranie z API i nadpisywanie pliku models.cfg na żądanie użytkownika
+        candidates = refresh_and_save_models(client)
+        if not candidates:
+            # Fallback na plik gdyby API niedomagało
+            candidates = load_models_from_cfg()
+            
         print("Dostępne modele (od najlepszego wg heurystyki):")
         for m in candidates:
             print(f"  {'*' if m == current_model else ' '} {m}")
         continue
 
-    if cmd.startswith('model '):
-        start_model = user_input.strip().split(None, 1)[1].replace("models/", "")
-        current_model = start_model
-        print(f"[+] Model zmieniony na: {start_model}")
+    if cmd.startswith('%m '):
+        target_model = user_input.strip().split(None, 1)[1].replace("models/", "")
+        
+        # Modyfikujemy plik models.cfg zgodnie z wymaganiem
+        promote_model_in_cfg(target_model)
+        
+        # Ponieważ na początku kolejnej iteracji pętli (lub od razu tutaj) 
+        # plik jest czytany, model natychmiast stanie się startowym.
         continue
 
-    if cmd == 'f':
+    if cmd == '%f':
         print('czytanie z pliku\n')
         user_input = read_input_source()
         if user_input.strip() == '':
@@ -254,7 +334,10 @@ while True:
     ))
     models_history.append(None)
 
-    # print(f"\nGemini ({start_model}) myśli...")
+    # Pobieranie listy modeli z pliku lokalnego w pętli (zamiast z API)
+    if not candidates:
+        candidates = [start_model] # Awaryjnie
+
     try:
         response, used_model = generate_with_fallback(client, candidates, start_model, conv_state)
     except KeyboardInterrupt:
@@ -288,3 +371,4 @@ while True:
     save_conversation_history(filepath, conv_state, models_history)
     print(f'saved to {filepath}\n')
     print("===========================================")
+
