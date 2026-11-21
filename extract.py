@@ -1,7 +1,7 @@
 import re
 import os
 
-# Słownik z jednoznacznymi skrótami (Q = potas, P = sympramol)
+# Słownik z jednoznacznymi skrótami
 DICTIONARY = {
     "L": "sympramol",
     "J": "obudzenie",
@@ -25,6 +25,22 @@ DICTIONARY = {
     "B": "cynk selen kompleks witamin B"
 }
 
+def clean_multiline_amps(text):
+    """
+    Znajduje tekst pomiędzy znakami & ... &, usuwa z niego entery
+    i otaczające je białe znaki, zastępując je spacją.
+    """
+    def replace_match(match):
+        # Pobieramy zawartość wraz ze znakami &
+        content = match.group(0)
+        # Usuwamy entery i białe znaki bezpośrednio do nich przylegające, zastępując spacją
+        cleaned = re.sub(r'\s*\n\s*', ' ', content)
+        return cleaned
+
+    # Wzorzec szuka tekstu zaczynającego się od & i kończącego się na &
+    # Używamy flagi DOTALL, aby kropka pasowała też do znaków nowej linii
+    return re.sub(r'&[^&]*&', replace_match, text, flags=re.DOTALL)
+
 def decompress_diary_from_file(file_path):
     if not os.path.exists(file_path):
         print(f"Błąd: Nie znaleziono pliku '{file_path}'!")
@@ -33,51 +49,57 @@ def decompress_diary_from_file(file_path):
     output_lines = []
 
     with open(file_path, "r", encoding="utf-8") as file:
-        for line in file:
-            stripped = line.strip()
+        raw_text = file.read()
 
-            # 1. Puste linie zachowujemy bez zmian
-            if not stripped:
-                output_lines.append("")
-                continue
+    # KROK WSTĘPNY: Czyszczenie enterów pomiędzy znakami &
+    processed_text = clean_multiline_amps(raw_text)
 
-            # 2. Linie bez formatu godziny (komentarze, dni) przepisujemy dosłownie
-            if not re.search(r'\(\d{2,4}\)', stripped):
-                output_lines.append(stripped)
-                continue
+    # Analiza już bezpiecznego tekstu linia po linii
+    for line in processed_text.splitlines():
+        stripped = line.strip()
 
-            # 3. Wyciąganie poszczególnych chunków z danej linii
-            chunks = re.findall(r'[^;]+?\s*\(\s*\d{2,4}\s*\)\s*;', stripped)
+        # 1. Puste linie zachowujemy bez zmian
+        if not stripped:
+            output_lines.append("")
+            continue
 
-            for chunk in chunks:
-                match = re.match(r"([^;]+?)\s*\(\s*(\d{2,4})\s*\)\s*;", chunk.strip())
-                if match:
-                    body, time = match.groups()
-                    body = body.strip()
+        # 2. Linie bez formatu godziny (komentarze, dni) przepisujemy dosłownie
+        if not re.search(r'\(\d{2,4}\)', stripped):
+            output_lines.append(stripped)
+            continue
 
-                    # Formatowanie czasu (np. "09" -> "09:00", "0730" -> "07:30")
-                    if len(time) == 2:
-                        formatted_time = f"{time}:00"
-                    elif len(time) == 4:
-                        formatted_time = f"{time[:2]}:{time[2:]}"
-                    else:
-                        formatted_time = time
+        # 3. Wyciąganie poszczególnych chunków z danej linii
+        chunks = re.findall(r'[^;]+?\s*\(\s*\d{2,4}\s*\)\s*;', stripped)
 
-                    # Przypadek A: Tekst wewnątrz apostrofów
-                    if body.startswith("&") and body.endswith("&"):
-                        content = body[1:-1].strip()
+        for chunk in chunks:
+            match = re.match(r"([^;]+?)\s*\(\s*(\d{2,4})\s*\)\s*;", chunk.strip())
+            if match:
+                body, time = match.groups()
+                body = body.strip()
+
+                # Formatowanie czasu (np. "09" -> "09:00", "0730" -> "07:30")
+                if len(time) == 2:
+                    formatted_time = f"{time}:00"
+                elif len(time) == 4:
+                    formatted_time = f"{time[:2]}:{time[2:]}"
+                else:
+                    formatted_time = time
+
+                # Przypadek A: Tekst wewnątrz apostrofów (&...&)
+                if body.startswith("&") and body.endswith("&"):
+                    content = body[1:-1].strip()
+                    output_lines.append(f"[{formatted_time}] {content}")
+
+                # Przypadek B: Wyłącznie wielkie litery (skróty)
+                else:
+                    decoded_items = []
+                    for char in body:
+                        if char in DICTIONARY:
+                            decoded_items.append(DICTIONARY[char])
+
+                    if decoded_items:
+                        content = ", ".join(decoded_items)
                         output_lines.append(f"[{formatted_time}] {content}")
-
-                    # Przypadek B: Wyłącznie wielkie litery (skróty)
-                    else:
-                        decoded_items = []
-                        for char in body:
-                            if char in DICTIONARY:
-                                decoded_items.append(DICTIONARY[char])
-
-                        if decoded_items:
-                            content = ", ".join(decoded_items)
-                            output_lines.append(f"[{formatted_time}] {content}")
 
     return "\n".join(output_lines)
 
