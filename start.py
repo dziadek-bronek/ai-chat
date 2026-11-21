@@ -198,7 +198,7 @@ def refresh_and_save_models(client):
         return []
 
 
-MAX_ATTEMPTS = 4          # ile modeli maksymalnie próbujemy na jedno pytanie
+MAX_ATTEMPTS = 334          # ile modeli maksymalnie próbujemy na jedno pytanie
 REQUEST_TIMEOUT_MS = 90_000  # timeout pojedynczego zapytania (90 s)
 failed_models = {}        # model -> kod błędu, pomijane do końca sesji
 
