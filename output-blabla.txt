@@ -1,3 +1,19 @@
+21so
+[07:45] obudzenie, sympramol
+[08:00] wstanie
+[08:15] sól 1.8g w 250g wody, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[08:30] kawa i 20g śmietanki 36%
+[09:15] kawa i 20g śmietanki 36%
+[11:00] sympramol
+[14:00] jajka L 3szt, olej tani rzepakowy 3łyżki
+[16:30] sympramol, witamina B
+[18:00] watrobka drobiowa 80g, kapusta kiszona  80g, oliwa 20g, olej tani rzepakowy 30g, ćwiartka cebuli
+[18:00] deprexolet - mianseryna 10mg, witamina C
+[19:00] śledź wędzony 250g
+[19:00] witamina K
+[20:30] orzechy włoskie 40g, ziemne 30g, kefir 300g
+[20:30] melatonina 1mg
+
 20pt
 [05:30] sympramol
 [09:00] obudzenie
@@ -6,12 +22,12 @@
 [09:45] kawa i 20g śmietanki 36%
 [10:00] kawa i 20g śmietanki 36%
 [11:30] sympramol
-[15:00] boczek 144,polędwica 120
+[15:00] boczek 144g, polędwica 120g
 [16:30] witamina B, sympramol, witamina K, witamina D, witamina C
 [18:00] deprexolet - mianseryna 10mg
 [18:00] fasola biała z puszki 130g, oliwa z oliwek 20g, olej tani rzepakowy 35g, sos słodko kwaśny 90g
-[20:00] omega3, melatonina 1mg
-[20:30] orzechy wloskie 40g, orzechy ziemne 30g, kefir 300g
+[22:00] omega3, melatonina 1mg
+[22:30] orzechy włoskie 40g, orzechy ziemne 30g, kefir 300g
 
 19czw
 [07:45] obudzenie, sympramol
