@@ -3,6 +3,7 @@ import os
 import re
 import json
 import time
+import shutil
 from pathlib import Path
 
 from google import genai
@@ -19,8 +20,8 @@ from google.genai import errors as genai_errors
 
 
 
-BASE_DIR=os.environ.get("AI_CHATS_GEMINI_DIR")
-MODELS_CONFIG_FILE = os.path.join("models.cfg") if BASE_DIR else "models.cfg"
+AI_CHATS_GEMINI_DIR=os.environ.get("AI_CHATS_GEMINI_DIR")
+MODELS_CONFIG_FILE = "models.cfg"
 
 # Modele pomijane przy automatycznym wyborze (obrazy, audio, embeddingi itp.)
 EXCLUDE_KEYWORDS = ("image", "live", "tts", "audio", "embedding", "robotics",
@@ -29,12 +30,31 @@ EXCLUDE_KEYWORDS = ("image", "live", "tts", "audio", "embedding", "robotics",
 
 def get_latest_chat_file_by_name(folder_path):
     directory = Path(folder_path)
-    files = list(directory.glob("*.json"))
-    if not files:
+    if not directory.exists():
         return None
-    # Sortujemy leksykalnie na podstawie samej nazwy pliku
-    return str(max(files, key=lambda f: f.name))
 
+    # Regex wyjaśnienie:
+    # ^chat-      -> musi zaczynać się od "chat-"
+    # (\d+)       -> grupa przechwytująca: co najmniej jedna cyfra (i ŻADNYCH innych znaków!)
+    # \.json$     -> musi kończyć się kropką i rozszerzeniem "json"
+    pattern = re.compile(r"^chat-(\d+)\.json$")
+
+    valid_files = []
+    for file_path in directory.iterdir():
+        if file_path.is_file():
+            match = pattern.match(file_path.name)
+            if match:
+                # Wyciągamy ciąg cyfr jako liczbę całkowitą, żeby poprawnie sortować numerycznie
+                # (np. żeby chat-10.json był nowszy niż chat-9.json)
+                number = int(match.group(1))
+                valid_files.append((number, file_path))
+
+    if not valid_files:
+        return None
+
+    # Znajdujemy plik z największym numerem (najnowszy)
+    latest_file = max(valid_files, key=lambda x: x[0])[1]
+    return str(latest_file)
 
 def prepare_chat_directory(folder_path):
     if not os.path.exists(folder_path):
@@ -251,7 +271,7 @@ if len(sys.argv) != 2:
 chat_dir = sys.argv[1]
 print(f"Pobrany argument: {chat_dir}")
 
-chat_path = BASE_DIR + chat_dir + '/'
+chat_path = AI_CHATS_GEMINI_DIR + chat_dir + '/'
 if not prepare_chat_directory(chat_path):
     sys.exit()
 
@@ -281,8 +301,8 @@ while True:
     if not candidates:
         candidates = ["gemini-3.5-flash-lite"]
     if candidates:
-        print("[+] kandydaci " + ", ".join(candidates[:6]))
-        
+        print("[+] kandydaci " + ", ".join(candidates[:MAX_ATTEMPTS]))
+
     # Ustalamy start_model z pliku (lub zmiennej środowiskowej)
     start_model = os.environ.get("GEMINI_MODEL") or candidates[0]
     current_model = start_model
@@ -303,7 +323,7 @@ while True:
         if not candidates:
             # Fallback na plik gdyby API niedomagało
             candidates = load_models_from_cfg()
-            
+
         print("Dostępne modele (od najlepszego wg heurystyki):")
         for m in candidates:
             print(f"  {'*' if m == current_model else ' '} {m}")
@@ -311,11 +331,11 @@ while True:
 
     if cmd.startswith('%m '):
         target_model = user_input.strip().split(None, 1)[1].replace("models/", "")
-        
+
         # Modyfikujemy plik models.cfg zgodnie z wymaganiem
         promote_model_in_cfg(target_model)
-        
-        # Ponieważ na początku kolejnej iteracji pętli (lub od razu tutaj) 
+
+        # Ponieważ na początku kolejnej iteracji pętli (lub od razu tutaj)
         # plik jest czytany, model natychmiast stanie się startowym.
         continue
 
@@ -369,6 +389,10 @@ while True:
     timestamp = int(time.time())
     filepath = os.path.join(chat_path, f"chat-{timestamp}.json")
     save_conversation_history(filepath, conv_state, models_history)
-    print(f'saved to {filepath}\n')
-    print("===========================================")
+    print(f'saved to {filepath}')
 
+    # Tworzenie / nadpisywanie kopii pod stałą nazwą last-chat.json
+    last_chat_filepath = os.path.join(chat_path, "last-chat.json")
+    shutil.copyfile(filepath, last_chat_filepath)
+    print(f'copied to {last_chat_filepath}\n')
+    print("===========================================")
