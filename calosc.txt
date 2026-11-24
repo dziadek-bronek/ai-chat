@@ -1,7 +1,87 @@
 ========================================
 
-=== GEMINI gemini-3.5-flash ===
-Oto raport dla dnia 21 listopada, sporządzony ściśle według wytyczonych zasad:
+=== GEMINI gemini-3.6-flash ===
+Oto raport dla dnia 23 listopada, sporządzony ściśle według wytyczonych zasad:
+
+### 23 listopada, poniedziałek
+
+* **[05:30]** Obudzenie się
+* **[05:30]** Zażycie leku Sympramol
+* **[07:45]** Wstanie z łóżka
+* **[08:00]** Wypicie kawy z 20g śmietanki 36% (Węglowodany netto: 0.5g, Kilokalorie: 76 kcal, Białko: 0.5g)
+* **[08:15]** Wypicie kawy z 20g śmietanki 36% (Węglowodany netto: 0.5g, Kilokalorie: 76 kcal, Białko: 0.5g)
+* **[10:00]** Zażycie leku Sympramol, suplementacja: witamina C, witamina B, witamina K, witamina D oraz wypicie wody z cytrynianem magnezu (1.5g) i cytrynianem potasu (1.5g)
+* **[11:30]** Wypicie zakwasu buraczanego 130g
+* **[12:00]** Posiłek: śledź wędzony 200g (Węglowodany netto: 0.0g, Kilokalorie: 436 kcal, Białko: 42.0g)
+* **[16:30]** Zażycie leku Sympramol
+* **[17:00]** Posiłek: wątróbka drobiowa 90g, kapusta kiszona 90g, olej rzepakowy 30g, oliwa z oliwek 15g (Węglowodany netto: 1.9g, Kilokalorie: 523 kcal, Białko: 16.2g)
+* **[17:30]** Zażycie leku Deprexolet (mianseryna 10mg)
+* **[17:30]** Posiłek: schab gotowany 300g, sos słodko-kwaśny 100g, oliwa z oliwek 30g, olej rzepakowy 30g (Węglowodany netto: 16.0g, Kilokalorie: 1014 kcal, Białko: 63.5g)
+* **[18:30]** Posiłek: kefir domowy 300g (Węglowodany netto: 9.0g, Kilokalorie: 120 kcal, Białko: 9.9g)
+* **[20:30]** Zażycie melatoniny 1mg
+* **[20:30]** Posiłek: schab gotowany 50g, kefir domowy 300g (Węglowodany netto: 9.0g, Kilokalorie: 185 kcal, Białko: 20.4g)
+
+---
+
+### Podsumowanie dnia:
+* **Suma węglowodanów netto:** 36.9 g
+* **Suma kalorii:** 2430 kcal
+* **Suma białka:** 153.0 g
+
+* **Ocena wpływu na lipidogram:** Dobry
+  *Komentarz:* Obfitość kwasów omega-3 ze śledzia wędzonego oraz tłuszczów jednonienasyconych skutecznie równoważy obecność cukrów z sosu słodko-kwaśnego.
+* **Ketoza:** Dobowa podaż węglowodanów netto wynosząca ok. 37 g przy 3-miesięcznej adaptacji całkowicie podtrzymuje ciągłość ketozy bez ryzyka jej wyłączenia.
+* **Sarkopenia:** Bardzo wysoka podaż białka na poziomie 153 g (ok. 1.74 g/kg masy ciała) stanowi optymalną ochronę tkanki mięśniowej przed sarkopenią i doskonale wspiera jej regenerację.
+* **Okno czasowe posiłków stałych:** 12:00 – 20:30
+
+Czekam na dane dotyczące kolejnych dni.
+========================================
+
+========================================
+
+=== GEMINI gemini-3.6-flash ===
+Oto raport dla dnia 22 listopada, sporządzony ściśle według wytyczonych zasad:
+
+### 22 listopada, niedziela
+
+* **[06:30]** Obudzenie się
+* **[06:30]** Zażycie leku Sympramol
+* **[08:00]** Drzemka
+* **[09:00]** Obudzenie się
+* **[09:45]** Wstanie z łóżka
+* **[10:00]** Wypicie kawy z 20g śmietanki 36% (Węglowodany netto: 0.5g, Kilokalorie: 76 kcal, Białko: 0.5g)
+* **[10:15]** Wypicie kawy z 20g śmietanki 36% (Węglowodany netto: 0.5g, Kilokalorie: 76 kcal, Białko: 0.5g)
+* **[12:00]** Wypicie kawy z 20g śmietanki 36% (Węglowodany netto: 0.5g, Kilokalorie: 76 kcal, Białko: 0.5g)
+* **[14:00]** Wypicie zakwasu buraczanego 130g z cytrynianem magnezu (1.5g) i cytrynianem potasu (1.5g)
+* **[14:00]** Zażycie leku Sympramol oraz suplementacja: witamina C, witamina B, witamina D, witamina K, Omega-3, kreatyna
+* **[14:00]** Posiłek: schab gotowany 200g, wywar z gotowania 20g, oliwa z oliwek 20g, olej rzepakowy 30g (Węglowodany netto: 0.0g, Kilokalorie: 720 kcal, Białko: 42.0g)
+* **[16:00]** Aktywność fizyczna: ćwiczenia na drabince (podciągnięcia i dipy)
+* **[19:00]** Zażycie leku Sympramol
+* **[19:30]** Posiłek: fasola biała z puszki 120g (po odjęciu błonnika), sos słodko-kwaśny 70g, oliwa z oliwek 20g, olej rzepakowy 30g (Węglowodany netto: 17.7g, Kilokalorie: 590 kcal, Białko: 7.7g)
+* **[19:30]** Zażycie leku Deprexolet (mianseryna 10mg)
+* **[20:00]** Zażycie melatoniny 1mg
+* **[20:00]** Posiłek: orzechy włoskie 40g, orzechy ziemne 30g, kefir domowy 300g (Węglowodany netto: 15.2g, Kilokalorie: 555 kcal, Białko: 22.8g)
+
+---
+
+### Podsumowanie dnia:
+* **Suma węglowodanów netto:** 34.4 g
+* **Suma kalorii:** 2093 kcal
+* **Suma białka:** 74.0 g
+
+* **Ocena wpływu na lipidogram:** Dobry
+  *Komentarz:* Kontrolowana ilość węglowodanów w połączeniu ze zdrowymi tłuszczami oraz treningiem oporowym korzystnie stymuluje profil lipidowy.
+* **Ketoza:** Dobowa podaż węglowodanów netto na poziomie ok. 34 g przy obecności treningu siłowego w zupełności podtrzymuje stabilny stan ketonowej adaptacji.
+* **Sarkopenia:** Niska podaż białka (74 g, tj. ok. 0.84 g/kg masy ciała) mimo bodźca treningowego stanowi zbyt małą ilość do pełnego wsparcia obrotu białkowego i ochrony przed sarkopenią.
+* **Okno czasowe posiłków stałych:** 14:00 – 20:00
+
+Czekam na dane dotyczące kolejnych dni.
+========================================
+
+========================================
+
+=== GEMINI gemini-3.6-flash ===
+Oto raport dla dnia 21 listopada (uwzględniający poprawiony/ostateczny wpis z drugiego bloku danych), sporządzony ściśle według wytyczonych zasad:
 
 ### 21 listopada, sobota
 
@@ -12,27 +92,27 @@ Oto raport dla dnia 21 listopada, sporządzony ściśle według wytyczonych zasa
 * **[08:30]** Wypicie kawy z 20g śmietanki 36% (Węglowodany netto: 0.5g, Kilokalorie: 76 kcal, Białko: 0.5g)
 * **[09:15]** Wypicie kawy z 20g śmietanki 36% (Węglowodany netto: 0.5g, Kilokalorie: 76 kcal, Białko: 0.5g)
 * **[11:00]** Zażycie leku Sympramol
-* **[14:00]** Posiłek: jajka kurze klasy L 3 sztuki, olej rzepakowy 3 łyżki (Węglowodany netto: 1.1g, Kilokalorie: 480 kcal, Białko: 18.0g)
+* **[14:00]** Posiłek: jajka kurze klasy L 3 sztuki, olej rzepakowy 3 łyżki (30g) (Węglowodany netto: 1.0g, Kilokalorie: 484 kcal, Białko: 18.5g)
 * **[16:30]** Zażycie leku Sympramol oraz witaminy B
-* **[18:00]** Posiłek: wątróbka drobiowa 80g, kapusta kiszona 80g, oliwa z oliwek 20g, olej rzepakowy 30g, ćwiartka cebuli (Węglowodany netto: 2.9g, Kilokalorie: 556 kcal, Białko: 14.5g)
+* **[18:00]** Posiłek: wątróbka drobiowa 80g, kapusta kiszona 80g, olej rzepakowy 30g, oliwa z oliwek 20g, ćwiartka cebuli (25g) (Węglowodany netto: 2.7g, Kilokalorie: 572 kcal, Białko: 14.7g)
 * **[18:00]** Zażycie leku Deprexolet (mianseryna 10mg) oraz witaminy C
-* **[19:00]** Posiłek: śledź wędzony 250g (Węglowodany netto: 0.0g, Kilokalorie: 542 kcal, Białko: 52.5g)
-* **[19:00]** Suplementacja: witamina K
-* **[20:30]** Posiłek: orzechy włoskie 40g, orzechy ziemne 30g, kefir domowy 300g (Węglowodany netto: 15.4g, Kilokalorie: 582 kcal, Białko: 22.8g)
-* **[20:30]** Zażycie melatoniny 1mg
+* **[19:00]** Posiłek: śledź wędzony 250g (Węglowodany netto: 0.0g, Kilokalorie: 545 kcal, Białko: 52.5g)
+* **[19:00]** Zażycie witaminy K
+* **[21:30]** Zażycie melatoniny 1mg
+* **[21:30]** Posiłek: kefir domowy 600g (Węglowodany netto: 18.0g, Kilokalorie: 240 kcal, Białko: 19.8g)
 
 ---
 
 ### Podsumowanie dnia:
-* **Suma węglowodanów netto:** 20.4 g
-* **Suma kalorii:** 2312 kcal
-* **Suma białka:** 108.8 g
+* **Suma węglowodanów netto:** 22.7 g
+* **Suma kalorii:** 1993 kcal
+* **Suma białka:** 106.5 g
 
 * **Ocena wpływu na lipidogram:** Bardzo dobry
-  *Komentarz:* Obfitość kwasów tłuszczowych omega-3 ze śledzia wędzonego i podrobów w połączeniu ze zdrowymi tłuszczami oraz minimalną ilością węglowodanów doskonale wspiera profil lipidowy.
-* **Ketoza:** Niska podaż węglowodanów netto na poziomie ok. 20.4 g zapewnia stabilne utrzymanie głębokiej ketozy bez ryzyka jej zakłócenia.
-* **Sarkopenia:** Podaż białka przekraczająca 108 g (ponad 1.2 g/kg masy ciała) z produktów o wysokiej wartości biologicznej skutecznie zapobiega utracie masy mięśniowej.
-* **Okno czasowe posiłków stałych:** 14:00 – 20:30
+  *Komentarz:* Obfitość kwasów tłuszczowych omega-3 ze śledzia wędzonego oraz niski poziom węglowodanów i zdrowy dodatek kiszonki znakomicie wspierają profil lipidowy.
+* **Ketoza:** Niska podaż węglowodanów netto na poziomie ok. 23 g gwarantuje pełne utrzymanie i stabilność stanu ketozy bez jakichkolwiek zakłóceń.
+* **Sarkopenia:** Dobowa podaż białka przekraczająca 106 g (ok. 1.2 g/kg masy ciała) skutecznie stymuluje syntezę mięśniową i zabezpiecza przed sarkopenią.
+* **Okno czasowe posiłków stałych:** 14:00 – 21:30
 
 Czekam na dane dotyczące kolejnych dni.
 ========================================

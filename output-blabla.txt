@@ -1,3 +1,43 @@
+24
+[06:00] obudzenie, sympramol
+[07:30] drzemka
+[08:30] obudzenie
+[09:00] wstanie
+
+23pn
+[05:30] obudzenie, sympramol
+[07:45] wstanie
+[08:00] kawa i 20g śmietanki 36%
+[08:15] kawa i 20g śmietanki 36%
+[10:00] sympramol, witamina C, witamina B, witamina K, witamina D, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[11:30] zakwas buraczany 130g
+[12:00] śledź wędzony 200g
+[16:30] sympramol
+[17:00] wątróbka 90g, kiszona 90g, olej 30g, oliwa 15g
+[17:30] deprexolet - mianseryna 10mg
+[17:30] schab gotowany 300, oliwa 30, olej 30, sos słodko kwaśny 100
+[18:30] kefir 300g
+[20:30] melatonina 1mg
+[20:30] schab gotowany 50g, kefir 300g
+
+22n
+[06:30] obudzenie, sympramol
+[08:00] drzemka
+[09:00] obudzenie
+[09:45] wstanie
+[10:00] kawa i 20g śmietanki 36%
+[10:15] kawa i 20g śmietanki 36%
+[12:00] kawa i 20g śmietanki 36%
+[14:00] zakwas buraczany 130g, sympramol, witamina C, witamina B, cytrynian magnezu 1.5g w 40g wody, cytrynian potasu 1.5g w 40g wody
+[14:00] kreatyna, witamina D, witamina K, omega3
+[14:00] gotowany schab 200g, wywar 20g, oliwa 20g, olej 30g
+[16:00] cwiczenia na drabince - podciagniecia i dipy
+[19:00] sympramol
+[19:30] fasola biała z puszki 120g, sos słodko kwaśny ze słoika 70g, oliwa 20g, olej 30g
+[19:30] deprexolet - mianseryna 10mg
+[20:00] włoskie 40g, ziemne 30g, kefir 300g
+[20:00] melatonina 1mg
+
 21so
 [07:45] obudzenie, sympramol
 [08:00] wstanie
@@ -5,14 +45,14 @@
 [08:30] kawa i 20g śmietanki 36%
 [09:15] kawa i 20g śmietanki 36%
 [11:00] sympramol
-[14:00] jajka L 3szt, olej tani rzepakowy 3łyżki
+[14:00] jajka L 3szt, olej 3łyżki
 [16:30] sympramol, witamina B
-[18:00] watrobka drobiowa 80g, kapusta kiszona  80g, oliwa 20g, olej tani rzepakowy 30g, ćwiartka cebuli
+[18:00] watrobka 80g, kiszona  80g, olej 30g, oliwa 20g, ćwiartka cebuli
 [18:00] deprexolet - mianseryna 10mg, witamina C
-[19:00] śledź wędzony 250g
+[19:00] śledź wędzony 250
 [19:00] witamina K
-[20:30] orzechy włoskie 40g, ziemne 30g, kefir 300g
-[20:30] melatonina 1mg
+[21:30] melatonina 1mg
+[21:30] kefir 600g
 
 20pt
 [05:30] sympramol

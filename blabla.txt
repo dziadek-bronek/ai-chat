@@ -1,7 +1,25 @@
+24
+JL(06); & drzemka & (0730); J(0830); W(09);
+
+23pn
+JL(0530); W(0745); F(08); F(0815);
+LCQKDMP(10); Z(1130); & śledź wędzony 200g & (12); L(1630);
+& wątróbka 90g, kiszona 90g, olej 30g, oliwa 15g & (17); X(1730);
+& schab gotowany 300, oliwa 30, olej 30, sos słodko kwaśny 100 & (1730); &
+kefir 300g & (1830); H(2030); & schab gotowany 50g, kefir 300g & (2030);
+
+22n
+JL(0630); & drzemka & (08); J(09);
+W(0945); F(10); F(1015); F(12); ZLCQMP(14); RDKG(14); & gotowany schab
+200g, wywar 20g, oliwa 20g, olej 30g & (14); V(16); L(19); & fasola biała z
+puszki 120g, sos słodko kwaśny ze słoika 70g, oliwa 20g, olej 30g & (1930);
+X(1930); & włoskie 40g, ziemne 30g, kefir 300g & (20); H(20);
+
 21so
-JL(0745); W(08); SMP(0815); F(0830); F(0915); L(11); & jajka L 3szt, olej tani rzepakowy 3łyżki & (14); LQ(1630);
-& watrobka drobiowa 80g, kapusta kiszona  80g, oliwa 20g, olej tani rzepakowy 30g, ćwiartka cebuli & (18); XC(18);
-& śledź wędzony 250g & (19); K(19); & orzechy włoskie 40g, ziemne 30g, kefir 300g & (2030); H(2030);
+JL(0745); W(08); SMP(0815); F(0830); F(0915); L(11); & jajka L 3szt, olej
+3łyżki & (14); LQ(1630);
+& watrobka 80g, kiszona  80g, olej 30g, oliwa 20g, ćwiartka cebuli & (18);
+XC(18); & śledź wędzony 250 & (19); K(19); H(2130); & kefir 600g & (2130);
 
 20pt
 L(0530); J(09); W(0930); SMP(0930); F(0945); F(10); L(1130); & boczek 144g, polędwica 120g & (15); QLKDC(1630);
