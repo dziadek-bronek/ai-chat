@@ -20,7 +20,7 @@ from google.genai import errors as genai_errors
 
 
 
-AI_CHATS_GEMINI_DIR=os.environ.get("AI_CHATS_GEMINI_DIR")
+AI_CHATS_GEMINI_DIR = os.environ.get("AI_CHATS_GEMINI_DIR")
 MODELS_CONFIG_FILE = "models.cfg"
 
 # Modele pomijane przy automatycznym wyborze (obrazy, audio, embeddingi itp.)
@@ -172,7 +172,7 @@ def load_models_from_cfg():
             with open(MODELS_CONFIG_FILE, 'r', encoding='utf-8') as f:
                 for line in f:
                     line = line.strip()
-                    if line and not line.startswith('#'):
+                    if line and not line.startswith('#') and not line.startswith('%'):
                         models.append(line)
         except Exception as e:
             print(f"[!] Błąd odczytu pliku {MODELS_CONFIG_FILE}: {e}")
@@ -285,7 +285,7 @@ if not os.path.exists(MODELS_CONFIG_FILE):
 start_model = ''
 current_model = ''
 
-print("[+] Komendy: '%l' (lista z cfg), '%u' (update odśwież z API), '%m <nazwa>' (promocja modelu na pierwsze miejsce), '%f' (tekst z input.txt), 'exit'")
+print("[+] Komendy: '%l' (lista z cfg), '%u' (update odśwież z API), '%m <nazwa>' (promocja modelu na pierwsze miejsce), '%i' (tekst z input.txt), 'exit'")
 
 while True:
     latest_chat_file_name = get_latest_chat_file_by_name(chat_path)
@@ -339,7 +339,7 @@ while True:
         # plik jest czytany, model natychmiast stanie się startowym.
         continue
 
-    if cmd == '%f':
+    if cmd == '%i':
         print('czytanie z pliku\n')
         user_input = read_input_source()
         if user_input.strip() == '':
@@ -391,8 +391,8 @@ while True:
     save_conversation_history(filepath, conv_state, models_history)
     print(f'saved to {filepath}')
 
-    # Tworzenie / nadpisywanie kopii pod stałą nazwą last-chat.json
-    last_chat_filepath = os.path.join(chat_path, "last-chat.json")
+    # Tworzenie / nadpisywanie kopii pod stałą nazwą chat-0.json
+    last_chat_filepath = os.path.join(chat_path, "chat-0.json")
     shutil.copyfile(filepath, last_chat_filepath)
     print(f'copied to {last_chat_filepath}\n')
     print("===========================================")
