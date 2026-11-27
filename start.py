@@ -391,8 +391,8 @@ while True:
     save_conversation_history(filepath, conv_state, models_history)
     print(f'saved to {filepath}')
 
-    # Tworzenie / nadpisywanie kopii pod stałą nazwą last-chat.json
-    last_chat_filepath = os.path.join(chat_path, "last-chat.json")
+    # Tworzenie / nadpisywanie kopii pod stałą nazwą chat-0.json
+    last_chat_filepath = os.path.join(chat_path, "chat-0.json")
     shutil.copyfile(filepath, last_chat_filepath)
     print(f'copied to {last_chat_filepath}\n')
     print("===========================================")
